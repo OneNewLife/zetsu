@@ -28,7 +28,7 @@ Vue 的核心是一个响应的数据绑定系统，它让数据与 DOM 保持�
 
 实际上，一个典型的用 Vue 构建的大型应用将形成一个组件树。来看看使用了组件的应用模板是什么样的：
 
-{% highlight html %}
+``` html
 <div id="app">
   <app-nav></app-nav>
   <app-view>
@@ -36,7 +36,7 @@ Vue 的核心是一个响应的数据绑定系统，它让数据与 DOM 保持�
     <app-content></app-content>
   </app-view>
 </div>
-{% endhighlight %}
+```
 
 你可能已经注意到 Vue 组件非常类似于自定义元素——`Web Component` 规范的一部分。实际上 Vue 的组件语法参考了该规范。例如 Vue 组件实现了 `Slot API` 和 `is` 特性。但是，有 2 个关键点不一样：
 
@@ -47,5 +47,5 @@ Vue 的核心是一个响应的数据绑定系统，它让数据与 DOM 保持�
 
 [vue]: https://vuejs.org/
 [evan_you]: https://github.com/yyx990803
-[data_binding]: ../images/2016.4.12/data_binding.jpg
-[component_tree]: ../images/2016.4.12/component_tree.jpg
+[data_binding]: https://v1.vuejs.org/images/mvvm.png
+[component_tree]: https://cn.vuejs.org/images/components.png

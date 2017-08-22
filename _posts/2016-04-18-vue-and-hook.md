@@ -8,7 +8,7 @@ date:   2016-04-18 23:00:00
 
 这里说的“钩”是指 Vue 的生命周期钩子。Vue 实例在创建的时候会有一系列初始化的步骤——建立数据观察、编译模板、创建必要的数据绑定等等。在实例创建的过程中会触发一些生命周期钩子，让自定义的逻辑可以运行。例如 `created` 钩子会在实例创建之后调用：
 
-{% highlight javascript %}
+``` javascript
 var vm = new vue({
   data: {
     obj: 'Tay',
@@ -19,7 +19,7 @@ var vm = new vue({
 })
 
 // Mars loves Tay
-{% endhighlight %}
+```
 
 Vue 还有其它钩子，它们会在实例生命周期的不同阶段调用。Vue 的生命周期如下：
 
@@ -53,4 +53,4 @@ Windows 并不要求钩子子程的卸载顺序一定得和安装顺序相反。
 
 钩子让复杂的消息传播成为了可能，它让多方消息传播得以稳定进行，并保证了通信平台的稳定性。Evan You 确实慧中秀外，期待 Vue 的演 进，也期待更多的精品。
 
-[lifecycle]: ../images/2016.4.18/lifecycle.jpg
+[lifecycle]: https://v1.vuejs.org/images/lifecycle.png

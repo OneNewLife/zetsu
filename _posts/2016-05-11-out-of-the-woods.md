@@ -26,5 +26,5 @@ date:   2016-05-11 23:00:00
 ![Out of the Woods][out_of_the_woods]
 
 [zen]: https://book.douban.com/subject/6811366/
-[zen_front]: ../images/2016.5.11/zen.jpg
-[out_of_the_woods]: ../images/2016.5.11/out_of_the_woods.jpg
+[zen_front]: http://tvvomomo.github.io/images/zen.jpeg
+[out_of_the_woods]: https://upload.wikimedia.org/wikipedia/en/f/f1/Taylor_Swift_-_Out_of_the_Woods.png

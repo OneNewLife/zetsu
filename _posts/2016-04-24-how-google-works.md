@@ -72,4 +72,4 @@ Google 也许是这个地球上唯一一家将这个原则进行到底的公司�
 
 正如拉里所说：“我衷心希望你能汲取这些想法，向不可能发出挑战！”如果你想创业，那么就去创造一家公司来造福人类；如果你有想法，那么就应该从此刻开始付诸行动。
 
-[how_google_works]: ../images/2016.4.24/how_google_works.jpg
+[how_google_works]: http://img.chinazhaokao.com/uploadfile/2015/1005/20151005022705921.jpg

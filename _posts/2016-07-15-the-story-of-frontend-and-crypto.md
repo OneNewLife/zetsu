@@ -108,7 +108,7 @@ date:   2016-07-15 23:00:00
 
 把玩她是如此的 easy，先来上一点前戏：
 
-{% highlight javascript %}
+``` javascript
 const crypto = require('crypto');
 
 const pwd = 'tay1989';
@@ -116,7 +116,7 @@ const hash = crypto.createHmac('sha256', pwd)
                .update('Mars loves Tay')
                .digest('hex');
 console.log(hash); // 3d9d297c2c451676b697ae3dc5eaf2929596ef8e03e94dc668ace21c2d68a236
-{% endhighlight %}
+```
 
 短短三两下的前戏，我们就用 `Hmac` 算法创建了一个密钥，是不是瞬间欲罢不能了，那就继续体验她的各种花式吧。
 
@@ -132,7 +132,7 @@ console.log(hash); // 3d9d297c2c451676b697ae3dc5eaf2929596ef8e03e94dc668ace21c2d
 
 * 作为一个读写流来使用，未加密的数据在流中经过加密产生加密的数据在可读的一端
 
-{% highlight javascript %}
+``` javascript
 // 将 Cipher 作为流来使用
 const crypto = require('crypto');
 
@@ -150,9 +150,9 @@ cipher.on('end', () => {
 
 cipher.write('Mars loves Tay');
 cipher.end(); // a04be3610f210ac8f87db28489016ecb
-{% endhighlight %}
+```
 
-{% highlight javascript %}
+``` javascript
 // 将 Cipher 作为管道流来使用
 const crypto = require('crypto');
 const fs = require('fs');
@@ -162,11 +162,11 @@ const input = fs.createReadStream('test.js');
 const output = fs.createWriteStream('test.enc');
 
 input.pipe(cipher).pipe(output);
-{% endhighlight %}
+```
 
 * 或者通过使用 `cipher.update()` 和 `cipher.final()` 方法来生成加密数据
 
-{% highlight javascript %}
+``` javascript
 const crypto = require('crypto');
 
 const cipher = crypto.createCipher('aes192', 'tay1989');
@@ -174,7 +174,7 @@ let encrypted = cipher.update('Mars loves Tay', 'utf8', 'hex');
 
 encrypted += cipher.final('hex');
 console.log(encrypted); // a04be3610f210ac8f87db28489016ecb
-{% endhighlight %}
+```
 
 ##### Class:Decipher
 
@@ -182,7 +182,7 @@ console.log(encrypted); // a04be3610f210ac8f87db28489016ecb
 
 * 通过流来使用
 
-{% highlight javascript %}
+``` javascript
 // 将 Decipher 作为流来使用
 const crypto = require('crypto');
 
@@ -201,9 +201,9 @@ decipher.on('end', () => {
 
 decipher.write(encrypted, 'hex');
 decipher.end(); // Mars loves Tay
-{% endhighlight %}
+```
 
-{% highlight javascript %}
+``` javascript
 const crypto = require('crypto');
 const fs = require('fs');
 
@@ -212,11 +212,11 @@ const input = fs.createReadStream('test.enc');
 const output = fs.createWriteStream('test.js');
 
 input.pipe(decipher).pipe(output);
-{% endhighlight %}
+```
 
 * 通过 `decipher.update()` 和 `decipher.final()` 来使用
 
-{% highlight javascript %}
+``` javascript
 const crypto = require('crypto');
 
 const decipher = crypto.createDecipher('aes192', 'tay1989');
@@ -225,7 +225,7 @@ let decrypted = decipher.update(encrypted, 'hex', 'utf8');
 
 decrypted += decipher.final('utf8');
 console.log(decrypted); // Mars loves Tay
-{% endhighlight %}
+```
 
 ##### Class:DiffieHellman
 
@@ -233,7 +233,7 @@ console.log(decrypted); // Mars loves Tay
 
 这里不再有流了：
 
-{% highlight javascript %}
+``` javascript
 const crypto = require('crypto');
 const assert = require('assert');
 
@@ -251,7 +251,7 @@ const mars_secret = mars.computerSecret(tay_key);
 
 // 剧终
 assert.equal(tay_secret.toString('hex'), mars_secret.toString('hex'));
-{% endhighlight %}
+```
 
 ##### Class:Sign
 
@@ -259,7 +259,7 @@ assert.equal(tay_secret.toString('hex'), mars_secret.toString('hex'));
 
 * 通过流来使用
 
-{% highlight javascript %}
+``` javascript
 const crypto = require('crypto');
 
 const sign = crypto.createSign('RSA-SHA256');
@@ -269,11 +269,11 @@ sign.write('Mars loves Tay');
 sign.end();
 
 console.log(sign.sign(private_key, 'hex'));
-{% endhighlight %}
+```
 
 * 通过 `sign.update()` 和 `sign.sign()` 的方法来使用
 
-{% highlight javascript %}
+``` javascript
 const crypto = require('crypto');
 
 const sign = crypto.createSign('RSA-SHA256');
@@ -282,7 +282,7 @@ const private_key = getPrivateKeySomehow();
 sign.update('Mars loves Tay');
 
 console.log(sign.sign(private_key, 'hex'));
-{% endhighlight %}
+```
 
 诸如这些算法还有 N 多个，都大同小异。
 

@@ -25,5 +25,5 @@ Github Steak 41 天终止了 〒_〒。
 
 此刻的我也在风中，不知道这股风何时静止，但是我会努力生存下去。
 
-[1989]: ../images/2016.4.15/1989.jpg
-[wind_rises]: ../images/2016.4.15/wind_rises.jpg
+[1989]: http://celebmix.com/wp-content/uploads/2015/12/review-taylor-swifts-the-1989-world-tour-live-01.jpg
+[wind_rises]: http://www.desktx.com/d/file/wallpaper/comic/20161116/df59b960fba09e2819235642b0dd027b.jpg
