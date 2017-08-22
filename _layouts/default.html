@@ -1,0 +1,27 @@
+---
+layout: compress
+---
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    {% include head.html %}
+  </head>
+  <body class="{{ page.slug }}">
+    <main class="main">
+      {% include header.html %}
+      {{ content }}
+      {% include footer.html %}
+    </main>
+    <script src="/js/typed.min.js"></script>
+    <script>
+      window.onload = function () {
+        new Typed('#motto', {
+          strings: ['起风了，唯有努力生存'],
+          contentType: 'html',
+          typeSpeed: 100,
+          showCursor: false
+        });
+      }
+    </script>
+  </body>
+</html>

@@ -1,0 +1,25 @@
+title: Mars Blog
+email: marswong618@gmail.com
+description: A hacker's life
+motto: Le vent se lève, il faut tenter de vivre
+baseurl: ""
+url: "https://blog.marswong.me"
+
+author:
+  name: 'Mars Wong'
+  email: marswong618@gmail.com
+  url: https://blog.marswong.me
+  facebook: https://www.facebook.com/marswong618
+  twitter: https://twitter.com/marswong618
+  github: https://github.com/marswong
+
+paginate: 3
+comments: false
+paginate_path: "/page/:num"
+
+sass:
+  style: :compressed
+  sass_dir: _sass
+
+markdown  : kramdown
+permalink : /:title/

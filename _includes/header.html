@@ -1,0 +1,41 @@
+<header class="header">
+
+  <div class="overlay">
+
+    <div style="padding: 0 1em;">
+
+      <h1 class="title">
+        <a href="{{ site.baseurl }}/">{{ site.title }}</a>
+      </h1>
+
+      <nav class="navbar">
+        <a href="#" class="menu-icon">
+          <span></span>
+          <span></span>
+          <span></span>
+        </a>
+
+        <ul class="nav">
+          <li><a href="/">Home</a></li>
+          {% for page in site.pages %}
+            {% if page.title and page.title != 'Home' %}
+            <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+            {% endif %}
+          {% endfor %}
+          <li><a href="/feed.xml">RSS</a></li>
+        </ul>
+      </nav>
+    </div>
+
+    {% if page.slug == 'home' %}
+      <h2 class="txt-center">
+        {{ site.motto }}
+        <br>
+        <br>
+        <translation id="motto"></translation>
+      </h2>
+    {% endif %}
+
+  </div>
+
+</header>
