@@ -21,5 +21,10 @@ sass:
   style: :compressed
   sass_dir: _sass
 
-markdown  : kramdown
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
 permalink : /:title/
