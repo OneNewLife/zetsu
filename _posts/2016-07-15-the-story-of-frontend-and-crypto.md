@@ -6,15 +6,15 @@ date:   2016-07-15 23:00:00
 
 > 不知不觉都两个月没写东西了，总感觉成长路上少了点什么，但是又说不出来，直到前天我错失了大好良机才后悔莫及，从今开始要经常鞭策自己去多总结，多深度挖掘才行，机会是不会再等人的。
 
-向来很少关注前端安全，最近学习到 `Node` 的 `Crypto` 模块，于是趁此良机好好挖掘一番。
+向来很少关注前端安全，最近学习到 Node 的 Crypto 模块，于是趁此良机好好挖掘一番。
 
-如果经过一番资料收集的话，你会发现 `Crypto` 已经不知不觉地加入了 Web API 的大家庭，真是润物细无声啊。至于 `window.crypto` 和 `global.crypto` 这对双胞胎谁是老大谁是老幺已经不重要了，反正现在都是前端的菜，我们只关注她们俩和前端的情事嘿嘿。
+如果经过一番资料收集的话，你会发现 Crypto 已经不知不觉地加入了 Web API 的大家庭，真是润物细无声啊。至于 `window.crypto` 和 `global.crypto` 这对双胞胎谁是老大谁是老幺已经不重要了，反正现在都是前端的菜，我们只关注她们俩和前端的情事嘿嘿。
 
 ### window.crypto（Web Crypto API）
 
 这货看起来身材平平，浑身上下貌似没有多少可挖掘的地方，不过却内涵十足，细细品味后别有一番滋味在心头。
 
-首先要注意的是 `Web Crypto API` 依然是一个实验性的 API，也就是说这也算得上是最前瞻的 Web 技术了，玩转 `Crypto`，你就是一个前端弄潮儿嘿嘿。
+首先要注意的是 `Web Crypto API` 依然是一个实验性的 API，也就是说这也算得上是最前瞻的 Web 技术了，玩转 Crypto，你就是一个前端弄潮儿嘿嘿。
 
 `Web Crypto API` 是一个让脚本使用密码学原理来构建系统的一个接口。 她的一个基础特性就是允许 Javascript 来操纵和存储上层的私钥（没有二进制位）。她允许 Javascript 访问以下原语：
 
@@ -124,7 +124,7 @@ console.log(hash); // 3d9d297c2c451676b697ae3dc5eaf2929596ef8e03e94dc668ace21c2d
 
 `SPKAC` 最初是由 `Netscape` 实现的一个证书签名请求机制，目前正式指定为 HTML5 keygen 元素的一部分。
 
-`crypto` 模块提供了一个 `Certificate` 类来处理 `SPKAC` 数据。最常见的用法就是处理 HTML5 keygen 元素生成的数据。为了实现这个类，`Node` 在内部使用了 [OpenSSL’s SPKAC implementation][spkac]。
+Crypto 模块提供了一个 `Certificate` 类来处理 `SPKAC` 数据。最常见的用法就是处理 HTML5 keygen 元素生成的数据。为了实现这个类，Node 在内部使用了 [OpenSSL’s SPKAC implementation][spkac]。
 
 ##### Class:Cipher
 
@@ -286,6 +286,6 @@ console.log(sign.sign(private_key, 'hex'));
 
 诸如这些算法还有 N 多个，都大同小异。
 
-前端和 `Crypto` 的情事就此画上句号了。或许光是看这些 API 很无趣，不过如果有心去研究当中的原理，还是可以保持新鲜感的。当中大多算法都是精品，如果再深度开发，则又是一大片世外桃源。
+前端和 Crypto 的情事就此画上句号了。或许光是看这些 API 很无趣，不过如果有心去研究当中的原理，还是可以保持新鲜感的。当中大多算法都是精品，如果再深度开发，则又是一大片世外桃源。
 
 [spkac]: https://www.openssl.org/docs/man1.0.2/apps/spkac.html

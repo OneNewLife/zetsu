@@ -10,7 +10,7 @@ date:   2016-04-09 23:00:00
 
 ### 安装工具
 
-建议大家所有的开发工具都用官网原版的，上 JetBrains [官网][jetbrains]去下载一个最新的 WebStorm 吧，现在最新版是 2016.1，已经支持 `Angular 2` 和 `TypeScript`。如果资金充裕的的话，建议还是购买正版吧，否则可以通过 [License Server][register_server] 来激活（感谢 InteliJ IDEA [开源社区][idea_community]）。
+建议大家所有的开发工具都用官网原版的，上 JetBrains [官网][jetbrains]去下载一个最新的 WebStorm 吧，现在最新版是 2016.1，已经支持 Angular 2 和 TypeScript。如果资金充裕的的话，建议还是购买正版吧，否则可以通过 [License Server][register_server] 来激活（感谢 InteliJ IDEA [开源社区][idea_community]）。
 
 ![Activation][activation]
 
@@ -18,7 +18,7 @@ date:   2016-04-09 23:00:00
 
 ![User Interface][interface]
 
-首先主界面长这个样子，设置在 `File` 里面（而不是常规的 Help），快捷键 `ctrl + alt + s` 可以快速打开设置界面，有时想快速查找一些细微的设置可以在上方的搜索框快速搜索。还有一个更简单粗暴的搜索方法就是双击 `shift` 就可以随心搜索你想要的东西。左下角的小电脑是一个集成工具按钮，里面有诸如 `Terminal`、`Gulp` 和 `npm` 等众多常用工具和命令行。
+首先主界面长这个样子，设置在 `File` 里面（而不是常规的 Help），快捷键 `ctrl + alt + s` 可以快速打开设置界面，有时想快速查找一些细微的设置可以在上方的搜索框快速搜索。还有一个更简单粗暴的搜索方法就是双击 `shift` 就可以随心搜索你想要的东西。左下角的小电脑是一个集成工具按钮，里面有诸如 Terminal、Gulp 和 NPM 等众多常用工具和命令行。
 
 ### 定制界面
 
@@ -50,11 +50,11 @@ date:   2016-04-09 23:00:00
 
 ![Git Diff][git_diff]
 
-接着就是我们强大的 `Node` 和 `npm` 的配置了。在设置界面找到 `Node.js and NPM`，配置的文件是 `Node.js` 安装目录下面的 `node.exe`。然后点击 `Packages` 窗口右边那个绿色的加号就可以安装你需要的包了。当你的包有更新的时候，列表会有蓝色的箭头提醒你。到这里还没完，记得到 `Libraries` 里面把 `Node.js Core` 勾上，不然你的 `Node` 没法用。
+接着就是我们强大的 Node 和 NPM 的配置了。在设置界面找到 `Node.js and NPM`，配置的文件是 Node 安装目录下面的 `node.exe`。然后点击 `Packages` 窗口右边那个绿色的加号就可以安装你需要的包了。当你的包有更新的时候，列表会有蓝色的箭头提醒你。到这里还没完，记得到 `Libraries` 里面把 `Node.js Core` 勾上，不然你的 Node 没法用。
 
 ![Node Config][node_config]
 
-现在 `Node.js` 环境配好了，怎样实现自动化构建？只需要配置好你项目的 `app.js`。在上方工具栏 `Run` 里面打开 `Edit Configurations`，点击绿色的小加号，选择 `Node.js`，然后只需要再配好 `Working Directory` 和 `Javascript file` 就 ok 了。其中，`Working directory` 是你项目的根路径，`Javascript file` 就是 `app.js`。这样你的项目就已经构建好了。如果你有需要用到 `CoffeeScript` 的话，则还要额外配置一下你 `CoffeeScript` 安装目录下的 bin 目录里面的 `coffee` 文件。
+现在 Node 环境配好了，怎样实现自动化构建？只需要配置好你项目的 `app.js`。在上方工具栏 `Run` 里面打开 `Edit Configurations`，点击绿色的小加号，选择 `Node.js`，然后只需要再配好 `Working Directory` 和 `Javascript file` 就 ok 了。其中，`Working directory` 是你项目的根路径，`Javascript file` 就是 `app.js`。这样你的项目就已经构建好了。如果你有需要用到 CoffeeScript 的话，则还要额外配置一下你 CoffeeScript 安装目录下的 `bin` 目录里面的 `coffee` 文件。
 
 下面启动项目的方式就好多了，你可以直接 `alt + shift + F10`，或者打开左下方的 `npm` 工具，双击 `start` 就可以了。
 
@@ -62,7 +62,7 @@ date:   2016-04-09 23:00:00
 
 ### 集成 Terminal、重构和代码风格
 
-Terminal 是一个很强大工具，现在我想告诉你，其实你完全可以用命令行来取代工具栏，只需要配好 Git 和 `Node.js` 的环境变量就，打开你的 Terminal 窗口就可以随心所欲了。但是，Terminal 的可视化效果还是很差，所以你很多时候还是要用到 WebStorm 内置的图形化工具。
+Terminal 是一个很强大工具，现在我想告诉你，其实你完全可以用命令行来取代工具栏，只需要配好 Git 和 Node 的环境变量就，打开你的 Terminal 窗口就可以随心所欲了。但是，Terminal 的可视化效果还是很差，所以你很多时候还是要用到 WebStorm 内置的图形化工具。
 
 ![Integrated Terminal][integrated_terminal]
 
