@@ -1,17 +1,17 @@
 title: Mars Blog
 email: marswong618@gmail.com
-description: A hacker's life
+description: The utopia of Mars
 motto: Le vent se lève, il faut tenter de vivre
 baseurl: ""
-url: "https://blog.marswong.me"
+url: "https://mars.js.org"
 
 author:
   name: 'Mars Wong'
   email: marswong618@gmail.com
-  url: https://blog.marswong.me
-  resume: https://resume.marswong.me
-  facebook: https://www.facebook.com/marswong618
-  twitter: https://twitter.com/marswong618
+  url: https://mars.js.org
+  resume: https://mars.js.org
+  facebook: https://www.facebook.com/maaarswong
+  twitter: https://twitter.com/maaarswong
   github: https://github.com/marswong
 
 paginate: 3

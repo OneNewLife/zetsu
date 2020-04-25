@@ -1,3 +1,3 @@
 # Mars Blog
 
-A hacker's life.
+The utopia of Mars.
