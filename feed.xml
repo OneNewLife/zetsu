@@ -1,0 +1,1783 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mars Blog</title>
+    <description>The utopia of Mars</description>
+    <link>https://mars.js.org/</link>
+    <atom:link href="https://mars.js.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 28 Apr 2020 04:12:01 +0800</pubDate>
+    <lastBuildDate>Tue, 28 Apr 2020 04:12:01 +0800</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>2020 读书计划</title>
+        <description>&lt;p&gt;阔别四年，重返图灵社区，书香味犹存，甚好。忆往昔，上一次写读书计划还是 &lt;a href=&quot;https://www.ituring.com.cn/article/210036&quot;&gt;2016&lt;/a&gt; 年的事情。&lt;/p&gt;
+
+&lt;p&gt;2016 年是我学生时代成长和收获最多的一年，这一年写了很多代码，看了很多书，应了图灵社区的那句标语：技术改变世界，阅读塑造人生。&lt;/p&gt;
+
+&lt;p&gt;工作近两年，突然开始因为读书甚少而感到乏力。2018 年在飞机上看了《从 0 到 1》，2019 年的年底趁着午休期间在工位粗读了《演进式架构》、《松本行弘：编程语言的设计与实现》和《分布式机器学习：算法、理论与实践》，几乎都是囫囵吞枣。&lt;/p&gt;
+
+&lt;p&gt;现在最大的感悟是书是人类进步的唯一阶梯。不管工作再忙也要记得看书，通过看书充电，让你的知识得到升华，然后再释放到工作中，尽量让自己保持在「充电 - 升华 - 释放」的良性循环中，而不是一味过度地释放自己。&lt;/p&gt;
+
+&lt;p&gt;读书计划：&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;《高效能人士的七个习惯》—— 软技能在工作中越来越重要（尤其是对于高压搬砖汪）&lt;/li&gt;
+  &lt;li&gt;《程序员修炼之道》—— 学生时期读过一次，是时候重温一遍了&lt;/li&gt;
+  &lt;li&gt;《分布式机器学习：算法、理论与实践》—— 19 年年中吴迪推荐的书，直到年终才把它匆匆看了，还没看明白。这次要带着具体问题去阅读（btw，现在有问题可以当面问高飞老师了）&lt;/li&gt;
+  &lt;li&gt;《Deep Learning》—— 深度学习三巨头著作，必须拜读一下&lt;/li&gt;
+  &lt;li&gt;《Dive into Deep Learning》—— 李沐老师的创新杰作，可以动手实践的一本书在线教科书&lt;/li&gt;
+  &lt;li&gt;《DOOM 启世录》—— 卡马克和他的游戏的非正式传记&lt;/li&gt;
+  &lt;li&gt;《浪潮之巅》—— 迄今为止最全面的一部 IT 创业记录&lt;/li&gt;
+  &lt;li&gt;《饱食穷民》—— 泡沫经济时代的真实社会写照&lt;/li&gt;
+  &lt;li&gt;《罪与罚》—— 心灵鸡汤&lt;/li&gt;
+  &lt;li&gt;《活着》—— 当代《呐喊》&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 28 Apr 2020 02:34:32 +0000</pubDate>
+        <link>https://mars.js.org/2020-reading-plan/</link>
+        <guid isPermaLink="true">https://mars.js.org/2020-reading-plan/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>我的江湖梦</title>
+        <description>&lt;p&gt;写在国庆的早晨。在这举国同庆的日子里，身边的人或许都收到了满意的录取通知，或许都成双成对欢喜地出游了，我却还是回到了熟悉的工作室，继续默默地追寻我的江湖梦。离开江湖也有一段时间了，在江湖的日子却又历历在目。&lt;/p&gt;
+
+&lt;p&gt;梦开始在大一那年。那时候偶尔会上淘宝和天猫买点东西，不过对阿里巴巴这家公司一点都不了解。身边有从阿里实习回来和我们分享经验的学长学姐，至今印象最深的当属阿里的武侠文化。马老师很喜欢金庸的小说，所以他给公司定了个规定：每位员工都要取一个花名（经过多年验证，这真的是消除隔阂的最好方式）。我自幼就很向往金庸笔下的江湖，最欣赏的英雄人物从最初的段誉，到后来的乔峰，再到现在的杨过和黄岛主，也反映了我人生的不同阶段。自此，我开始关注阿里巴巴这家公司。而后，不经意间在犀牛书上看到了翻译团队——淘宝前端技术团队，在鸣谢的名单上有很多名字，我唯独记住了两个，一个是赵泽欣（小马，后来在子柳的《淘宝技术这十年》中再次登场），一个是王保平（玉伯，曾经在前端界叱咤风云的人物，后来成为了我老板的老板的老板）。我对阿里背后神秘的技术团队产生了莫名的好感，并开始 google 关于阿里前端的一切，学习他们的技术，关注他们的动态，渴望有一天可以加入他们。&lt;/p&gt;
+
+&lt;p&gt;大二那年的暑假，看到天猫团队在招实习生，那时刚考完期末试，上 github 搜了个简历模板，匆匆忙忙做了份简历就投了过去，然后万万没想到第二天我就收到了来自天猫前端工程师的面试电话，没有一点点防备，人生中的第一次求职面试就这么失败了。失败的原因主要总结为两点：没有经验以及太飘。没有经验主要体现在：自我介绍一句话，没有任何亮点；不知道面试大概考察的范围，招架不住；实时写代码容易紧张，然后思路全无；全程几乎处于被动的状态，面试官一问一答。太飘则主要体现在对工具的认识只停留在 API 的层面，没有深入去了解其背后的实现原理，这是大多数初学者的通病。所以，求职切记打无备之战，一定要做好万全的准备再去迎战。在面试前最好先找学长学姐或者最好是职场老鸟来帮自己进行一次 mock interview，现场面、电面、视频面以及在线编程都要尝试一下，避免面试时出现尴尬的情况。自我介绍一定要精炼，将自己最擅长的一面展示出来，因为面试官都会从你的自我介绍开始发问。然后对于有明确答案的问题，一定要点到为止，切记答非所问。对于开放式的问题，尽可能将自己了解的一切技术细节都说出来，切记守口如瓶，因为这是你加分的最好机会。至于在线编程，不要急着去想代码怎么实现，先分析问题，和面试官交流解题思路，这也是一个得分点。然后在面某个团队之前，一定要先对这个团队做全面的了解，包括但不限于了解他们的技术栈，了解他们所负责的业务，通过社区去收集一下面经也是很有必要的，通过面经你可以查漏补缺。最后一点就是很多技术新人，甚至是工作多年的老鸟都有的通病——使用工具只停留在 API 的层面，没有试图去了解工具背后的实现原理，至今仍然记得面试官一句“你知道 Vue.js 是怎样实现响应式更新的吗”把我给问哑了。考察工具的原理一方面是出于业务的需要，B 端的产品对性能要求可能不高，但是像天猫这样的 C 端产品对性能要求是非常高的，使用工具只是方便了我们进行团队协作以及项目后期的维护和扩展，但是涉及性能优化的时候就需要对工具的原理了如指掌才行。还有一方面就是为了考察候选人的潜力以及热情，当没有工具的时候你是否能够将工具的思想迁移到其它领域，还有作为一名工程师，你对技术是否有热情，是否有 dig 精神（这是后来从玉伯老板那里 get 到的），这一点可以刷掉 99% 的人（不是 80%），因为从无知到认识一门工具到使用一门工具再到了解工具原理这个过程是很漫长很枯燥的，你可能不只是看几篇博客就行，这需要你写很多代码，并且读很多代码才行。所以，在学习的过程中要将 dig 精神进行到底，不仅仅是技术，产品、设计如是说，学会将一件事做到极致，而不是达到某个指标。然后万事俱备的话，剩下的就只能看运气了。在合适的时间遇到合适的面试官的话，恭喜你，you are the one。&lt;/p&gt;
+
+&lt;p&gt;大三那年的寒假，碰上玉伯、苏千、死马众人在微博刷招聘动态，那时候内心有点小激动，但是这一次我沉住气了，我扪心自问：Are you ready？不能再像第一次那么亏了。这一次我选择好好复习，毕竟春招还没开始。一个月后一次偶然的机会，我看到帅哥在 CNode 发的一张贴子，然后苏千在下面顶贴了，然后这是个千载难逢的好机会，这次我毫不犹豫了，投。有了前面天猫失败的经历，这一次果然得心应手了，蚂蚁和之前天猫的面试标准差不多，都是通过你过往的学习经历以及工具的原理来考察你的潜力和热情。第一轮面试毫无意外地通过了，不过通过第一轮的考察貌似因为我缺乏 Node 的实践经验，所以第二轮安排的面试官几乎只考察我前端的基础，然后也毫无意外地通过了。只是面试官是个妹子，一直让我产生一种错觉——是不是根据前面的面试记录让某个业务部门的前端工程师来面我，后来这妹子成了我老板的老板（像这种美貌与智慧并存而又不失可爱的女中豪杰蚂蚁还有很多哦哈哈）。然后经过两周漫长的等待，终于收到的录取意向书，也算是圆了我过去两年的江湖梦了。&lt;/p&gt;
+
+&lt;p&gt;果不其然，蚂蚁这边还是比较扁平化的。在这里虽然等级制度分明，同一个组里面可能会有下至实习生，上至研究员的员工，不过平时大家相处得很融洽，不会听到 X总、X经理的称谓，实习生也有可能会坐在鲁肃和阳老师旁边，还有踢球的时候管你是 p 几，开心就好。然后蚂蚁的文化是包容的，这里的人都很有个性，你会看到逗比可爱的啸生、一个月换一次发色帅气的绯一、爱写小说的段子手愚道、没有头发却成天扎小辫子的子朔、喜欢 rap 的老王、在你工位旁踩着电动踏板车飞过的风一样的男子（至今仍不知道那是谁）等等。也正因为这里都是充满个性的人，要想在蚂蚁立足，你必须学会 stand out，展现出你的才华，否则你只能在沉默中出局。蚂蚁既像一家创业公司又不像一家创业公司。和大多数的创业公司一样，蚂蚁没有实习生的培养制度（不像淘宝和天猫），实习生几乎都是上岗就要支持业务，没有任何项目经验的同学来蚂蚁可能会比较难适应。然后和大多数创业公司一样，这边新兴的产品团队都没有规范的研发流程，计划经常会 delay，感觉一团糟。虽然是 B 轮的公司，但是感觉蚂蚁更像是一家上市公司，大家其实都没有统一的目标和方向，每个部门都在搞自己的基础建设，感觉就像集团一样老气，完全感受不到朝阳企业那股热血和朝气，以及产品快速迭代的快感。所以我觉得蚂蚁更适合那种有丰富的工作经验，可以独当一面的职场老鸟，集团（B2B、淘宝、天猫等等）更适合那些容易迷失方向的职场新人。&lt;/p&gt;
+
+&lt;p&gt;在蚂蚁的这段日子最大的收获或许是认识自己以及学会做好业务。刚入职的时候老板就希望我们在工作中要注意做好技术的沉淀，反馈给团队以帮助其他业务开发者。可惜没有做好这一点，或许是因为对业务的理解太肤浅，不够深刻，又或许是自己还太嫩，实践经验不足。一开始由于没有规范，代码毛病很多，以前在学校是处于野蛮生长的状态，代码写得很随性，但现在情况不一样了，你写的代码最后是要上线的，然后你的代码若干年后可能还会交给其他人来维护或者重构，所以代码质量一定要高标准保证。然后要紧记的是，在创业公司，人人都应该是产品工程师，不是切图仔，也不是 CRUD 机器，你对你的业务应该要有充分的认识，例如你参与的是支付业务，你是否了解支付系统的架构、你是否知道完成一笔交易涉及到哪些接口和服务、你是否知道每个接口和服务目前都面临着哪些问题或痛点等等。尝试从架构师的角度去看待问题，而不仅仅是为了完成交付来开发界面和接口。很可惜对于这一切我都后知后觉。在蚂蚁比较难忘的要数和源哥一起合作的日子了，源哥会毫不吝啬地和你分享他过去几年的职业经历以及给你将来的职业规划建议，最终没能和源哥共事还是深感遗憾。&lt;/p&gt;
+
+&lt;p&gt;离开，并不意味着失败，反而让我的梦越来越清晰。还记得曾经的我是多么的热爱生活，敢爱敢恨，有交心的朋友，会刷动态，会开黑，会撸狗，会陪爸妈逛街，会写点小游戏，会为了让 GNOME 可以轮播 Taylor 的壁纸还有 FIFA 挂机而写脚本等等。而过去这一年，这一切都与我渐行渐远，为了生计，我选择了远离生活。刚开始的我对技术还是抱着来之不拒的态度，想做什么就学习什么，或许没有什么成就，但我很享受这个过程。而过去这一年，以解决将来的就业问题为由，我给自己打上了前端的标签，并自欺欺人地认为自己“热爱”技术。但当我踏入江湖的时候，我突然释怀了，我其实没有那么喜欢技术，过去这一年我只是漫无目的地被技术奴役罢了。写到这里，我不禁想起鱼老板说过的一番话——“技术只不过是浮云，生活才是真正的追求，我相信热爱生活的人，技术不会差到哪里”。当你真正扎根生活的时候，你会发现你所热爱的一切最终都源自生活。如果可以重来，我会选择向约翰·卡马克或者伊隆·马斯克学习，而不再是丹尼斯·里奇，因为我不是科学家，我只想通过技术让我的生活变得简单。&lt;/p&gt;
+
+&lt;p&gt;梦，源于生活，亦止于生活。&lt;/p&gt;
+</description>
+        <pubDate>Sun, 01 Oct 2017 15:00:00 +0000</pubDate>
+        <link>https://mars.js.org/my-career-dream/</link>
+        <guid isPermaLink="true">https://mars.js.org/my-career-dream/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>【译】使用 Yum 历史查找已安装或已删除的软件包信息</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://www.tecmint.com/20-linux-yum-yellowdog-updater-modified-commands-for-package-mangement/&quot;&gt;Yum&lt;/a&gt; 是 RHEL/CentOS 的一个基于 rpm 的交互式高级包管理器，用户可以用它来安装新的软件包、卸载或清除旧的/不需要的软件包。它可以&lt;a href=&quot;http://www.tecmint.com/auto-install-security-patches-updates-on-centos-rhel/&quot;&gt;自动运行系统更新&lt;/a&gt;，并执行依赖分析，对已安装的或可用的软件包进行查询等等。&lt;/p&gt;
+
+&lt;p&gt;在本文中，我们将解释如何查看 Yum 事务的历史记录，以便于了解有关安装的软件包以及从系统中所卸载/清除软件包的信息。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;推荐阅读：&lt;/strong&gt; &lt;a href=&quot;http://www.tecmint.com/20-linux-yum-yellowdog-updater-modified-commands-for-package-mangement/&quot;&gt;20 条关于 Linux 软件包管理的 Yum 命令&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;以下是一些如何使用 Yum 历史命令的示例。&lt;/p&gt;
+
+&lt;h3 id=&quot;查看完整的-yum-历史&quot;&gt;查看完整的 Yum 历史&lt;/h3&gt;
+
+&lt;p&gt;要查看 Yum 事务完整的历史记录，我们可以运行以下命令，然后将显示：事务 ID、执行特定操作的用户、操作发生的日期和时间、实际操作以及任何错误的附加信息与操作：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# yum history
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.tecmint.com/wp-content/uploads/2017/02/View-Yum-History.png&quot;&gt;&lt;img src=&quot;http://www.tecmint.com/wp-content/uploads/2017/02/View-Yum-History.png&quot; alt=&quot;查看 Yum 历史&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;使用-yum-查找软件包信息&quot;&gt;使用 Yum 查找软件包信息&lt;/h3&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;history&lt;/code&gt; 的子命令：&lt;code class=&quot;highlighter-rouge&quot;&gt;info&lt;/code&gt;/&lt;code class=&quot;highlighter-rouge&quot;&gt;list&lt;/code&gt;/&lt;code class=&quot;highlighter-rouge&quot;&gt;summary&lt;/code&gt; 可以将事务 ID 或包名作为参数。此外，&lt;code class=&quot;highlighter-rouge&quot;&gt;list&lt;/code&gt; 子命令可以加上特殊的参数，&lt;code class=&quot;highlighter-rouge&quot;&gt;all&lt;/code&gt; 表示所有的事务。&lt;/p&gt;
+
+&lt;p&gt;运行以下命令查看先前的历史：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# yum history list all
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;并且，你可以使用下面的 &lt;code class=&quot;highlighter-rouge&quot;&gt;info&lt;/code&gt; 命令查看涉及指定软件包的事务详情，例如 &lt;code class=&quot;highlighter-rouge&quot;&gt;httpd&lt;/code&gt;：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# yum history info httpd
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.tecmint.com/wp-content/uploads/2017/02/Yum-Find-Package-Info.png&quot;&gt;&lt;img src=&quot;http://www.tecmint.com/wp-content/uploads/2017/02/Yum-Find-Package-Info.png&quot; alt=&quot;Yum - 查找软件包信息&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;发出以下命令可以获得包含 &lt;code class=&quot;highlighter-rouge&quot;&gt;httpd&lt;/code&gt; 软件包的事务的摘要：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# yum history summary httpd
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.tecmint.com/wp-content/uploads/2017/02/Yum-Find-Summary-of-Package.png&quot;&gt;&lt;img src=&quot;http://www.tecmint.com/wp-content/uploads/2017/02/Yum-Find-Summary-of-Package.png&quot; alt=&quot;Yum - 查找软件包的摘要&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;还可以使用事务的 ID 来查找，以下命令会显示 ID 为 &lt;code class=&quot;highlighter-rouge&quot;&gt;15&lt;/code&gt; 的事务的详情。&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# yum history info 15
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.tecmint.com/wp-content/uploads/2017/02/Find-Package-Info-Using-ID.png&quot;&gt;&lt;img src=&quot;http://www.tecmint.com/wp-content/uploads/2017/02/Find-Package-Info-Using-ID.png&quot; alt=&quot;Yum - 使用 ID 查找软件包信息&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;使用-yum-history-查找软件包事务信息&quot;&gt;使用 yum history 查找软件包事务信息&lt;/h3&gt;
+
+&lt;p&gt;有一些用于打印某个或多个软件包事务详情的子命令。我们可以使用 &lt;code class=&quot;highlighter-rouge&quot;&gt;package-list&lt;/code&gt; 或 &lt;code class=&quot;highlighter-rouge&quot;&gt;package_info&lt;/code&gt; 查看关于 &lt;code class=&quot;highlighter-rouge&quot;&gt;httpd&lt;/code&gt; 的更多信息，例如：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# yum history package-list httpd
+或
+# yum history package-info httpd
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.tecmint.com/wp-content/uploads/2017/02/Find-Package-Transaction-Info.png&quot;&gt;&lt;img src=&quot;http://www.tecmint.com/wp-content/uploads/2017/02/Find-Package-Transaction-Info.png&quot; alt=&quot;Yum - 查找软件包事务信息&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;要得到多个软件包的记录，我们可以运行：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# yum history package-list httpd epel-release
+或
+# yum history packages-list httpd epel-release
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.tecmint.com/wp-content/uploads/2017/02/Find-Multiple-Package-Info.png&quot;&gt;&lt;img src=&quot;http://www.tecmint.com/wp-content/uploads/2017/02/Find-Multiple-Package-Info.png&quot; alt=&quot;Yum - 查找多个软件包的信息&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;使用-yum-回滚软件包&quot;&gt;使用 Yum 回滚软件包&lt;/h3&gt;
+
+&lt;p&gt;此外，还有一些 &lt;code class=&quot;highlighter-rouge&quot;&gt;history&lt;/code&gt; 的子命令可以让我们撤销/重做/回滚事务。&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;undo&lt;/code&gt; - 会撤销一个指定的事务。&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;redo&lt;/code&gt; - 重复一次指定的事务。&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;rollback&lt;/code&gt; - 撤销指定事务之后的所有事务。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;它们采用单个事务 id 或关键字 &lt;code class=&quot;highlighter-rouge&quot;&gt;last&lt;/code&gt; 和从最后一个事务开始的偏移量。&lt;/p&gt;
+
+&lt;p&gt;例如，假设我们已经做了 60 个事务，&lt;code class=&quot;highlighter-rouge&quot;&gt;last&lt;/code&gt; 是指事务 60，&lt;code class=&quot;highlighter-rouge&quot;&gt;last-4&lt;/code&gt; 指向事务 56。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;推荐阅读：&lt;/strong&gt; &lt;a href=&quot;http://www.tecmint.com/linux-yum-package-management-with-yum-utils/&quot;&gt;怎样使用 &lt;code class=&quot;highlighter-rouge&quot;&gt;yum-utils&lt;/code&gt; 来维护以及加速 Yum&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;以上子命令是如下工作的：如果我们有 5 个事务——V，W，X，Y 和 Z，其中分别是安装各个软件包的。&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# yum history undo 2    #将删除软件包 W
+# yum history redo 2    #将重新安装软件包 W
+# yum history rollback 2    #将删除软件包 X、 Y 和 Z
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;在下面的示例中，事务 2 是一个更新操作，如下所示，以下 &lt;code class=&quot;highlighter-rouge&quot;&gt;redo&lt;/code&gt; 命令将重复事务 2 直到所有软件包到更新到当前时间的最新版本：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# yum history | grep -w &quot;2&quot;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.tecmint.com/wp-content/uploads/2017/02/Find-Yum-Package-Transaction-ID.png&quot;&gt;&lt;img src=&quot;http://www.tecmint.com/wp-content/uploads/2017/02/Find-Yum-Package-Transaction-ID.png&quot; alt=&quot;Yum - 查找软件包事务的 ID&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# yum history redo 2
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.tecmint.com/wp-content/uploads/2017/02/Yum-Redo-Package-Update.png&quot;&gt;&lt;img src=&quot;http://www.tecmint.com/wp-content/uploads/2017/02/Yum-Redo-Package-Update.png&quot; alt=&quot;用 Yum 重新更新软件包&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;redo&lt;/code&gt; 子命令同样可以在我们指定事务之前加上一些可选的参数：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;force-reinstall&lt;/code&gt; - 重新安装所有在此事务中安装的软件包（通过 &lt;code class=&quot;highlighter-rouge&quot;&gt;yum install&lt;/code&gt;、&lt;code class=&quot;highlighter-rouge&quot;&gt;upgrade&lt;/code&gt; 或 &lt;code class=&quot;highlighter-rouge&quot;&gt;downgrade&lt;/code&gt;）。&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;force-remove&lt;/code&gt; - 移除所有已经更新或回滚的软件包。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# yum history redo force-reinstall 16
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.tecmint.com/wp-content/uploads/2017/02/Yum-Force-Install-Package.png&quot;&gt;&lt;img src=&quot;http://www.tecmint.com/wp-content/uploads/2017/02/Yum-Force-Install-Package.png&quot; alt=&quot;Yum - 强制安装软件包&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;查找-yum-历史数据库和来源信息&quot;&gt;查找 Yum 历史数据库和来源信息&lt;/h3&gt;
+
+&lt;p&gt;这些子命令为我们提供有关历史记录数据库和其它信息来源的信息：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;addon-info&lt;/code&gt; - 提供更多的信息来源。&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;stats&lt;/code&gt; - 显示当前历史数据库的统计信息。&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;sync&lt;/code&gt; - 使我们能够更改为所有已安装软件包存储的 &lt;code class=&quot;highlighter-rouge&quot;&gt;rpmdb&lt;/code&gt;/&lt;code class=&quot;highlighter-rouge&quot;&gt;yumdb&lt;/code&gt; 数据。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;看一下以下的命令的子命令实际上是怎样工作的：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# yum history addon-info
+# yum history stats
+# yum history sync
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;使用 &lt;code class=&quot;highlighter-rouge&quot;&gt;new&lt;/code&gt; 子命令设置新的历史文件：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# yum history new
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;我们可以在 yum 手册页找到关于 Yum &lt;code class=&quot;highlighter-rouge&quot;&gt;history&lt;/code&gt; 命令和其它几个命令的完整信息：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# man yum
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;就是这么多了。在本篇指南中，我们介绍了各种 Yum &lt;code class=&quot;highlighter-rouge&quot;&gt;history&lt;/code&gt; 命令，以查看 Yum 事务的详细信息。&lt;/p&gt;
+
+&lt;h3 id=&quot;reference&quot;&gt;Reference&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.tecmint.com/view-yum-history-to-find-packages-info/&quot;&gt;How to use Yum History to find out Installed or Removed Packages Info&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.tecmint.com/yum-lock-disable-blacklist-certain-package-update-version/&quot;&gt;4 个使用 Yum 禁用/锁定某些软件包更新的方法&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Thu, 23 Feb 2017 23:00:00 +0000</pubDate>
+        <link>https://mars.js.org/how-to-use-yum-history-to-find-out-installed-or-removed-packages-info/</link>
+        <guid isPermaLink="true">https://mars.js.org/how-to-use-yum-history-to-find-out-installed-or-removed-packages-info/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>【译】探索传统 JavaScript 基准测试</title>
+        <description>&lt;p&gt;可以很公平地说,&lt;a href=&quot;https://en.wikipedia.org/wiki/JavaScript&quot;&gt;JavaScript&lt;/a&gt; 是当下软件工程最重要的技术。对于那些深入接触过编程语言、编译器和虚拟机的人来说，这仍然有点令人惊讶，因为在语言设计者看来，&lt;code class=&quot;highlighter-rouge&quot;&gt;JavaScript&lt;/code&gt; 不是十分优雅；在编译器工程师看来，它没有多少可优化的地方；而且还没有一个伟大的标准库。取决于你和谁吐槽，&lt;code class=&quot;highlighter-rouge&quot;&gt;JavaScript&lt;/code&gt; 的缺点你花上数周都枚举不完，不过你总会找到一些你从所未知的神奇的东西。尽管这看起来明显困难重重，不过 &lt;code class=&quot;highlighter-rouge&quot;&gt;JavaScript&lt;/code&gt; 还是成为当今 web 的核心，并且还成为服务器端/云端的主导技术（通过 &lt;a href=&quot;https://nodejs.org/&quot;&gt;Node.js&lt;/a&gt;），甚至还开辟了进军物联网空间的道路。&lt;/p&gt;
+
+&lt;p&gt;问题来了，为什么 &lt;code class=&quot;highlighter-rouge&quot;&gt;JavaScript&lt;/code&gt; 如此受欢迎/成功？我知道没有一个很好的答案。如今我们有许多使用 &lt;code class=&quot;highlighter-rouge&quot;&gt;JavaScript&lt;/code&gt; 的好理由，或许最重要的是围绕其构建的庞大的生态系统，以及今天大量可用的资源。但所有这一切实际上是发展到一定程度的后果。为什么 &lt;code class=&quot;highlighter-rouge&quot;&gt;JavaScript&lt;/code&gt; 变得流行起来了？嗯，你或许会说，这是 web 多年来的通用语了。但是在很长一段时间里，人们极其讨厌 &lt;code class=&quot;highlighter-rouge&quot;&gt;JavaScript&lt;/code&gt;。回顾过去，似乎第一波 &lt;code class=&quot;highlighter-rouge&quot;&gt;JavaScript&lt;/code&gt; 浪潮爆发在上个年代的后半段。不出所料，那个时候 &lt;code class=&quot;highlighter-rouge&quot;&gt;JavaScript&lt;/code&gt; 引擎在不同的负载下实现了巨大的加速，这可能让很多人对 &lt;code class=&quot;highlighter-rouge&quot;&gt;JavaScript&lt;/code&gt; 刮目相看。&lt;/p&gt;
+
+&lt;p&gt;回到过去那些日子，这些加速测试使用了现在所谓的传统 &lt;code class=&quot;highlighter-rouge&quot;&gt;JavaScript&lt;/code&gt; 基准——从苹果的 &lt;a href=&quot;https://webkit.org/perf/sunspider/sunspider.html&quot;&gt;SunSpider 基准&lt;/a&gt;（JavaScript 微基准之母）到 Mozilla 的 &lt;a href=&quot;http://krakenbenchmark.mozilla.org/&quot;&gt;Kraken 基准&lt;/a&gt; 和谷歌的 &lt;code class=&quot;highlighter-rouge&quot;&gt;V8&lt;/code&gt; 基准。后来，&lt;code class=&quot;highlighter-rouge&quot;&gt;V8&lt;/code&gt; 基准被 &lt;a href=&quot;https://developers.google.com/octane&quot;&gt;Octane 基准&lt;/a&gt; 取代，而苹果发布了新的 &lt;a href=&quot;http://browserbench.org/JetStream&quot;&gt;JetStream 基准&lt;/a&gt;。这些传统的 &lt;code class=&quot;highlighter-rouge&quot;&gt;JavaScript&lt;/code&gt; 基准测试驱动了无数人的努力，使 &lt;code class=&quot;highlighter-rouge&quot;&gt;JavaScript&lt;/code&gt; 的性能达到了本世纪初没人能预料到的水平。据报道加速达到了 1000 倍，一夜之间在网站使用 &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;script&amp;gt;&lt;/code&gt; 标签不再是魔鬼的舞蹈，做客户端不再仅仅是可能的了，甚至是被鼓励的。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=PvZdTZ1Nl5o&quot;&gt;&lt;img src=&quot;http://benediktmeurer.de/images/2016/sethcds-20161216.png&quot; alt=&quot;性能测试，JS 基准的简史&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;现在是 2016 年，所有（相关的）&lt;code class=&quot;highlighter-rouge&quot;&gt;JavaScript&lt;/code&gt; 引擎的性能都达到了一个令人难以置信的水平，web 应用可以像端应用（或者本地的应用）一样快。引擎配有复杂的优化编译器，通过收集过去关于类型/形状的反馈来推测某些操作（即属性访问、二进制操作、比较、调用等），生成高度优化的机器代码的短序列。大多数优化是由 &lt;code class=&quot;highlighter-rouge&quot;&gt;SunSpider&lt;/code&gt; 或 &lt;code class=&quot;highlighter-rouge&quot;&gt;Kraken&lt;/code&gt; 等微基准以及 &lt;code class=&quot;highlighter-rouge&quot;&gt;Octane&lt;/code&gt; 和 &lt;code class=&quot;highlighter-rouge&quot;&gt;JetStream&lt;/code&gt; 等静态测试套件驱动的。由于有像 &lt;a href=&quot;http://asmjs.org/&quot;&gt;asm.js&lt;/a&gt; 和 &lt;a href=&quot;https://github.com/kripken/emscripten&quot;&gt;Emscripten&lt;/a&gt; 这样的 &lt;code class=&quot;highlighter-rouge&quot;&gt;JavaScript&lt;/code&gt; 技术，我们甚至可以将大型 &lt;code class=&quot;highlighter-rouge&quot;&gt;C++&lt;/code&gt; 应用程序编译成 &lt;code class=&quot;highlighter-rouge&quot;&gt;JavaScript&lt;/code&gt;，并在你的浏览器上运行，而无需下载或安装任何东西。例如，现在你可以在 web 上玩 &lt;a href=&quot;http://beta.unity3d.com/jonas/AngryBots&quot;&gt;AngryBots&lt;/a&gt;，无需沙盒，而过去的 web 游戏需要安装一堆诸如 &lt;code class=&quot;highlighter-rouge&quot;&gt;Adobe Flash&lt;/code&gt; 或 &lt;code class=&quot;highlighter-rouge&quot;&gt;Chrome PNaCl&lt;/code&gt; 的插件。&lt;/p&gt;
+
+&lt;p&gt;这些成就绝大多数都要归功于这些微基准和静态性能测试套件，以及这些传统 &lt;code class=&quot;highlighter-rouge&quot;&gt;JavaScript&lt;/code&gt; 基准间至关重要的竞争。你可以对 &lt;code class=&quot;highlighter-rouge&quot;&gt;SunSpider&lt;/code&gt; 表示不满，但很显然，没有 &lt;code class=&quot;highlighter-rouge&quot;&gt;SunSpider&lt;/code&gt;，&lt;code class=&quot;highlighter-rouge&quot;&gt;JavaScript&lt;/code&gt; 的性能可能达不到今天的高度。好吧，赞美到此为止。现在看看另一方面，所有静态性能测试——无论是微基准还是大型应用的宏基准，都注定要随着时间的推移变得不相关！为什么？因为在开始游戏前，基准只能教你这么多。一旦达到某个阔值以上（或以下），那么有益于特定基准的优化的一般适用性将呈指数下降。例如，我们将 &lt;code class=&quot;highlighter-rouge&quot;&gt;Octane&lt;/code&gt; 作为现实世界中 web 应用性能的代理，并且在相当长的一段时间里，它可能做得很不错，但是现在，&lt;code class=&quot;highlighter-rouge&quot;&gt;Octane&lt;/code&gt; 与现实场景中的时间分布是截然不同的，因此即使眼下再优化 &lt;code class=&quot;highlighter-rouge&quot;&gt;Octane&lt;/code&gt; 至超越自身，可能在现实世界中还是得不到任何显著的改进（无论是通用 web 还是 &lt;code class=&quot;highlighter-rouge&quot;&gt;Node.js&lt;/code&gt; 的工作负载）。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://youtu.be/xCx4uC7mn6Y&quot;&gt;&lt;img src=&quot;http://benediktmeurer.de/images/2016/verwaestblinkon-20161216.png&quot; alt=&quot;基准与现实世界的时间分布对比&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;由于传统 &lt;code class=&quot;highlighter-rouge&quot;&gt;JavaScript&lt;/code&gt; 基准（包括最新版的 &lt;code class=&quot;highlighter-rouge&quot;&gt;JetStream&lt;/code&gt; 和 &lt;code class=&quot;highlighter-rouge&quot;&gt;Octane&lt;/code&gt;）可能已经超越其有用性变得越来越明显，我们开始调查新的方法来测量年初现实场景的性能，为 &lt;code class=&quot;highlighter-rouge&quot;&gt;V8&lt;/code&gt; 和 &lt;code class=&quot;highlighter-rouge&quot;&gt;Chrome&lt;/code&gt; 添加了大量新的性能追踪钩子。我们还特意添加一些机制来查看我们在浏览 web 时的时间开销，即是否是脚本执行、垃圾回收、编译等，并且这些调查的结果非常有趣和令人惊讶。从上面的幻灯片可以看出，运行 &lt;code class=&quot;highlighter-rouge&quot;&gt;Octane&lt;/code&gt; 花费超过 70% 的时间执行 &lt;code class=&quot;highlighter-rouge&quot;&gt;JavaScript&lt;/code&gt; 和回收垃圾，而浏览 web 的时候，通常执行 &lt;code class=&quot;highlighter-rouge&quot;&gt;JavaScript&lt;/code&gt; 花费的时间不到 30%，垃圾回收占用的时间永远不会超过 5%。反而花费大量时间来解析和编译，这不像 &lt;code class=&quot;highlighter-rouge&quot;&gt;Octane&lt;/code&gt; 的作风。因此，将更多的时间用在优化 &lt;code class=&quot;highlighter-rouge&quot;&gt;JavaScript&lt;/code&gt; 执行上将提高你的 &lt;code class=&quot;highlighter-rouge&quot;&gt;Octane&lt;/code&gt; 跑分，但不会对加载 &lt;a href=&quot;http://youtube.com/&quot;&gt;youtube.com&lt;/a&gt; 有任何积极的影响。事实上，花费更多的时间来优化 &lt;code class=&quot;highlighter-rouge&quot;&gt;JavaScript&lt;/code&gt; 执行甚至可能有损你现实场景的性能，因为编译器需要更多的时间，或者你需要跟踪更多的反馈，最终为编译、IC 和运行时桶开销更多的时间。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://browserbench.org/Speedometer&quot;&gt;&lt;img src=&quot;http://benediktmeurer.de/images/2016/speedometer-20161216.png&quot; alt=&quot;测速表&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;还有另外一组基准测试用于测量浏览器整体性能（包括 &lt;code class=&quot;highlighter-rouge&quot;&gt;JavaScript&lt;/code&gt; 和 &lt;code class=&quot;highlighter-rouge&quot;&gt;DOM&lt;/code&gt; 性能），最新推出的是 &lt;a href=&quot;http://browserbench.org/Speedometer&quot;&gt;Speedometer 基准&lt;/a&gt;。基准试图通过运行一个用不同的主流 web 框架实现的简单的 &lt;a href=&quot;http://todomvc.com/&quot;&gt;TodoMVC&lt;/a&gt; 应用（现在看来有点过时了，不过新版本正在研发中）以捕获真实性能。各种在 Octane 下的测试（Angular、Ember、React、Vanilla、Flight 和 Backbone）都罗列在幻灯片中，你可以看到这些测试似乎更好地代表了现在的性能指标。但是请注意，这些数据收集在本文撰写将近 6 个月以前，而且我们优化了更多的现实场景模式（例如我们正在重构 IC 系统以显著地降低开销，并且 &lt;a href=&quot;https://twitter.com/bmeurer/status/806927160300556288&quot;&gt;解析器也正在重新设计&lt;/a&gt;）。还要注意的是，虽然这看起来像是只和浏览器相关，但我们有非常强有力的证据表明传统的峰值性能基准也不是现实场景中 &lt;code class=&quot;highlighter-rouge&quot;&gt;Node.js&lt;/code&gt; 应用性能的一个好代理。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://youtu.be/xCx4uC7mn6Y&quot;&gt;&lt;img src=&quot;http://benediktmeurer.de/images/2016/verwaestblinkon2-20161216.png&quot; alt=&quot;Speedometer 和 Octane 对比&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;所有这一切可能已经路人皆知了，因此我将用本文剩下的部分强调一些关于我为什么认为这不仅有用，而且对于 &lt;code class=&quot;highlighter-rouge&quot;&gt;JavaScript&lt;/code&gt; 社区的健康（必须停止关注某一阔值的静态峰值性能基准测试）很关键的具体案例。让我通过一些例子说明 &lt;code class=&quot;highlighter-rouge&quot;&gt;JavaScript&lt;/code&gt; 引擎怎样来玩弄基准。&lt;/p&gt;
+
+&lt;h3 id=&quot;臭名昭著的-sunspider-案例&quot;&gt;臭名昭著的 SunSpider 案例&lt;/h3&gt;
+
+&lt;p&gt;一篇关于传统 &lt;code class=&quot;highlighter-rouge&quot;&gt;JavaScript&lt;/code&gt; 基准测试的博客如果没有指出 &lt;code class=&quot;highlighter-rouge&quot;&gt;SunSpider&lt;/code&gt; 明显的问题是不完整的。让我们从性能测试的最佳实践开始，它在现实场景中不是很适用：&lt;a href=&quot;https://github.com/WebKit/webkit/blob/master/PerformanceTests/SunSpider/tests/sunspider-1.0.2/bitops-bitwise-and.js&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;bitops-bitwise-and.js&lt;/code&gt; 性能测试&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/WebKit/webkit/blob/master/PerformanceTests/SunSpider/tests/sunspider-1.0.2/bitops-bitwise-and.js&quot;&gt;&lt;img src=&quot;http://benediktmeurer.de/images/2016/bitops-bitwise-and-20161216.png&quot; alt=&quot;bitops-bitwise-and.js&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;有一些算法需要进行快速的位运算,特别是从 &lt;code class=&quot;highlighter-rouge&quot;&gt;C/C++&lt;/code&gt; 转译成 &lt;code class=&quot;highlighter-rouge&quot;&gt;JavaScript&lt;/code&gt; 的地方,所以快速执行按位操作确实有点意义。然而,现实场景中的网页可能不关心引擎是否可以执行位运算,并且能否在循环中比另一个引擎快两倍。但是再盯着这段代码几秒钟,你可能会注意到，在第一次循环迭代之后 &lt;code class=&quot;highlighter-rouge&quot;&gt;bitwiseAndValue&lt;/code&gt; 将变成 &lt;code class=&quot;highlighter-rouge&quot;&gt;0&lt;/code&gt;，并且在接下来的 599999 次迭代中将保持为 &lt;code class=&quot;highlighter-rouge&quot;&gt;0&lt;/code&gt;。所以一旦你在此获得好性能，即在体面的硬件上所有测试均低于 5ms，在经过尝试之后意识到，只有循环的第一次是必要的，而剩余的迭代只是在浪费时间（例如 &lt;a href=&quot;https://en.wikipedia.org/wiki/Loop_splitting&quot;&gt;loop peeling&lt;/a&gt; 后面的死代码），现在你可以开始玩弄这个基准了。这需要 JavaScript 中的一些机制来执行这种转换，即你需要检查 &lt;code class=&quot;highlighter-rouge&quot;&gt;bitwiseAndValue&lt;/code&gt; 是全局对象的常规属性还是在执行脚本之前不存在，全局对象或者它的原型上必须没有拦截器。但如果你真的想要赢得这个基准测试，并且你愿意全力以赴，那么你可以在不到 1ms 的时间内完成这个测试。然而，这种优化将局限于这种特殊情况，并且测试的轻微修改可能不再触发它。&lt;/p&gt;
+
+&lt;p&gt;好吧，那么 &lt;a href=&quot;https://github.com/WebKit/webkit/blob/master/PerformanceTests/SunSpider/tests/sunspider-1.0.2/bitops-bitwise-and.js&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;bitops-bitwise-and.js&lt;/code&gt;&lt;/a&gt; 测试彻底肯定是微基准最失败的案例。让我们继续转移到 SunSpider 中更逼真的场景——&lt;a href=&quot;https://github.com/WebKit/webkit/blob/master/PerformanceTests/SunSpider/tests/sunspider-1.0.2/string-tagcloud.js&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;string-tagcloud.js&lt;/code&gt;&lt;/a&gt; 测试，它的底层运行着一个较早版本的 &lt;code class=&quot;highlighter-rouge&quot;&gt;json.js polyfill&lt;/code&gt;。该测试可以说看起来比位运算测试更合理，但是查看基准的配置之后立刻显示：大量的时间浪费在一条 &lt;code class=&quot;highlighter-rouge&quot;&gt;eval&lt;/code&gt; 表达式（高达 20% 的总执行时间被用于解析和编译，再加上实际执行编译后代码的 10% 的时间）。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/WebKit/webkit/blob/master/PerformanceTests/SunSpider/tests/sunspider-1.0.2/string-tagcloud.js#L199&quot;&gt;&lt;img src=&quot;http://benediktmeurer.de/images/2016/string-tagcloud-20161216.png&quot; alt=&quot;string-tagcloud.js&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;仔细看看，这个 &lt;code class=&quot;highlighter-rouge&quot;&gt;eval&lt;/code&gt; 只执行了一次，并传递一个 &lt;code class=&quot;highlighter-rouge&quot;&gt;JSON&lt;/code&gt; 格式的字符串，它包含一个由 2501 个含有 &lt;code class=&quot;highlighter-rouge&quot;&gt;tag&lt;/code&gt; 和 &lt;code class=&quot;highlighter-rouge&quot;&gt;popularity&lt;/code&gt; 属性的对象组成的数组：&lt;/p&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;([&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;s2&quot;&gt;&quot;tag&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;titillation&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;s2&quot;&gt;&quot;popularity&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;4294967296&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;s2&quot;&gt;&quot;tag&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;foamless&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;s2&quot;&gt;&quot;popularity&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1257718401&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;s2&quot;&gt;&quot;tag&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;snarler&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;s2&quot;&gt;&quot;popularity&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;613166183&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;s2&quot;&gt;&quot;tag&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;multangularness&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;s2&quot;&gt;&quot;popularity&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;368304452&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;任何&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;s2&quot;&gt;&quot;tag&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Fesapo unventurous&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;s2&quot;&gt;&quot;popularity&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;248026512&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;s2&quot;&gt;&quot;tag&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;esthesioblast&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;s2&quot;&gt;&quot;popularity&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;179556755&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;s2&quot;&gt;&quot;tag&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;echeneidoid&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;s2&quot;&gt;&quot;popularity&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;136641578&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;s2&quot;&gt;&quot;tag&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;embryoctony&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;s2&quot;&gt;&quot;popularity&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;107852576&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;...&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;])&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;显然，解析这些对象字面量，为其生成本地代码，然后执行该代码的成本很高。将输入的字符串解析为 &lt;code class=&quot;highlighter-rouge&quot;&gt;JSON&lt;/code&gt; 并生成适当的对象图的开销将更加低廉。所以，加快这个基准测试的一个小把戏就是模拟 &lt;code class=&quot;highlighter-rouge&quot;&gt;eval&lt;/code&gt;，并尝试总是将数据首先作为 &lt;code class=&quot;highlighter-rouge&quot;&gt;JSON&lt;/code&gt; 解析，然后再回溯到真实的解析、编译、执行，直到尝试读取 &lt;code class=&quot;highlighter-rouge&quot;&gt;JSON&lt;/code&gt; 失败（尽管需要一些额外的黑魔法来跳过括号）。早在 2007 年，这甚至不算是一个坏点子，因为没有 &lt;a href=&quot;https://tc39.github.io/ecma262/#sec-json.parse&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;JSON.parse&lt;/code&gt;&lt;/a&gt;，不过在 2017 年这只是 &lt;code class=&quot;highlighter-rouge&quot;&gt;JavaScript&lt;/code&gt; 引擎的技术债，可能会让 &lt;code class=&quot;highlighter-rouge&quot;&gt;eval&lt;/code&gt; 的合法使用遥遥无期。&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;gd&quot;&gt;--- string-tagcloud.js.ORIG     2016-12-14 09:00:52.869887104 +0100
+&lt;/span&gt;&lt;span class=&quot;gi&quot;&gt;+++ string-tagcloud.js  2016-12-14 09:01:01.033944051 +0100
+&lt;/span&gt;&lt;span class=&quot;gu&quot;&gt;@@ -198,7 +198,7 @@
+&lt;/span&gt;                     replace(/&quot;[^&quot;\\\n\r]*&quot;|true|false|null|-?\d+(?:\.\d*)?(:?[eE][+\-]?\d+)?/g, &#39;]&#39;).
+                     replace(/(?:^|:|,)(?:\s*\[)+/g, &#39;&#39;))) {
+
+&lt;span class=&quot;gd&quot;&gt;-                j = eval(&#39;(&#39; + this + &#39;)&#39;);
+&lt;/span&gt;&lt;span class=&quot;gi&quot;&gt;+                j = JSON.parse(this);
+&lt;/span&gt;
+                 return typeof filter === &#39;function&#39; ? walk(&#39;&#39;, j) : j;
+             }
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;事实上，将基准测试更新到现代 &lt;code class=&quot;highlighter-rouge&quot;&gt;JavaScript&lt;/code&gt; 会立刻提升性能，正如今天的 &lt;code class=&quot;highlighter-rouge&quot;&gt;V8 LKGR&lt;/code&gt; 从 36ms 降到了 26ms，性能足足提升了 30%！&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ node string-tagcloud.js.ORIG
+Time (string-tagcloud): 36 ms.
+$ node string-tagcloud.js
+Time (string-tagcloud): 26 ms.
+$ node -v
+v8.0.0-pre
+$
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;这是静态基准和性能测试套件常见的一个问题。今天，没有人会正儿八经地用 &lt;code class=&quot;highlighter-rouge&quot;&gt;eval&lt;/code&gt; 解析 &lt;code class=&quot;highlighter-rouge&quot;&gt;JSON&lt;/code&gt; 数据（不仅是因为性能问题，还出于严重的安全性考虑），而是坚持为所有代码使用诞生于五年前的 &lt;a href=&quot;https://tc39.github.io/ecma262/#sec-json.parse&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;JSON.parse&lt;/code&gt;&lt;/a&gt;。事实上，使用 &lt;code class=&quot;highlighter-rouge&quot;&gt;eval&lt;/code&gt; 解析 &lt;code class=&quot;highlighter-rouge&quot;&gt;JSON&lt;/code&gt; 可能会被视作生产环境的一个漏洞！所以引擎作者致力于新代码的性能所作的努力并没有反映在这个古老的基准中，相反地，使用 &lt;code class=&quot;highlighter-rouge&quot;&gt;eval&lt;/code&gt; 来赢得 &lt;code class=&quot;highlighter-rouge&quot;&gt;string-tagcloud.js&lt;/code&gt; 测试是没有必要的。&lt;/p&gt;
+
+&lt;p&gt;好吧，让我们看看另一个例子：&lt;a href=&quot;https://github.com/WebKit/webkit/blob/master/PerformanceTests/SunSpider/tests/sunspider-1.0.2/3d-cube.js&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;3d-cube.js&lt;/code&gt;&lt;/a&gt;。这个基准测试做了很多矩阵运算，即便是最聪明的编译器仅仅执行这个运算都做不了这么多。基本上，基准测试花了大量的时间执行 &lt;code class=&quot;highlighter-rouge&quot;&gt;Loop&lt;/code&gt; 函数及其调用的函数。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/WebKit/webkit/blob/master/PerformanceTests/SunSpider/tests/sunspider-1.0.2/3d-cube.js#L239&quot;&gt;&lt;img src=&quot;http://benediktmeurer.de/images/2016/3d-cube-loop-20161216.png&quot; alt=&quot;3d-cube.js&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;一个有趣的发现是：&lt;code class=&quot;highlighter-rouge&quot;&gt;RotateX&lt;/code&gt;、&lt;code class=&quot;highlighter-rouge&quot;&gt;RotateY&lt;/code&gt; 和 &lt;code class=&quot;highlighter-rouge&quot;&gt;RotateZ&lt;/code&gt; 函数总是调用相同的常量参数 &lt;code class=&quot;highlighter-rouge&quot;&gt;Phi&lt;/code&gt;。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/WebKit/webkit/blob/master/PerformanceTests/SunSpider/tests/sunspider-1.0.2/3d-cube.js#L151&quot;&gt;&lt;img src=&quot;http://benediktmeurer.de/images/2016/3d-cube-rotate-20161216.png&quot; alt=&quot;3d-cube.js&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;这意味着我们基本上总是为 &lt;a href=&quot;https://tc39.github.io/ecma262/#sec-math.sin&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Math.sin&lt;/code&gt;&lt;/a&gt; 和 &lt;a href=&quot;https://tc39.github.io/ecma262/#sec-math.cos&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Math.cos&lt;/code&gt;&lt;/a&gt; 计算相同的值，每次执行都要计算 204 次。只有 3 个不同的输入值：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;0.017453292519943295，&lt;/li&gt;
+  &lt;li&gt;0.05235987755982989，&lt;/li&gt;
+  &lt;li&gt;0.08726646259971647&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;显然，你可以在这里做的一件事情就是通过缓存以前的计算值来避免重复计算相同的正弦值和余弦值。事实上，这是 &lt;code class=&quot;highlighter-rouge&quot;&gt;V8&lt;/code&gt; 以前的做法，而其它引擎例如 &lt;code class=&quot;highlighter-rouge&quot;&gt;SpiderMonkey&lt;/code&gt; 仍然这样做。我们从 &lt;code class=&quot;highlighter-rouge&quot;&gt;V8&lt;/code&gt; 中删除了所谓的超载缓存，因为缓存的开销在现实中的工作负载是不可忽视的，你不可能总是在一行代码中计算相同的值，这在其它地方倒不稀奇。当我们在 2013 和 2014 年移除这个特定的基准优化时，我们对 &lt;code class=&quot;highlighter-rouge&quot;&gt;SunSpider&lt;/code&gt; 基准产生了强烈的冲击，但我们完全相信，优化基准并没有任何意义，同时以这种方式批判现实场景中的使用案例。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://arewefastyet.com/#machine=12&amp;amp;view=single&amp;amp;suite=ss&amp;amp;subtest=cube&amp;amp;start=1343350217&amp;amp;end=1415382608&quot;&gt;&lt;img src=&quot;http://benediktmeurer.de/images/2016/3d-cube-awfy-20161216.png&quot; alt=&quot;3d-cube 基准&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;显然，处理恒定正弦/余弦输入的更好的方法是一个内联的启发式算法，它试图平衡内联因素与其它不同的因素，例如在调用位置优先选择内联，其中恒定折叠可以是有益的，例如在 &lt;code class=&quot;highlighter-rouge&quot;&gt;RotateX&lt;/code&gt;、&lt;code class=&quot;highlighter-rouge&quot;&gt;RotateY&lt;/code&gt; 和 &lt;code class=&quot;highlighter-rouge&quot;&gt;RotateZ&lt;/code&gt; 中调用边界值的案例。但是出于各种原因，这对于 &lt;code class=&quot;highlighter-rouge&quot;&gt;Crankshaft&lt;/code&gt; 编译器并不可行。使用 &lt;code class=&quot;highlighter-rouge&quot;&gt;Ignition&lt;/code&gt; 和 &lt;code class=&quot;highlighter-rouge&quot;&gt;TurboFan&lt;/code&gt; 倒是一个明智的选择，我们已经在开发更好的&lt;a href=&quot;https://docs.google.com/document/d/1VoYBhpDhJC4VlqMXCKvae-8IGuheBGxy32EOgC2LnT8&quot;&gt;内联启发式算法&lt;/a&gt;。&lt;/p&gt;
+
+&lt;h3 id=&quot;垃圾回收是有害的&quot;&gt;垃圾回收是有害的&lt;/h3&gt;
+
+&lt;p&gt;除了这些非常具体的测试问题，&lt;code class=&quot;highlighter-rouge&quot;&gt;SunSpider&lt;/code&gt; 还有一个根本的问题：总体执行时间。目前 &lt;code class=&quot;highlighter-rouge&quot;&gt;V8&lt;/code&gt; 在体面的英特尔硬件上运行整个基准测试大概只需要 200ms（使用默认配置）。次要的 &lt;code class=&quot;highlighter-rouge&quot;&gt;GC&lt;/code&gt;  在 1ms 到 25ms 之间（取决于新空间中的活对象和旧空间的碎片），而主 &lt;code class=&quot;highlighter-rouge&quot;&gt;GC&lt;/code&gt; 暂停可以浪费掉 30ms（甚至不考虑增量标记的开销），这超过了 &lt;code class=&quot;highlighter-rouge&quot;&gt;SunSpider&lt;/code&gt; 套件总体执行时间的 10%！因此，任何不想因 &lt;code class=&quot;highlighter-rouge&quot;&gt;GC&lt;/code&gt; 循环而造成减速 10-20% 的引擎，必须用某种方式确保它在运行 &lt;code class=&quot;highlighter-rouge&quot;&gt;SunSpider&lt;/code&gt; 时不会触发 &lt;code class=&quot;highlighter-rouge&quot;&gt;GC&lt;/code&gt;。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/WebKit/webkit/blob/master/PerformanceTests/SunSpider/resources/driver-TEMPLATE.html#L70&quot;&gt;&lt;img src=&quot;http://benediktmeurer.de/images/2016/sunspider-driver-20161216.png&quot; alt=&quot;driver-TEMPLATE.html&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;就实现而言，有不同的方案，不过就我所知，没有一个在现实场景中产生了任何积极的影响。&lt;code class=&quot;highlighter-rouge&quot;&gt;V8&lt;/code&gt; 使用了一个相当简单的技巧：由于每个 &lt;code class=&quot;highlighter-rouge&quot;&gt;SunSpider&lt;/code&gt; 套件都运行在一个新的 &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;iframe&amp;gt;&lt;/code&gt; 中，这对应于 &lt;code class=&quot;highlighter-rouge&quot;&gt;V8&lt;/code&gt; 中一个新的本地上下文，我们只需检测快速的 &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;iframe&amp;gt;&lt;/code&gt; 创建和处理（所有的 &lt;code class=&quot;highlighter-rouge&quot;&gt;SunSpider&lt;/code&gt; 测试花费的时间小于 50ms），在这种情况下，在处理和创建之间执行垃圾回收，以确保我们在实际运行测试的时候不会触发 &lt;code class=&quot;highlighter-rouge&quot;&gt;GC&lt;/code&gt;。这个技巧很好，99.9% 的案例没有与实际用途冲突；除了每时每刻，无论你在做什么，都让你看起来像是 &lt;code class=&quot;highlighter-rouge&quot;&gt;V8&lt;/code&gt; 的 &lt;code class=&quot;highlighter-rouge&quot;&gt;SunSpider&lt;/code&gt; 测试驱动程序，那么你可能会遇到困难，或许你可以通过强制 &lt;code class=&quot;highlighter-rouge&quot;&gt;GC&lt;/code&gt; 来解决，不过这对你的应用可能会有负面影响。所以紧记一点：&lt;strong&gt;不要让你的应用看起来像 SunSpider！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;我可以继续展示更多 &lt;code class=&quot;highlighter-rouge&quot;&gt;SunSpider&lt;/code&gt; 示例，但我不认为这非常有用。到目前为止，应该清楚的是，&lt;code class=&quot;highlighter-rouge&quot;&gt;SunSpider&lt;/code&gt; 为刷新业绩而做的进一步优化在现实场景中没有带来任何好处。事实上，世界可能会因为没有 &lt;code class=&quot;highlighter-rouge&quot;&gt;SunSpider&lt;/code&gt; 而更美好，因为引擎可以放弃只是用于 &lt;code class=&quot;highlighter-rouge&quot;&gt;SunSpider&lt;/code&gt; 的奇淫技巧，甚至可以伤害到现实中的用例。不幸的是，SunSpider 仍然被（科技）媒体大量地用来比较他们眼中的浏览器性能，或者甚至用来比较手机！所以手机制造商和安卓制造商对于让 &lt;code class=&quot;highlighter-rouge&quot;&gt;SunSpider&lt;/code&gt;（以及其它现在毫无意义的基准 &lt;code class=&quot;highlighter-rouge&quot;&gt;FWIW&lt;/code&gt;） 上的 &lt;code class=&quot;highlighter-rouge&quot;&gt;Chrome&lt;/code&gt; 看起来比较体面自然有一定的兴趣。手机制造商通过销售手机来赚钱，所以获得良好的评价对于电话部门甚至整间公司的成功至关重要。其中一些部门甚至在其手机中配置在 &lt;code class=&quot;highlighter-rouge&quot;&gt;SunSpider&lt;/code&gt; 中得分较高的旧版 &lt;code class=&quot;highlighter-rouge&quot;&gt;V8&lt;/code&gt;，向他们的用户展示各种未修复的安全漏洞（在新版中早已被修复），并保护用户免受最新版本的 &lt;code class=&quot;highlighter-rouge&quot;&gt;V8&lt;/code&gt; 的任何现实场景的性能优势！&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.engadget.com/2016/03/08/galaxy-s7-and-s7-edge-review/&quot;&gt;&lt;img src=&quot;http://benediktmeurer.de/images/2016/engadget-20161216.png&quot; alt=&quot;Galaxy S7 和 S7 Edge 的评价：三星的高光表现&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;作为 &lt;code class=&quot;highlighter-rouge&quot;&gt;JavaScript&lt;/code&gt; 社区的一员，如果我们真的想认真对待 &lt;code class=&quot;highlighter-rouge&quot;&gt;JavaScript&lt;/code&gt; 领域现实场景的性能，我们需要让各大技术媒体停止使用传统的 &lt;code class=&quot;highlighter-rouge&quot;&gt;JavaScript&lt;/code&gt; 基准来比较浏览器或手机。我看到的一个好处是能够在每个浏览器中运行一个基准测试，并比较它的得分，但是请使用一个与当今世界相关的基准，例如真实的 &lt;code class=&quot;highlighter-rouge&quot;&gt;web&lt;/code&gt; 页面；如果你觉得需要通过浏览器基准来比较两部手机，请至少考虑使用 &lt;a href=&quot;http://browserbench.org/Speedometer&quot;&gt;Speedometer&lt;/a&gt;。&lt;/p&gt;
+
+&lt;h3 id=&quot;轻松一刻&quot;&gt;轻松一刻&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://images-cdn.9gag.com/photo/avZd9NX_700b.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;我一直很喜欢这个 &lt;a href=&quot;https://twitter.com/thealphanerd&quot;&gt;Myles Borins&lt;/a&gt; 谈话，所以我不得不无耻地向他偷师。现在我们从 &lt;code class=&quot;highlighter-rouge&quot;&gt;SunSpider&lt;/code&gt; 的谴责中回过头来，让我们继续检查其它经典基准。&lt;/p&gt;
+
+&lt;h3 id=&quot;不是那么详细的-kraken-案例&quot;&gt;不是那么详细的 Kraken 案例&lt;/h3&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Kraken&lt;/code&gt; 基准是 &lt;a href=&quot;https://blog.mozilla.org/blog/2010/09/14/release-the-kraken-2&quot;&gt;Mozilla 于 2010 年 9 月 发布的&lt;/a&gt;，据说它包含了现实场景应用的片段/内核，并且与 &lt;code class=&quot;highlighter-rouge&quot;&gt;SunSpider&lt;/code&gt; 相比少了一个微基准。我不想花太多时间在 &lt;code class=&quot;highlighter-rouge&quot;&gt;Kraken&lt;/code&gt; 上，因为我认为它不像 &lt;code class=&quot;highlighter-rouge&quot;&gt;SunSpider&lt;/code&gt; 和 &lt;code class=&quot;highlighter-rouge&quot;&gt;Octane&lt;/code&gt; 一样对 &lt;code class=&quot;highlighter-rouge&quot;&gt;JavaScript&lt;/code&gt; 性能有着深远的影响，所以我将强调一个特别的案例——&lt;a href=&quot;https://github.com/h4writer/arewefastyet/blob/master/benchmarks/kraken/tests/kraken-1.1/audio-oscillator.js&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;audio-oscillator.js&lt;/code&gt;&lt;/a&gt; 测试。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/h4writer/arewefastyet/blob/master/benchmarks/kraken/tests/kraken-1.1/audio-oscillator.js&quot;&gt;&lt;img src=&quot;http://benediktmeurer.de/images/2016/audio-oscillator-20161216.png&quot; alt=&quot;audio-oscillator.js&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;正如你所见，测试调用了 &lt;code class=&quot;highlighter-rouge&quot;&gt;calcOsc&lt;/code&gt; 函数 500 次。&lt;code class=&quot;highlighter-rouge&quot;&gt;calcOsc&lt;/code&gt; 首先在全局的正弦 &lt;code class=&quot;highlighter-rouge&quot;&gt;Oscillator&lt;/code&gt; 上调用 &lt;code class=&quot;highlighter-rouge&quot;&gt;generate&lt;/code&gt;，然后创建一个新的 &lt;code class=&quot;highlighter-rouge&quot;&gt;Oscillator&lt;/code&gt;，调用 &lt;code class=&quot;highlighter-rouge&quot;&gt;generate&lt;/code&gt; 并将其添加到全局正弦的 &lt;code class=&quot;highlighter-rouge&quot;&gt;oscillator&lt;/code&gt;。没有详细说明测试为什么是这样做的，让我们看看 &lt;code class=&quot;highlighter-rouge&quot;&gt;Oscillator&lt;/code&gt; 原型上的 &lt;code class=&quot;highlighter-rouge&quot;&gt;generate&lt;/code&gt; 方法。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/h4writer/arewefastyet/blob/master/benchmarks/kraken/tests/kraken-1.1/audio-oscillator-data.js#L687&quot;&gt;&lt;img src=&quot;http://benediktmeurer.de/images/2016/audio-oscillator-generate-20161216.png&quot; alt=&quot;audio-oscillator-data.js&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;看看代码，你会期望这是被循环中的数组访问或者乘法或者 &lt;a href=&quot;https://tc39.github.io/ecma262/#sec-math.round&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Math.round&lt;/code&gt;&lt;/a&gt; 调用所主导的，但令人惊讶的是 &lt;code class=&quot;highlighter-rouge&quot;&gt;offset % this.waveTableLength&lt;/code&gt; 表达式完全支配了 &lt;code class=&quot;highlighter-rouge&quot;&gt;Oscillator.prototype.generate&lt;/code&gt; 的运行。在任何的英特尔机器上的分析器中运行此基准测试显示，超过 20% 的通过数据都归功于我们为模数生成的 &lt;code class=&quot;highlighter-rouge&quot;&gt;idiv&lt;/code&gt; 指令。然而一个有趣的发现是，&lt;code class=&quot;highlighter-rouge&quot;&gt;Oscillator&lt;/code&gt; 实例的 &lt;code class=&quot;highlighter-rouge&quot;&gt;waveTableLength&lt;/code&gt; 字段总是包含相同的值——2048，因为它在 &lt;code class=&quot;highlighter-rouge&quot;&gt;Oscillator&lt;/code&gt; 构造器中只分配一次。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/h4writer/arewefastyet/blob/master/benchmarks/kraken/tests/kraken-1.1/audio-oscillator-data.js#L566&quot;&gt;&lt;img src=&quot;http://benediktmeurer.de/images/2016/audio-oscillator-constructor-20161216.png&quot; alt=&quot;audio-oscillator-data.js&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;如果我们知道整数模数运算的右边是 2 的幂，我们可以生成&lt;a href=&quot;https://graphics.stanford.edu/~seander/bithacks.html#ModulusDivisionEasy&quot;&gt;更好的代码&lt;/a&gt;，显然完全避免了英特尔上的 &lt;code class=&quot;highlighter-rouge&quot;&gt;idiv&lt;/code&gt; 指令。所以我们需要获取一种信息使 &lt;code class=&quot;highlighter-rouge&quot;&gt;this.waveTableLength&lt;/code&gt; 从  &lt;code class=&quot;highlighter-rouge&quot;&gt;Oscillator&lt;/code&gt; 构造器到 &lt;code class=&quot;highlighter-rouge&quot;&gt;Oscillator.prototype.generate&lt;/code&gt; 中的模运算都是 2048。一个显而易见的方法是尝试依赖于将所有内容内嵌到 &lt;code class=&quot;highlighter-rouge&quot;&gt;calcOsc&lt;/code&gt; 函数，并让 &lt;code class=&quot;highlighter-rouge&quot;&gt;load/store&lt;/code&gt; 消除为我们进行的常量传播，但这对于在 &lt;code class=&quot;highlighter-rouge&quot;&gt;calcOsc&lt;/code&gt; 函数之外分配的正弦振荡器无效。&lt;/p&gt;
+
+&lt;p&gt;因此，我们所做的就是添加支持跟踪某些常数值作为模运算符的右侧反馈。这在 &lt;code class=&quot;highlighter-rouge&quot;&gt;V8&lt;/code&gt; 中是有意义的，因为我们为诸如 &lt;code class=&quot;highlighter-rouge&quot;&gt;+&lt;/code&gt;、&lt;code class=&quot;highlighter-rouge&quot;&gt;*&lt;/code&gt; 和 &lt;code class=&quot;highlighter-rouge&quot;&gt;%&lt;/code&gt; 的二进制操作跟踪类型反馈，这意味着操作者跟踪输入的类型和产生的输出类型（参见最近圆桌讨论关于&lt;a href=&quot;https://docs.google.com/presentation/d/1wZVIqJMODGFYggueQySdiA3tUYuHNMcyp_PndgXsO1Y&quot;&gt;动态语言的快速运算&lt;/a&gt;的幻灯片）。当然，用 &lt;code class=&quot;highlighter-rouge&quot;&gt;fullcodegen&lt;/code&gt; 和 &lt;code class=&quot;highlighter-rouge&quot;&gt;Crankshaft&lt;/code&gt; 挂接起来也是相当容易的，&lt;code class=&quot;highlighter-rouge&quot;&gt;MOD&lt;/code&gt; 的 &lt;code class=&quot;highlighter-rouge&quot;&gt;BinaryOpIC&lt;/code&gt; 也可以跟踪两个右边的已知权。&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ ~/Projects/v8/out/Release/d8 --trace-ic audio-oscillator.js
+[...SNIP...]
+[BinaryOpIC(MOD:None*None-&amp;gt;None) =&amp;gt; (MOD:Smi*2048-&amp;gt;Smi) @ ~Oscillator.generate+598 at audio-oscillator.js:697]
+[...SNIP...]
+$
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;显示表明 &lt;code class=&quot;highlighter-rouge&quot;&gt;BinaryOpIC&lt;/code&gt; 正在为模数的右侧拾取适当的恒定反馈，并正确跟踪左侧始终是一个小整数（&lt;code class=&quot;highlighter-rouge&quot;&gt;V8&lt;/code&gt; 的 &lt;code class=&quot;highlighter-rouge&quot;&gt;Smi&lt;/code&gt; 说），我们也总是产生一个小的整数结果 。 使用 &lt;code class=&quot;highlighter-rouge&quot;&gt;--print-opt-code -code-comments&lt;/code&gt; 查看生成的代码，很快就显示出，&lt;code class=&quot;highlighter-rouge&quot;&gt;Crankshaft&lt;/code&gt; 利用反馈在 &lt;code class=&quot;highlighter-rouge&quot;&gt;Oscillator.prototype.generate&lt;/code&gt; 中为整数模数生成一个有效的代码序列：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;[...SNIP...]
+                  ;;; &amp;lt;@80,#84&amp;gt; load-named-field
+0x133a0bdacc4a   330  8b4343         movl rax,[rbx+0x43]
+                  ;;; &amp;lt;@83,#86&amp;gt; compare-numeric-and-branch
+0x133a0bdacc4d   333  3d00080000     cmp rax,0x800
+0x133a0bdacc52   338  0f85ff000000   jnz 599  (0x133a0bdacd57)
+[...SNIP...]
+                  ;;; &amp;lt;@90,#94&amp;gt; mod-by-power-of-2-i
+0x133a0bdacc5b   347  4585db         testl r11,r11
+0x133a0bdacc5e   350  790f           jns 367  (0x133a0bdacc6f)
+0x133a0bdacc60   352  41f7db         negl r11
+0x133a0bdacc63   355  4181e3ff070000 andl r11,0x7ff
+0x133a0bdacc6a   362  41f7db         negl r11
+0x133a0bdacc6d   365  eb07           jmp 374  (0x133a0bdacc76)
+0x133a0bdacc6f   367  4181e3ff070000 andl r11,0x7ff
+[...SNIP...]
+                  ;;; &amp;lt;@127,#88&amp;gt; deoptimize
+0x133a0bdacd57   599  e81273cdff     call 0x133a0ba8406e
+[...SNIP...]
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;所以你看到我们加载 &lt;code class=&quot;highlighter-rouge&quot;&gt;this.waveTableLength&lt;/code&gt;（&lt;code class=&quot;highlighter-rouge&quot;&gt;rbx&lt;/code&gt; 持有 &lt;code class=&quot;highlighter-rouge&quot;&gt;this&lt;/code&gt; 的引用）的值，检查它仍然是 2048（十六进制的 0x800），如果是这样，只是执行一个按位操作和适当的掩码  0x7ff（&lt;code class=&quot;highlighter-rouge&quot;&gt;r11&lt;/code&gt; 包含循环感应变量 &lt;code class=&quot;highlighter-rouge&quot;&gt;i&lt;/code&gt; 的值），而不是使用 &lt;code class=&quot;highlighter-rouge&quot;&gt;idiv&lt;/code&gt; 指令（注意保留左侧的符号）。&lt;/p&gt;
+
+&lt;h3 id=&quot;过度专业化的问题&quot;&gt;过度专业化的问题&lt;/h3&gt;
+
+&lt;p&gt;所以这个技巧酷毙了，但正如许多基准关注的技巧都有一个主要的缺点：太过于专业了！一旦右侧发生变化，所有优化过的代码需要重构（假设右手始终是两个不再拥有的权），任何进一步的优化尝试都必须再次使用 &lt;code class=&quot;highlighter-rouge&quot;&gt;idiv&lt;/code&gt;，因为 &lt;code class=&quot;highlighter-rouge&quot;&gt;BinaryOpIC&lt;/code&gt; 很可能以 &lt;code class=&quot;highlighter-rouge&quot;&gt;Smi * Smi -&amp;gt; Smi&lt;/code&gt; 的形式报告反馈。例如，假设我们实例化另一个 &lt;code class=&quot;highlighter-rouge&quot;&gt;Oscillator&lt;/code&gt;，在其上设置不同的 &lt;code class=&quot;highlighter-rouge&quot;&gt;waveTableLength&lt;/code&gt;，并为振荡器调用 &lt;code class=&quot;highlighter-rouge&quot;&gt;generate&lt;/code&gt;，那么即使实际上有趣的 &lt;code class=&quot;highlighter-rouge&quot;&gt;Oscillator&lt;/code&gt; 不受影响，我们也会损失 20% 的性能（例如，引擎在这里实行非局部惩罚）。&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;gd&quot;&gt;--- audio-oscillator.js.ORIG    2016-12-15 22:01:43.897033156 +0100
+&lt;/span&gt;&lt;span class=&quot;gi&quot;&gt;+++ audio-oscillator.js 2016-12-15 22:02:26.397326067 +0100
+&lt;/span&gt;&lt;span class=&quot;gu&quot;&gt;@@ -1931,6 +1931,10 @@
+&lt;/span&gt; var frequency = 344.53;
+ var sine = new Oscillator(Oscillator.Sine, frequency, 1, bufferSize, sampleRate);
+
+&lt;span class=&quot;gi&quot;&gt;+var unused = new Oscillator(Oscillator.Sine, frequency, 1, bufferSize, sampleRate);
++unused.waveTableLength = 1024;
++unused.generate();
++
+&lt;/span&gt; var calcOsc = function() {
+   sine.generate();
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;将原始的 &lt;code class=&quot;highlighter-rouge&quot;&gt;audio-oscillator.js&lt;/code&gt; 执行时间与包含额外未使用的 &lt;code class=&quot;highlighter-rouge&quot;&gt;Oscillator&lt;/code&gt; 实例与修改的 &lt;code class=&quot;highlighter-rouge&quot;&gt;waveTableLength&lt;/code&gt; 的版本进行比较，可以显示预期的结果：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ ~/Projects/v8/out/Release/d8 audio-oscillator.js.ORIG
+Time (audio-oscillator-once): 64 ms.
+$ ~/Projects/v8/out/Release/d8 audio-oscillator.js
+Time (audio-oscillator-once): 81 ms.
+$
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;这是一个非常可怕的性能悬崖的例子：假设开发人员为库编写代码，并使用某些样本输入值进行仔细的调整和优化，性能是体面的。现在，用户开始使用该库读取性能日志，但不知何故从性能悬崖下降，因为她/他正在以一种稍微不同的方式使用库，即以某种方式污染某种 &lt;code class=&quot;highlighter-rouge&quot;&gt;BinaryOpIC&lt;/code&gt; 的类型反馈，并且遭受 20% 的减速（与该库作者的测量相比），该库的作者和用户都无法解释，这似乎是随机的。&lt;/p&gt;
+
+&lt;p&gt;现在这在 &lt;code class=&quot;highlighter-rouge&quot;&gt;JavaScript&lt;/code&gt; 领域并不少见，不幸的是，这些悬崖中有几个是不可避免的，因为它们是由于 &lt;code class=&quot;highlighter-rouge&quot;&gt;JavaScript&lt;/code&gt; 的性能是基于乐观的假设和猜测的事实。我们已经花了 &lt;strong&gt;大量&lt;/strong&gt; 时间和精力来试图找到避免这些性能悬崖的方法，不过依旧提供（几乎）相同的性能。事实证明，尽可能避免 &lt;code class=&quot;highlighter-rouge&quot;&gt;idiv&lt;/code&gt; 是很有意义的，即使你不一定知道右边总是一个 2 的幂（通过动态反馈），所以为什么 &lt;code class=&quot;highlighter-rouge&quot;&gt;TurboFan&lt;/code&gt; 的做法有异于 &lt;code class=&quot;highlighter-rouge&quot;&gt;Crankshaft&lt;/code&gt; 的做法，因为它总是在运行时检查输入是否是 2 的幂，所以一般情况下，对于有符整数模数，优化两个右手侧的（未知）权看起来像这样（在伪代码中）：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;if 0 &amp;lt; rhs then
+  msk = rhs - 1
+  if rhs &amp;amp; msk != 0 then
+    lhs % rhs
+  else
+    if lhs &amp;lt; 0 then
+      -(-lhs &amp;amp; msk)
+    else
+      lhs &amp;amp; msk
+else
+  if rhs &amp;lt; -1 then
+    lhs % rhs
+  else
+    zero
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;这产生更加一致和可预测的性能（使用 &lt;code class=&quot;highlighter-rouge&quot;&gt;TurboFan&lt;/code&gt;）：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ ~/Projects/v8/out/Release/d8 --turbo audio-oscillator.js.ORIG
+Time (audio-oscillator-once): 69 ms.
+$ ~/Projects/v8/out/Release/d8 --turbo audio-oscillator.js
+Time (audio-oscillator-once): 69 ms.
+$
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;基准和过度专业化的问题在于基准可以给你提示在哪里可以看看以及该怎么做，但它不告诉你你应该走多远，不能保护优化。例如，所有 &lt;code class=&quot;highlighter-rouge&quot;&gt;JavaScript&lt;/code&gt; 引擎都使用基准来防止性能下降，但是运行 &lt;code class=&quot;highlighter-rouge&quot;&gt;Kraken&lt;/code&gt; 不能保护我们在 &lt;code class=&quot;highlighter-rouge&quot;&gt;TurboFan&lt;/code&gt; 中的一般方法，即我们可以将 &lt;code class=&quot;highlighter-rouge&quot;&gt;TurboFan&lt;/code&gt; 中的模优化降级到过度专业版本的 &lt;code class=&quot;highlighter-rouge&quot;&gt;Crankshaft&lt;/code&gt;，而基准不会告诉我们却在倒退的事实，因为从基准的角度来看这很好！现在你可以扩展基准，也许以上面我们做的相同的方式，并试图用基准覆盖一切，这是引擎实现者在一定程度上做的事情，但这种方法不会任意缩放。即使基准测试方便，易于用来沟通和竞争，以常识所见你还是需要留下空间，否则过度专业化将支配一切，你会有一个真正的、可接受的、巨大的性能悬崖线。&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Kraken&lt;/code&gt; 测试还有许多其它的问题，不过现在让我们继续讨论过去五年中最有影响力的 &lt;code class=&quot;highlighter-rouge&quot;&gt;JavaScript&lt;/code&gt; 基准测试—— &lt;code class=&quot;highlighter-rouge&quot;&gt;Octane&lt;/code&gt; 测试。&lt;/p&gt;
+
+&lt;h3 id=&quot;深入接触-octane&quot;&gt;深入接触 Octane&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://developers.google.com/octane&quot;&gt;Octane&lt;/a&gt; 基准是 &lt;code class=&quot;highlighter-rouge&quot;&gt;V8&lt;/code&gt; 基准的继承者，最初由&lt;a href=&quot;https://blog.chromium.org/2012/08/octane-javascript-benchmark-suite-for.html&quot;&gt;谷歌于 2012 年中期发布&lt;/a&gt;，目前的版本 &lt;code class=&quot;highlighter-rouge&quot;&gt;Octane&lt;/code&gt; 2.0 &lt;a href=&quot;https://blog.chromium.org/2013/11/announcing-octane-20.html&quot;&gt;于 2013 年年底发布&lt;/a&gt;。这个版本包含 15 个独立测试，其中对于 &lt;code class=&quot;highlighter-rouge&quot;&gt;Splay&lt;/code&gt; 和 &lt;code class=&quot;highlighter-rouge&quot;&gt;Mandreel&lt;/code&gt;，我们用来测试吞吐量和延迟。这些测试范围从 &lt;a href=&quot;http://www.typescriptlang.org/&quot;&gt;微软 TypeScript 编译器&lt;/a&gt; 编译自身到 &lt;code class=&quot;highlighter-rouge&quot;&gt;zlib&lt;/code&gt; 测试测量原生的 &lt;a href=&quot;http://asmjs.org/&quot;&gt;asm.js&lt;/a&gt; 性能，再到 &lt;code class=&quot;highlighter-rouge&quot;&gt;RegExp&lt;/code&gt; 引擎的性能测试、光线追踪器、2D 物理引擎等。有关各个基准测试项的详细概述，请参阅&lt;a href=&quot;https://developers.google.com/octane/benchmark&quot;&gt;说明书&lt;/a&gt;。所有这些测试项目都经过仔细的筛选，以反映 &lt;code class=&quot;highlighter-rouge&quot;&gt;JavaScript&lt;/code&gt; 性能的方方面面，我们认为这在 2012 年非常重要，或许预计在不久的将来会变得更加重要。&lt;/p&gt;
+
+&lt;p&gt;在很大程度上 &lt;code class=&quot;highlighter-rouge&quot;&gt;Octane&lt;/code&gt; 在实现其将 &lt;code class=&quot;highlighter-rouge&quot;&gt;JavaScript&lt;/code&gt; 性能提高到更高水平的目标方面无比的成功，它在 2012 年和 2013 年引导了良性的竞争，&lt;code class=&quot;highlighter-rouge&quot;&gt;Octane&lt;/code&gt; 创造了巨大的业绩和成就。但是现在将近 2017 年了，世界看起来与 2012 年真的迥然不同了。除了通常和经常被引用的批评，&lt;code class=&quot;highlighter-rouge&quot;&gt;Octane&lt;/code&gt; 中的大多数项目基本上已经过时（例如，老版本的 &lt;code class=&quot;highlighter-rouge&quot;&gt;TypeScript&lt;/code&gt;，&lt;code class=&quot;highlighter-rouge&quot;&gt;zlib&lt;/code&gt; 通过老版本的 &lt;a href=&quot;https://github.com/kripken/emscripten&quot;&gt;Emscripten&lt;/a&gt; 编译而成，&lt;code class=&quot;highlighter-rouge&quot;&gt;Mandreel&lt;/code&gt; 甚至不再可用等等），某种更重要的方式影响了 &lt;code class=&quot;highlighter-rouge&quot;&gt;Octane&lt;/code&gt; 的用途：&lt;/p&gt;
+
+&lt;p&gt;我们看到大型 web 框架赢得了 web 种族之争，尤其是像 &lt;a href=&quot;http://emberjs.com/&quot;&gt;Ember&lt;/a&gt; 和 &lt;a href=&quot;https://angularjs.org/&quot;&gt;AngularJS&lt;/a&gt; 这样的重型框架，它们使用了 &lt;code class=&quot;highlighter-rouge&quot;&gt;JavaScript&lt;/code&gt; 执行模式，不过根本没有被 &lt;code class=&quot;highlighter-rouge&quot;&gt;Octane&lt;/code&gt; 所反映，并且经常受到（我们）&lt;code class=&quot;highlighter-rouge&quot;&gt;Octane&lt;/code&gt; 具体优化的损害。我们还看到 &lt;code class=&quot;highlighter-rouge&quot;&gt;JavaScript&lt;/code&gt; 在服务器和工具前端获胜，这意味着有大规模的 &lt;code class=&quot;highlighter-rouge&quot;&gt;JavaScript&lt;/code&gt; 应用现在通常运行上数星期，如果不是运行上数年都不会被 &lt;code class=&quot;highlighter-rouge&quot;&gt;Octane&lt;/code&gt; 捕获。正如开篇所述，我们有硬数据表明 &lt;code class=&quot;highlighter-rouge&quot;&gt;Octane&lt;/code&gt; 的执行和内存配置文件与我们每天在 web 上看到的截然不同。&lt;/p&gt;
+
+&lt;p&gt;让我们来看看今天一些玩弄 &lt;code class=&quot;highlighter-rouge&quot;&gt;Octane&lt;/code&gt; 基准的具体例子，其中优化不再反映在现实场景。请注意，即使这可能听起来有点负面回顾，它绝对不意味着这样！正如我已经说过好几遍，&lt;code class=&quot;highlighter-rouge&quot;&gt;Octane&lt;/code&gt; 是 &lt;code class=&quot;highlighter-rouge&quot;&gt;JavaScript&lt;/code&gt; 性能故事中的重要一章，它发挥了至关重要的作用。在过去由 &lt;code class=&quot;highlighter-rouge&quot;&gt;Octane&lt;/code&gt; 驱动的 &lt;code class=&quot;highlighter-rouge&quot;&gt;JavaScript&lt;/code&gt; 引擎中的所有优化都是善意地添加的，因为 &lt;code class=&quot;highlighter-rouge&quot;&gt;Octane&lt;/code&gt; 是现实场景性能的好代理！每个年代都有它的基准，而对于每一个基准都有一段时间你必须要放手！&lt;/p&gt;
+
+&lt;p&gt;话虽如此，让我们在路上看这个节目，首先看看 &lt;code class=&quot;highlighter-rouge&quot;&gt;Box2D&lt;/code&gt; 测试，它是基于 &lt;a href=&quot;https://github.com/hecht-software/box2dweb&quot;&gt;Box2DWeb&lt;/a&gt; （一个最初由 Erin Catto 编写的移植到 &lt;code class=&quot;highlighter-rouge&quot;&gt;JavaScript&lt;/code&gt; 的流行的 2D 物理引擎）的。总的来说，很多浮点数学驱动了很多 &lt;code class=&quot;highlighter-rouge&quot;&gt;JavaScript&lt;/code&gt; 引擎下很好的优化，但是，事实证明它包含一个可以肆意玩弄基准的漏洞（怪我，我发现了漏洞，并添加在这种情况下的漏洞）。在基准中有一个函数 &lt;code class=&quot;highlighter-rouge&quot;&gt;D.prototype.UpdatePairs&lt;/code&gt;，看起来像这样：&lt;/p&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nx&quot;&gt;D&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;prototype&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;UpdatePairs&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;e&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;f&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;m_pairCount&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+        &lt;span class=&quot;nx&quot;&gt;m&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;f&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;f&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;m_moveBuffer&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;length&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;++&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;f&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;nx&quot;&gt;m&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;m_moveBuffer&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;f&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;];&lt;/span&gt;
+        &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;r&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;m_tree&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;GetFatAABB&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;m&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+        &lt;span class=&quot;nx&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;m_tree&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;Query&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;t&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+                &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;t&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;m&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;true&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+                &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;m_pairCount&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;m_pairBuffer&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;length&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;m_pairBuffer&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;m_pairCount&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;O&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+                &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;x&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;m_pairBuffer&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;m_pairCount&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;];&lt;/span&gt;
+                &lt;span class=&quot;nx&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;proxyA&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;t&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;m&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;?&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;t&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;m&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+                &lt;span class=&quot;nx&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;proxyB&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;t&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;m&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;?&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;t&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;m&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+                &lt;span class=&quot;o&quot;&gt;++&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;m_pairCount&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+                &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;true&lt;/span&gt;
+            &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
+            &lt;span class=&quot;nx&quot;&gt;r&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;f&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;m_moveBuffer&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;length&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;f&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;m_pairCount&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;nx&quot;&gt;r&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;m_pairBuffer&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;f&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;];&lt;/span&gt;
+        &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;s&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;m_tree&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;GetUserData&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;r&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;proxyA&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt;
+            &lt;span class=&quot;nx&quot;&gt;v&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;m_tree&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;GetUserData&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;r&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;proxyB&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+        &lt;span class=&quot;nx&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;s&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;v&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;++&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;f&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;f&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;m_pairCount&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+            &lt;span class=&quot;nx&quot;&gt;s&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;m_pairBuffer&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;f&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;];&lt;/span&gt;
+            &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;s&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;proxyA&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;!=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;r&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;proxyA&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;||&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;s&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;proxyB&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;!=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;r&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;proxyB&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;break&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+            &lt;span class=&quot;o&quot;&gt;++&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;f&lt;/span&gt;
+        &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;一些分析显示，在第一个循环中传递给 &lt;code class=&quot;highlighter-rouge&quot;&gt;e.m_tree.Query&lt;/code&gt; 的无辜的内部函数花费了大量的时间：&lt;/p&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;t&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;t&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;m&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;true&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;m_pairCount&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;m_pairBuffer&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;length&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;m_pairBuffer&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;m_pairCount&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;O&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;x&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;m_pairBuffer&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;m_pairCount&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;];&lt;/span&gt;
+    &lt;span class=&quot;nx&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;proxyA&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;t&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;m&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;?&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;t&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;m&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;nx&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;proxyB&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;t&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;m&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;?&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;t&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;m&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;o&quot;&gt;++&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;m_pairCount&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;true&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;更准确地说，时间并不是开销在这个函数本身，而是由此触发的操作和内置库函数。结果，我们花费了基准调用的总体执行时间的 4-7% 在 &lt;a href=&quot;https://github.com/v8/v8/blob/5124589642ba12228dcd66a8cb8c84c986a13f35/src/runtime/runtime-object.cc#L884&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Compare&lt;/code&gt; 运行时函数&lt;/a&gt;上，它实现了&lt;a href=&quot;https://tc39.github.io/ecma262/#sec-abstract-relational-comparison&quot;&gt;抽象关系&lt;/a&gt;比较的一般情况。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://benediktmeurer.de/images/2016/box2d-compare-20161216.png&quot; alt=&quot;Box2D 比较分析&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;几乎所有对运行时函数的调用都来自 &lt;a href=&quot;https://github.com/v8/v8/blob/5124589642ba12228dcd66a8cb8c84c986a13f35/src/x64/code-stubs-x64.cc#L2495&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;CompareICStub&lt;/code&gt;&lt;/a&gt;，它用于内部函数中的两个关系比较：&lt;/p&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nx&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;proxyA&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;t&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;m&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;?&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;t&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;m&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;proxyB&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;t&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;m&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;?&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;t&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;m&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;所以这两行无辜的代码要负起 99% 的时间开销的责任！这怎么来的？好吧，与 &lt;code class=&quot;highlighter-rouge&quot;&gt;JavaScript&lt;/code&gt; 中的许多东西一样，&lt;a href=&quot;https://tc39.github.io/ecma262/#sec-abstract-relational-comparison&quot;&gt;抽象关系比较&lt;/a&gt; 的直观用法不一定是正确的。在这个函数中，&lt;code class=&quot;highlighter-rouge&quot;&gt;t&lt;/code&gt; 和 &lt;code class=&quot;highlighter-rouge&quot;&gt;m&lt;/code&gt; 都是 &lt;code class=&quot;highlighter-rouge&quot;&gt;L&lt;/code&gt; 的实例，它是这个应用的一个中心类，但不会覆盖 &lt;code class=&quot;highlighter-rouge&quot;&gt;Symbol.toPrimitive&lt;/code&gt;、&lt;code class=&quot;highlighter-rouge&quot;&gt;“toString”&lt;/code&gt;、&lt;code class=&quot;highlighter-rouge&quot;&gt;“valueOf”&lt;/code&gt; 或 &lt;code class=&quot;highlighter-rouge&quot;&gt;Symbol.toStringTag&lt;/code&gt; 属性，它们与抽象关系比较相关。所以如果你写 &lt;code class=&quot;highlighter-rouge&quot;&gt;t &amp;lt; m&lt;/code&gt; 会发生什么呢？&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;调用 &lt;a href=&quot;https://tc39.github.io/ecma262/#sec-toprimitive&quot;&gt;ToPrimitive&lt;/a&gt;(&lt;code class=&quot;highlighter-rouge&quot;&gt;t&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;hint Number&lt;/code&gt;)。&lt;/li&gt;
+  &lt;li&gt;运行 &lt;a href=&quot;https://tc39.github.io/ecma262/#sec-ordinarytoprimitive&quot;&gt;OrdinaryToPrimitive&lt;/a&gt;(&lt;code class=&quot;highlighter-rouge&quot;&gt;t&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;&quot;number&quot;&lt;/code&gt;)，因为这里没有 &lt;code class=&quot;highlighter-rouge&quot;&gt;Symbol.toPrimitive&lt;/code&gt;。&lt;/li&gt;
+  &lt;li&gt;执行 &lt;code class=&quot;highlighter-rouge&quot;&gt;t.valueOf()&lt;/code&gt;，这会获得 &lt;code class=&quot;highlighter-rouge&quot;&gt;t&lt;/code&gt; 自身的值，因为它调用了默认的 &lt;a href=&quot;https://tc39.github.io/ecma262/#sec-object.prototype.valueof&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Object.prototype.valueOf&lt;/code&gt;&lt;/a&gt;。&lt;/li&gt;
+  &lt;li&gt;接着执行 &lt;code class=&quot;highlighter-rouge&quot;&gt;t.toString()&lt;/code&gt;，这会生成 &lt;code class=&quot;highlighter-rouge&quot;&gt;&quot;[object Object]&quot;&lt;/code&gt;，因为调用了默认的 &lt;a href=&quot;https://tc39.github.io/ecma262/#sec-object.prototype.toString&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Object.prototype.toString&lt;/code&gt;&lt;/a&gt;，并且没有找到 &lt;code class=&quot;highlighter-rouge&quot;&gt;L&lt;/code&gt; 的  &lt;a href=&quot;https://tc39.github.io/ecma262/#sec-symbol.tostringtag&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Symbol.toStringTag&lt;/code&gt;&lt;/a&gt;。&lt;/li&gt;
+  &lt;li&gt;调用 &lt;a href=&quot;https://tc39.github.io/ecma262/#sec-toprimitive&quot;&gt;ToPrimitive&lt;/a&gt;(&lt;code class=&quot;highlighter-rouge&quot;&gt;m&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;hint Number&lt;/code&gt;)。&lt;/li&gt;
+  &lt;li&gt;运行 &lt;a href=&quot;https://tc39.github.io/ecma262/#sec-ordinarytoprimitive&quot;&gt;OrdinaryToPrimitive&lt;/a&gt;(&lt;code class=&quot;highlighter-rouge&quot;&gt;m&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;&quot;number&quot;&lt;/code&gt;)，因为这里没有 &lt;code class=&quot;highlighter-rouge&quot;&gt;Symbol.toPrimitive&lt;/code&gt;。&lt;/li&gt;
+  &lt;li&gt;执行 &lt;code class=&quot;highlighter-rouge&quot;&gt;m.valueOf()&lt;/code&gt;，这会获得 &lt;code class=&quot;highlighter-rouge&quot;&gt;m&lt;/code&gt; 自身的值，因为它调用了默认的 &lt;a href=&quot;https://tc39.github.io/ecma262/#sec-object.prototype.valueof&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Object.prototype.valueOf&lt;/code&gt;&lt;/a&gt;。&lt;/li&gt;
+  &lt;li&gt;接着执行 &lt;code class=&quot;highlighter-rouge&quot;&gt;m.toString()&lt;/code&gt;，这会生成 &lt;code class=&quot;highlighter-rouge&quot;&gt;&quot;[object Object]&quot;&lt;/code&gt;，因为调用了默认的 &lt;a href=&quot;https://tc39.github.io/ecma262/#sec-object.prototype.toString&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Object.prototype.toString&lt;/code&gt;&lt;/a&gt;，并且没有找到 &lt;code class=&quot;highlighter-rouge&quot;&gt;L&lt;/code&gt; 的  &lt;a href=&quot;https://tc39.github.io/ecma262/#sec-symbol.tostringtag&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Symbol.toStringTag&lt;/code&gt;&lt;/a&gt;。&lt;/li&gt;
+  &lt;li&gt;执行比较 &lt;code class=&quot;highlighter-rouge&quot;&gt;&quot;[object Object]&quot; &amp;lt; &quot;[object Object]&quot;&lt;/code&gt;，结果是 &lt;code class=&quot;highlighter-rouge&quot;&gt;false&lt;/code&gt;。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;至于 &lt;code class=&quot;highlighter-rouge&quot;&gt;t &amp;gt;= m&lt;/code&gt; 亦复如是，它总会输出 &lt;code class=&quot;highlighter-rouge&quot;&gt;true&lt;/code&gt;。所以这里是一个漏洞——使用抽象关系比较这种方法没有意义。而利用它的方法是使编译器常数折叠，即给基准打补丁：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;gd&quot;&gt;--- octane-box2d.js.ORIG        2016-12-16 07:28:58.442977631 +0100
+&lt;/span&gt;&lt;span class=&quot;gi&quot;&gt;+++ octane-box2d.js     2016-12-16 07:29:05.615028272 +0100
+&lt;/span&gt;&lt;span class=&quot;gu&quot;&gt;@@ -2021,8 +2021,8 @@
+&lt;/span&gt;                     if (t == m) return true;
+                     if (e.m_pairCount == e.m_pairBuffer.length) e.m_pairBuffer[e.m_pairCount] = new O;
+                     var x = e.m_pairBuffer[e.m_pairCount];
+&lt;span class=&quot;gd&quot;&gt;-                    x.proxyA = t &amp;lt; m ? t : m;
+-                    x.proxyB = t &amp;gt;= m ? t : m;
+&lt;/span&gt;&lt;span class=&quot;gi&quot;&gt;+                    x.proxyA = m;
++                    x.proxyB = t;
+&lt;/span&gt;                     ++e.m_pairCount;
+                     return true
+                 },
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;因为这样做会跳过比较以达到 13% 的惊人的性能提升，并且所有的属性查找和内置函数的调用都会被它触发。&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ ~/Projects/v8/out/Release/d8 octane-box2d.js.ORIG
+Score (Box2D): 48063
+$ ~/Projects/v8/out/Release/d8 octane-box2d.js
+Score (Box2D): 55359
+$
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;那么我们是怎么做呢？事实证明，我们已经有一种用于跟踪比较对象的形状的机制，比较发生于 &lt;code class=&quot;highlighter-rouge&quot;&gt;CompareIC&lt;/code&gt;，即所谓的已知接收器映射跟踪（其中的映射是 &lt;code class=&quot;highlighter-rouge&quot;&gt;V8&lt;/code&gt; 的对象形状+原型），不过这是有限的抽象和严格相等比较。但是我可以很容易地扩展跟踪，并且收集反馈进行抽象的关系比较：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ ~/Projects/v8/out/Release/d8 --trace-ic octane-box2d.js
+[...SNIP...]
+[CompareIC in ~+557 at octane-box2d.js:2024 ((UNINITIALIZED+UNINITIALIZED=UNINITIALIZED)-&amp;gt;(RECEIVER+RECEIVER=KNOWN_RECEIVER))#LT @ 0x1d5a860493a1]
+[CompareIC in ~+649 at octane-box2d.js:2025 ((UNINITIALIZED+UNINITIALIZED=UNINITIALIZED)-&amp;gt;(RECEIVER+RECEIVER=KNOWN_RECEIVER))#GTE @ 0x1d5a860496e1]
+[...SNIP...]
+$
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;这里基准代码中使用的 &lt;code class=&quot;highlighter-rouge&quot;&gt;CompareIC&lt;/code&gt; 告诉我们，对于我们正在查看的函数中的 &lt;code class=&quot;highlighter-rouge&quot;&gt;LT&lt;/code&gt;（小于）和 &lt;code class=&quot;highlighter-rouge&quot;&gt;GTE&lt;/code&gt;（大于或等于）比较，到目前为止这只能看到 &lt;code class=&quot;highlighter-rouge&quot;&gt;RECEIVERs&lt;/code&gt;（接收器，&lt;code class=&quot;highlighter-rouge&quot;&gt;V8&lt;/code&gt; 的 &lt;code class=&quot;highlighter-rouge&quot;&gt;JavaScript&lt;/code&gt; 对象），并且所有这些接收器具有相同的映射 &lt;code class=&quot;highlighter-rouge&quot;&gt;0x1d5a860493a1&lt;/code&gt;，其对应于 &lt;code class=&quot;highlighter-rouge&quot;&gt;L&lt;/code&gt; 实例的映射。因此，在优化的代码中，只要我们知道比较的两侧映射的结果都为 &lt;code class=&quot;highlighter-rouge&quot;&gt;0x1d5a860493a1&lt;/code&gt;，并且没人混淆 &lt;code class=&quot;highlighter-rouge&quot;&gt;L&lt;/code&gt; 的原型链（即 &lt;code class=&quot;highlighter-rouge&quot;&gt;Symbol.toPrimitive&lt;/code&gt;、&lt;code class=&quot;highlighter-rouge&quot;&gt;&quot;valueOf&quot;&lt;/code&gt; 和 &lt;code class=&quot;highlighter-rouge&quot;&gt;&quot;toString&quot;&lt;/code&gt; 这些方法都是默认的，并且没人赋予过 &lt;code class=&quot;highlighter-rouge&quot;&gt;Symbol.toStringTag&lt;/code&gt; 的访问权限），我们可以将这些操作分别常量折叠为 &lt;code class=&quot;highlighter-rouge&quot;&gt;false&lt;/code&gt; 和 &lt;code class=&quot;highlighter-rouge&quot;&gt;true&lt;/code&gt;。剩下的故事都是关于 &lt;code class=&quot;highlighter-rouge&quot;&gt;Crankshaft&lt;/code&gt; 的黑魔法，有很多一部分都是由于初始化的时候忘记正确地检查 &lt;code class=&quot;highlighter-rouge&quot;&gt;Symbol.toStringTag&lt;/code&gt; 属性：&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://codereview.chromium.org/1355113002&quot;&gt;&lt;img src=&quot;http://benediktmeurer.de/images/2016/hydrogen-compare-20161216.png&quot; alt=&quot;Hydrogen 黑魔法&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;最后，性能在这个特定的基准上有了质的飞跃：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://benediktmeurer.de/images/2016/awfy-box2d-20161216.png&quot; alt=&quot;Box2D 加速&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;我要声明一下，当时我并不相信这个特定的行为总是指向源代码中的漏洞，所以我甚至期望外部代码经常会遇到这种情况，同时也因为我假设 &lt;code class=&quot;highlighter-rouge&quot;&gt;JavaScript&lt;/code&gt; 开发人员不会总是关心这些种类的潜在错误。但是，我大错特错了，在此我马上悔改！我不得不承认，这个特殊的优化纯粹是一个基准测试的东西，并不会有助于任何真实代码（除非代码是为了从这个优化中获益而写，不过以后你可以在代码中直接写入 &lt;code class=&quot;highlighter-rouge&quot;&gt;true&lt;/code&gt; 或 &lt;code class=&quot;highlighter-rouge&quot;&gt;false&lt;/code&gt;，而不用再总是使用常量关系比较）。你可能想知道我们为什么在打补丁后又马上回滚了一下。这是我们整个团队投入到 &lt;code class=&quot;highlighter-rouge&quot;&gt;ES2015&lt;/code&gt; 实施的非常时期，这才是真正的恶魔之舞，我们需要在没有严格的回归测试的情况下将所有新特性（&lt;code class=&quot;highlighter-rouge&quot;&gt;ES2015&lt;/code&gt; 就是个怪兽）纳入传统基准。&lt;/p&gt;
+
+&lt;p&gt;关于 &lt;code class=&quot;highlighter-rouge&quot;&gt;Box2D&lt;/code&gt; 点到为止了，让我们看看 &lt;code class=&quot;highlighter-rouge&quot;&gt;Mandreel&lt;/code&gt; 基准。&lt;code class=&quot;highlighter-rouge&quot;&gt;Mandreel&lt;/code&gt; 是一个用来将 &lt;code class=&quot;highlighter-rouge&quot;&gt;C/C++&lt;/code&gt; 代码编译成 &lt;code class=&quot;highlighter-rouge&quot;&gt;JavaScript&lt;/code&gt; 的编译器，它并没有用上新一代的 &lt;a href=&quot;https://github.com/kripken/emscripten&quot;&gt;Emscripten&lt;/a&gt; 编译器所使用，并且已经被弃用（或多或少已经从互联网消失了）大约三年的 &lt;code class=&quot;highlighter-rouge&quot;&gt;JavaScript&lt;/code&gt; 子集 &lt;a href=&quot;http://asmjs.org/&quot;&gt;asm.js&lt;/a&gt;。然而，&lt;code class=&quot;highlighter-rouge&quot;&gt;Octane&lt;/code&gt; 仍然有一个通过 &lt;a href=&quot;http://www.mandreel.com/&quot;&gt;Mandreel&lt;/a&gt; 编译的&lt;a href=&quot;http://bulletphysics.org/wordpress/&quot;&gt;子弹物理引擎&lt;/a&gt;。&lt;code class=&quot;highlighter-rouge&quot;&gt;MandreelLatency&lt;/code&gt; 测试十分有趣，它测试 &lt;code class=&quot;highlighter-rouge&quot;&gt;Mandreel&lt;/code&gt; 基准与频繁的时间测量检测点。有一种说法是，由于 &lt;code class=&quot;highlighter-rouge&quot;&gt;Mandreel&lt;/code&gt; 强制使用虚拟机编译器，此测试提供了由编译器引入的延迟的指示，并且测量检测点之间的长时间停顿降低了最终得分。这听起来似乎合情合理，确实有一定的意义。然而，像往常一样，供应商找到了在这个基准上作弊的方法。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://bugzilla.mozilla.org/show_bug.cgi?id=1162272&quot;&gt;&lt;img src=&quot;http://benediktmeurer.de/images/2016/bugzilla-mandreel-20161216.png&quot; alt=&quot;Mozilla 1162272 漏洞&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Mandreel&lt;/code&gt; 自带一个重型初始化函数 &lt;code class=&quot;highlighter-rouge&quot;&gt;global_init&lt;/code&gt;，光是解析这个函数并为其生成基线代码就花费了不可思议的时间。因为引擎通常在脚本中多次解析各种函数，一个所谓的预解析步骤用来发现脚本内的函数。然后作为函数第一次被调用完整的解析步骤以生成基线代码（或者说字节码）。这在 &lt;code class=&quot;highlighter-rouge&quot;&gt;V8&lt;/code&gt; 中被称为&lt;a href=&quot;https://docs.google.com/presentation/d/1214p4CFjsF-NY4z9in0GEcJtjbyVQgU0A-UqEvovzCs&quot;&gt;懒解析&lt;/a&gt;。&lt;code class=&quot;highlighter-rouge&quot;&gt;V8&lt;/code&gt; 有一些启发式检测函数，当预解析浪费时间的时候可以立刻调用，不过对于 &lt;code class=&quot;highlighter-rouge&quot;&gt;Mandreel&lt;/code&gt; 基准的 &lt;code class=&quot;highlighter-rouge&quot;&gt;global_init&lt;/code&gt; 函数就不太清楚了，于是我们将经历这个大家伙“预解析+解析+编译”的长时间停顿。所以我们&lt;a href=&quot;https://codereview.chromium.org/1102523003&quot;&gt;添加了一个额外的启发式函数&lt;/a&gt;以避免 &lt;code class=&quot;highlighter-rouge&quot;&gt;global_init&lt;/code&gt; 函数的预解析。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://arewefastyet.com/#machine=29&amp;amp;view=single&amp;amp;suite=octane&amp;amp;subtest=MandreelLatency&amp;amp;start=1415924086&amp;amp;end=1446461709&quot;&gt;&lt;img src=&quot;http://benediktmeurer.de/images/2016/awfy-mandreel-20161216.png&quot; alt=&quot;MandreelLatency 基准&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;由此可见，在检测 &lt;code class=&quot;highlighter-rouge&quot;&gt;global_init&lt;/code&gt; 和避免昂贵的预解析步骤我们几乎提升了 2 倍。我们不太确定这是否会对真实用例产生负面影响，不过保证你在预解析大函数的时候将会受益匪浅（因为它们不会立即执行）。&lt;/p&gt;
+
+&lt;p&gt;让我们来看看另一个稍有争议的基准测试：&lt;a href=&quot;https://github.com/chromium/octane/blob/master/splay.js&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;splay.js&lt;/code&gt;&lt;/a&gt; 测试，一个用于处理伸展树（二叉查找树的一种）和练习自动内存管理子系统（也被成为垃圾回收器）的数据操作基准。它自带一个延迟测试，这会引导 &lt;code class=&quot;highlighter-rouge&quot;&gt;Splay&lt;/code&gt; 代码通过频繁的测量检测点，检测点之间的长时间停顿表明垃圾回收器的延迟很高。此测试测量延迟暂停的频率，将它们分类到桶中，并以较低的分数惩罚频繁的长暂停。这听起来很棒！没有 &lt;code class=&quot;highlighter-rouge&quot;&gt;GC&lt;/code&gt; 停顿，没有垃圾。纸上谈兵到此为止。让我们看看这个基准，以下是整个伸展树业务的核心：&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/chromium/octane/blob/master/splay.js#L85&quot;&gt;&lt;img src=&quot;http://benediktmeurer.de/images/2016/splay-insertnode-20161216.png&quot; alt=&quot;splay.js&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;这是伸展树结构的核心，尽管你可能想看完整的基准，不过这或多或少是 &lt;code class=&quot;highlighter-rouge&quot;&gt;SplayLatency&lt;/code&gt; 得分的重要来源。怎么回事？实际上，基准测试是建立巨大的伸展树，尽可能保留所有节点，从而还原它原本的空间。使用像 &lt;code class=&quot;highlighter-rouge&quot;&gt;V8&lt;/code&gt; 这样的代数垃圾回收器，如果程序违反了&lt;a href=&quot;http://www.memorymanagement.org/glossary/g.html&quot;&gt;代数假设&lt;/a&gt;，导致极端的时间停顿，从本质上看，将所有东西从新空间撤回到旧空间的开销是非常昂贵的。在旧配置中运行 &lt;code class=&quot;highlighter-rouge&quot;&gt;V8&lt;/code&gt; 可以清楚地展示这个问题：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ out/Release/d8 --trace-gc --noallocation_site_pretenuring octane-splay.js
+[20872:0x7f26f24c70d0]       10 ms: Scavenge 2.7 (6.0) -&amp;gt; 2.7 (7.0) MB, 1.1 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]       12 ms: Scavenge 2.7 (7.0) -&amp;gt; 2.7 (8.0) MB, 1.7 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]       14 ms: Scavenge 3.7 (8.0) -&amp;gt; 3.6 (10.0) MB, 0.8 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]       18 ms: Scavenge 4.8 (10.5) -&amp;gt; 4.7 (11.0) MB, 2.5 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]       22 ms: Scavenge 5.7 (11.0) -&amp;gt; 5.6 (16.0) MB, 2.8 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]       28 ms: Scavenge 8.7 (16.0) -&amp;gt; 8.6 (17.0) MB, 4.3 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]       35 ms: Scavenge 9.6 (17.0) -&amp;gt; 9.6 (28.0) MB, 6.9 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]       49 ms: Scavenge 16.6 (28.5) -&amp;gt; 16.4 (29.0) MB, 8.2 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]       65 ms: Scavenge 17.5 (29.0) -&amp;gt; 17.5 (52.0) MB, 15.3 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]       93 ms: Scavenge 32.3 (52.5) -&amp;gt; 32.0 (53.5) MB, 17.6 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]      126 ms: Scavenge 33.4 (53.5) -&amp;gt; 33.3 (68.0) MB, 31.5 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]      151 ms: Scavenge 47.9 (68.0) -&amp;gt; 47.6 (69.5) MB, 15.8 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]      183 ms: Scavenge 49.2 (69.5) -&amp;gt; 49.2 (84.0) MB, 30.9 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]      210 ms: Scavenge 63.5 (84.0) -&amp;gt; 62.4 (85.0) MB, 14.8 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]      241 ms: Scavenge 64.7 (85.0) -&amp;gt; 64.6 (99.0) MB, 28.8 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]      268 ms: Scavenge 78.2 (99.0) -&amp;gt; 77.6 (101.0) MB, 16.1 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]      298 ms: Scavenge 80.4 (101.0) -&amp;gt; 80.3 (114.5) MB, 28.2 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]      324 ms: Scavenge 93.5 (114.5) -&amp;gt; 92.9 (117.0) MB, 16.4 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]      354 ms: Scavenge 96.2 (117.0) -&amp;gt; 96.0 (130.0) MB, 27.6 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]      383 ms: Scavenge 108.8 (130.0) -&amp;gt; 108.2 (133.0) MB, 16.8 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]      413 ms: Scavenge 111.9 (133.0) -&amp;gt; 111.7 (145.5) MB, 27.8 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]      440 ms: Scavenge 124.1 (145.5) -&amp;gt; 123.5 (149.0) MB, 17.4 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]      473 ms: Scavenge 127.6 (149.0) -&amp;gt; 127.4 (161.0) MB, 29.5 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]      502 ms: Scavenge 139.4 (161.0) -&amp;gt; 138.8 (165.0) MB, 18.7 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]      534 ms: Scavenge 143.3 (165.0) -&amp;gt; 143.1 (176.5) MB, 28.5 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]      561 ms: Scavenge 154.7 (176.5) -&amp;gt; 154.2 (181.0) MB, 19.0 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]      594 ms: Scavenge 158.9 (181.0) -&amp;gt; 158.7 (192.0) MB, 29.2 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]      622 ms: Scavenge 170.0 (192.5) -&amp;gt; 169.5 (197.0) MB, 19.5 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]      655 ms: Scavenge 174.6 (197.0) -&amp;gt; 174.3 (208.0) MB, 28.7 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]      683 ms: Scavenge 185.4 (208.0) -&amp;gt; 184.9 (212.5) MB, 19.4 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]      715 ms: Scavenge 190.2 (213.0) -&amp;gt; 190.0 (223.5) MB, 27.7 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]      743 ms: Scavenge 200.7 (223.5) -&amp;gt; 200.3 (228.5) MB, 19.7 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]      774 ms: Scavenge 205.8 (228.5) -&amp;gt; 205.6 (239.0) MB, 27.1 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]      802 ms: Scavenge 216.1 (239.0) -&amp;gt; 215.7 (244.5) MB, 19.8 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]      833 ms: Scavenge 221.4 (244.5) -&amp;gt; 221.2 (254.5) MB, 26.2 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]      861 ms: Scavenge 231.5 (255.0) -&amp;gt; 231.1 (260.5) MB, 19.9 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]      892 ms: Scavenge 237.0 (260.5) -&amp;gt; 236.7 (270.5) MB, 26.3 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]      920 ms: Scavenge 246.9 (270.5) -&amp;gt; 246.5 (276.0) MB, 20.1 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]      951 ms: Scavenge 252.6 (276.0) -&amp;gt; 252.3 (286.0) MB, 25.8 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]      979 ms: Scavenge 262.3 (286.0) -&amp;gt; 261.9 (292.0) MB, 20.3 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]     1014 ms: Scavenge 268.2 (292.0) -&amp;gt; 267.9 (301.5) MB, 29.8 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]     1046 ms: Scavenge 277.7 (302.0) -&amp;gt; 277.3 (308.0) MB, 22.4 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]     1077 ms: Scavenge 283.8 (308.0) -&amp;gt; 283.5 (317.5) MB, 25.1 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]     1105 ms: Scavenge 293.1 (317.5) -&amp;gt; 292.7 (323.5) MB, 20.7 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]     1135 ms: Scavenge 299.3 (323.5) -&amp;gt; 299.0 (333.0) MB, 24.9 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]     1164 ms: Scavenge 308.6 (333.0) -&amp;gt; 308.1 (339.5) MB, 20.9 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]     1194 ms: Scavenge 314.9 (339.5) -&amp;gt; 314.6 (349.0) MB, 25.0 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]     1222 ms: Scavenge 324.0 (349.0) -&amp;gt; 323.6 (355.5) MB, 21.1 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]     1253 ms: Scavenge 330.4 (355.5) -&amp;gt; 330.1 (364.5) MB, 25.1 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]     1282 ms: Scavenge 339.4 (364.5) -&amp;gt; 339.0 (371.0) MB, 22.2 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]     1315 ms: Scavenge 346.0 (371.0) -&amp;gt; 345.6 (380.0) MB, 25.8 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]     1413 ms: Mark-sweep 349.9 (380.0) -&amp;gt; 54.2 (305.0) MB, 5.8 / 0.0 ms  (+ 87.5 ms in 73 steps since start of marking, biggest step 8.2 ms, walltime since start of marking 131 ms) finalize incremental marking via stack guard GC in old space requested
+[20872:0x7f26f24c70d0]     1457 ms: Scavenge 65.8 (305.0) -&amp;gt; 65.1 (305.0) MB, 31.0 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]     1489 ms: Scavenge 69.9 (305.0) -&amp;gt; 69.7 (305.0) MB, 27.1 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]     1523 ms: Scavenge 80.9 (305.0) -&amp;gt; 80.4 (305.0) MB, 22.9 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]     1553 ms: Scavenge 85.5 (305.0) -&amp;gt; 85.3 (305.0) MB, 24.2 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]     1581 ms: Scavenge 96.3 (305.0) -&amp;gt; 95.7 (305.0) MB, 18.8 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]     1616 ms: Scavenge 101.1 (305.0) -&amp;gt; 100.9 (305.0) MB, 29.2 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]     1648 ms: Scavenge 111.6 (305.0) -&amp;gt; 111.1 (305.0) MB, 22.5 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]     1678 ms: Scavenge 116.7 (305.0) -&amp;gt; 116.5 (305.0) MB, 25.0 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]     1709 ms: Scavenge 127.0 (305.0) -&amp;gt; 126.5 (305.0) MB, 20.7 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]     1738 ms: Scavenge 132.3 (305.0) -&amp;gt; 132.1 (305.0) MB, 23.9 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]     1767 ms: Scavenge 142.4 (305.0) -&amp;gt; 141.9 (305.0) MB, 19.6 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]     1796 ms: Scavenge 147.9 (305.0) -&amp;gt; 147.7 (305.0) MB, 23.8 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]     1825 ms: Scavenge 157.8 (305.0) -&amp;gt; 157.3 (305.0) MB, 19.9 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]     1853 ms: Scavenge 163.5 (305.0) -&amp;gt; 163.2 (305.0) MB, 22.2 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]     1881 ms: Scavenge 173.2 (305.0) -&amp;gt; 172.7 (305.0) MB, 19.1 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]     1910 ms: Scavenge 179.1 (305.0) -&amp;gt; 178.8 (305.0) MB, 23.0 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]     1944 ms: Scavenge 188.6 (305.0) -&amp;gt; 188.1 (305.0) MB, 25.1 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]     1979 ms: Scavenge 194.7 (305.0) -&amp;gt; 194.4 (305.0) MB, 28.4 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]     2011 ms: Scavenge 204.0 (305.0) -&amp;gt; 203.6 (305.0) MB, 23.4 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]     2041 ms: Scavenge 210.2 (305.0) -&amp;gt; 209.9 (305.0) MB, 23.8 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]     2074 ms: Scavenge 219.4 (305.0) -&amp;gt; 219.0 (305.0) MB, 24.5 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]     2105 ms: Scavenge 225.8 (305.0) -&amp;gt; 225.4 (305.0) MB, 24.7 / 0.0 ms  allocation failure
+[20872:0x7f26f24c70d0]     2138 ms: Scavenge 234.8 (305.0) -&amp;gt; 234.4 (305.0) MB, 23.1 / 0.0 ms  allocation failure
+[...SNIP...]
+$
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;因此这里关键的发现是直接在旧空间中分配伸展树节点可基本避免在周围复制对象的所有开销，并且将次要 &lt;code class=&quot;highlighter-rouge&quot;&gt;GC&lt;/code&gt; 周期的数量减少到最小（从而减少 &lt;code class=&quot;highlighter-rouge&quot;&gt;GC&lt;/code&gt; 引起的停顿时间）。我们想出了一种称为&lt;a href=&quot;https://research.google.com/pubs/pub43823.html&quot;&gt;分配站点预占&lt;/a&gt;的机制，当运行到基线代码时，将尝试动态收集分配站点的反馈，以决定在此分配的对象的部分是否确切存在，如果是，则优化代码以直接在旧空间分配对象——即预占对象。&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ out/Release/d8 --trace-gc octane-splay.js
+[20885:0x7ff4d7c220a0]        8 ms: Scavenge 2.7 (6.0) -&amp;gt; 2.6 (7.0) MB, 1.2 / 0.0 ms  allocation failure
+[20885:0x7ff4d7c220a0]       10 ms: Scavenge 2.7 (7.0) -&amp;gt; 2.7 (8.0) MB, 1.6 / 0.0 ms  allocation failure
+[20885:0x7ff4d7c220a0]       11 ms: Scavenge 3.6 (8.0) -&amp;gt; 3.6 (10.0) MB, 0.9 / 0.0 ms  allocation failure
+[20885:0x7ff4d7c220a0]       17 ms: Scavenge 4.8 (10.5) -&amp;gt; 4.7 (11.0) MB, 2.9 / 0.0 ms  allocation failure
+[20885:0x7ff4d7c220a0]       20 ms: Scavenge 5.6 (11.0) -&amp;gt; 5.6 (16.0) MB, 2.8 / 0.0 ms  allocation failure
+[20885:0x7ff4d7c220a0]       26 ms: Scavenge 8.7 (16.0) -&amp;gt; 8.6 (17.0) MB, 4.5 / 0.0 ms  allocation failure
+[20885:0x7ff4d7c220a0]       34 ms: Scavenge 9.6 (17.0) -&amp;gt; 9.5 (28.0) MB, 6.8 / 0.0 ms  allocation failure
+[20885:0x7ff4d7c220a0]       48 ms: Scavenge 16.6 (28.5) -&amp;gt; 16.4 (29.0) MB, 8.6 / 0.0 ms  allocation failure
+[20885:0x7ff4d7c220a0]       64 ms: Scavenge 17.5 (29.0) -&amp;gt; 17.5 (52.0) MB, 15.2 / 0.0 ms  allocation failure
+[20885:0x7ff4d7c220a0]       96 ms: Scavenge 32.3 (52.5) -&amp;gt; 32.0 (53.5) MB, 19.6 / 0.0 ms  allocation failure
+[20885:0x7ff4d7c220a0]      153 ms: Scavenge 61.3 (81.5) -&amp;gt; 57.4 (93.5) MB, 27.9 / 0.0 ms  allocation failure
+[20885:0x7ff4d7c220a0]      432 ms: Scavenge 339.3 (364.5) -&amp;gt; 326.6 (364.5) MB, 12.7 / 0.0 ms  allocation failure
+[20885:0x7ff4d7c220a0]      666 ms: Scavenge 563.7 (592.5) -&amp;gt; 553.3 (595.5) MB, 20.5 / 0.0 ms  allocation failure
+[20885:0x7ff4d7c220a0]      825 ms: Mark-sweep 603.9 (644.0) -&amp;gt; 96.0 (528.0) MB, 4.0 / 0.0 ms  (+ 92.5 ms in 51 steps since start of marking, biggest step 4.6 ms, walltime since start of marking 160 ms) finalize incremental marking via stack guard GC in old space requested
+[20885:0x7ff4d7c220a0]     1068 ms: Scavenge 374.8 (528.0) -&amp;gt; 362.6 (528.0) MB, 19.1 / 0.0 ms  allocation failure
+[20885:0x7ff4d7c220a0]     1304 ms: Mark-sweep 460.1 (528.0) -&amp;gt; 102.5 (444.5) MB, 10.3 / 0.0 ms  (+ 117.1 ms in 59 steps since start of marking, biggest step 7.3 ms, walltime since start of marking 200 ms) finalize incremental marking via stack guard GC in old space requested
+[20885:0x7ff4d7c220a0]     1587 ms: Scavenge 374.2 (444.5) -&amp;gt; 361.6 (444.5) MB, 13.6 / 0.0 ms  allocation failure
+[20885:0x7ff4d7c220a0]     1828 ms: Mark-sweep 485.2 (520.0) -&amp;gt; 101.5 (519.5) MB, 3.4 / 0.0 ms  (+ 102.8 ms in 58 steps since start of marking, biggest step 4.5 ms, walltime since start of marking 183 ms) finalize incremental marking via stack guard GC in old space requested
+[20885:0x7ff4d7c220a0]     2028 ms: Scavenge 371.4 (519.5) -&amp;gt; 358.5 (519.5) MB, 12.1 / 0.0 ms  allocation failure
+[...SNIP...]
+$
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;事实上，这完全解决了 &lt;code class=&quot;highlighter-rouge&quot;&gt;SplayLatency&lt;/code&gt; 基准的问题，并提高我们的得分至超过 250%！&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://arewefastyet.com/#machine=12&amp;amp;view=single&amp;amp;suite=octane&amp;amp;subtest=SplayLatency&amp;amp;start=1384889558&amp;amp;end=1415405874&quot;&gt;&lt;img src=&quot;http://benediktmeurer.de/images/2016/awfy-splay-20161216.png&quot; alt=&quot;SplayLatency 基准&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;正如 &lt;a href=&quot;https://research.google.com/pubs/pub43823.html&quot;&gt;SIGPLAN 论文&lt;/a&gt; 中所提及的，我们有充分的理由相信，分配站点预占机制可能真的赢得了真实世界应用的欢心，并真正期待看到改进和扩展后的机制，那时将不仅仅是对象和数组字面量。但是不久后我们意识到&lt;a href=&quot;https://bugs.chromium.org/p/v8/issues/detail?id=3665&quot;&gt;分配站点预占机制对真实世界引用产生了相当严重的负面影响&lt;/a&gt;。我们实际上得到很多负面新闻，包括 &lt;code class=&quot;highlighter-rouge&quot;&gt;Ember.js&lt;/code&gt; 开发者和用户的唇枪舌战，不仅是因为分配站点预占机制，不过它是事故的罪魁祸首。&lt;/p&gt;
+
+&lt;p&gt;分配站点预占机制的基本问题数之不尽，这在今天的应用中非常常见（主要是由于框架，同时还有其它原因），假设你的对象工厂最初是用于创建构成你的对象模型和视图的长周期对象的，它将你的工厂方法中的分配站点转换为永久状态，并且从工厂分配的所有内容都立即转到旧空间。现在初始设置完成后，你的应用开始工作，作为其中的一部分，从工厂分配临时对象会污染旧空间，最终导致开销昂贵的垃圾回收周期以及其它负面的副作用，例如过早触发增量标记。&lt;/p&gt;
+
+&lt;p&gt;我们开始重新考虑基准驱动的工作，并开始寻找驱动现实场景的替代方案，这导致了 &lt;a href=&quot;http://v8project.blogspot.de/2016/04/jank-busters-part-two-orinoco.html&quot;&gt;Orinoco&lt;/a&gt; 的诞生，它的目标是逐步改进垃圾回收器；这个努力的一部分是一个称为“统一堆”的项目，如果页面中的所有内容都存在，它将尝试避免复制对象。也就是说站在更高的层面看：如果新空间充满活动对象，只需将所有新空间页面标记为属于旧空间，然后从空白页面创建一个新空间。这可能不会在 &lt;code class=&quot;highlighter-rouge&quot;&gt;SplayLatency&lt;/code&gt; 基准测试中得到相同的分数，但是这对于真实用例更友好，它可以自动适配具体的用例。我们还考虑并发标记，将标记工作卸载到单独的线程，从而进一步减少增量标记对延迟和吞吐量的负面影响。&lt;/p&gt;
+
+&lt;h3 id=&quot;轻松一刻-1&quot;&gt;轻松一刻&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://pbs.twimg.com/profile_images/491838225300717568/sy5AWvt1.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;喘口气。&lt;/p&gt;
+
+&lt;p&gt;好吧，我想这足以强调我的观点了。我可以继续指出更多的例子，其中 &lt;code class=&quot;highlighter-rouge&quot;&gt;Octane&lt;/code&gt; 驱动的改进后来变成了一个坏主意，也许改天我会接着写下去。但是今天就到此为止了吧。&lt;/p&gt;
+
+&lt;h3 id=&quot;结论&quot;&gt;结论&lt;/h3&gt;
+
+&lt;p&gt;我希望现在应该清楚为什么基准测试通常是一个好主意，但是只对某个特定的级别有用，一旦你跨越了有用竞争的界限，你就会开始浪费你们工程师的时间，甚至开始损害到你的真实世界的性能！如果我们认真考虑 web 的性能，我们需要根据真实世界的性能来测评浏览器，而不是它们玩弄一个四年的基准的能力。我们需要开始教育（技术）媒体，可能这没用，但至少请忽略他们。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://venturebeat.com/2016/10/25/browser-benchmark-battle-october-2016-chrome-vs-firefox-vs-edge/3/&quot;&gt;&lt;img src=&quot;http://benediktmeurer.de/images/2016/venturebeat-20161216.png&quot; alt=&quot;2016 年 10 月浏览器基准之战: Chrome、Firefox 和 Edge 的决战&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;没人害怕竞争，但是玩弄可能已经坏掉的基准不像是在合理使用工程时间。我们可以尽更大的努力，并把 JavaScript 提高到更高的水平。让我们开展有意义的性能测试，以便为最终用户和开发者带来有意思的领域竞争。此外，让我们再对服务器和运行在 &lt;code class=&quot;highlighter-rouge&quot;&gt;Node.js&lt;/code&gt;（还有 &lt;code class=&quot;highlighter-rouge&quot;&gt;V8&lt;/code&gt; 和 &lt;code class=&quot;highlighter-rouge&quot;&gt;ChakraCore&lt;/code&gt;）中的工具代码做一些有意义的改进！&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://benediktmeurer.de/images/2016/measure-20161216.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;结束语：不要用传统的 &lt;code class=&quot;highlighter-rouge&quot;&gt;JavaScript&lt;/code&gt; 基准来比较手机。这是真正最没用的事情，因为 &lt;code class=&quot;highlighter-rouge&quot;&gt;JavaScript&lt;/code&gt; 的性能通常取决于软件，而不一定是硬件，并且 &lt;code class=&quot;highlighter-rouge&quot;&gt;Chrome&lt;/code&gt; 每 6 周发布一个新版本，所以你在三月的测试结果到了四月就已经毫不相关了。如果在浏览器中发送一个数字都一部手机不可避免，那么至少请使用一个现代健全的浏览器基准来测试，至少这个基准要知道人们会用浏览器来干什么，比如 &lt;a href=&quot;http://browserbench.org/Speedometer&quot;&gt;Speedometer 基准&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;感谢你花时间阅读！&lt;/p&gt;
+
+&lt;h3 id=&quot;reference&quot;&gt;Reference&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://benediktmeurer.de/2016/12/16/the-truth-about-traditional-javascript-benchmarks&quot;&gt;The Truth about Traditional JavaScript Benchmarks&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Sun, 19 Feb 2017 23:00:00 +0000</pubDate>
+        <link>https://mars.js.org/the-truth-about-traditional-javascript-benchmarks/</link>
+        <guid isPermaLink="true">https://mars.js.org/the-truth-about-traditional-javascript-benchmarks/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>【译】Apache、Nginx 与 Node.js 之争 —— WordPress 与 Ghost 的性能大对决</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://iwf1.com/wordpress/wp-content/uploads/2016/11/Node-vs-Apache-vs-Nginx.jpg&quot; alt=&quot;Node、Apache 与 Nginx 的对决&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;巨头之间的终极对决：崛起的新星 Node.js 能否战胜巨人 Apache 和 Nginx？&lt;/p&gt;
+
+&lt;p&gt;我和你一样，都阅读过大量散布在互联网各处的意见或事实，其中有一些我认为是可靠的，而其它的可能是谣传，让人难以置信。&lt;/p&gt;
+
+&lt;p&gt;我读过的许多信息是相当矛盾的，有人深信 StackOverflow（比如&lt;a href=&quot;http://stackoverflow.com/questions/9967887/node-js-itself-or-nginx-frontend-for-serving-static-files&quot;&gt;这个&lt;/a&gt;和&lt;a href=&quot;http://stackoverflow.com/questions/16770673/using-node-js-only-vs-using-node-js-with-apache-nginx&quot;&gt;另一个&lt;/a&gt;），而其他人展示了一个清晰的令人惊讶的&lt;a href=&quot;http://centminmod.com/siegebenchmarks/2013/020313/index.html&quot;&gt;结果&lt;/a&gt;，这在推动我自己去做测试来验证结论的过程中扮演了重要的角色。&lt;/p&gt;
+
+&lt;p&gt;起初，我做了一些思想准备，我认为我可以避免自己进行实际测试来校验结论的麻烦——在我知道这一切之前我一直这样认为。&lt;/p&gt;
+
+&lt;p&gt;尽管如此，回顾之前，似乎我最初的想法是相当准确的，并且被我的测试再次印证。这个事实让我想起了当年我在学校学到的爱因斯坦和他的光电效应的实验，他面临着一个光的波粒二重性的问题，最初的结论是实验受到他的心理状态的影响，即当他期望结果是一个波的时候结果就会是一个波，反之亦然。&lt;/p&gt;
+
+&lt;p&gt;也就是说，我坚信我的结果不会在不久的将来被证明二重性，虽然我的心理状态可能在某种程度上对它们有影响。&lt;/p&gt;
+
+&lt;h3 id=&quot;关于比较&quot;&gt;关于比较&lt;/h3&gt;
+
+&lt;p&gt;上面我读过一份材料具有一种革新的方式，在我看来，需要了解其自然而然的主观性和作者自身的偏见。&lt;/p&gt;
+
+&lt;p&gt;我决定采用这种方式，因此，提前声明以下内容：&lt;/p&gt;
+
+&lt;p&gt;开发者花了很多年来打磨他们的作品。那些取得了更高成就的人通常参考很多因素来做出自己的抉择，这是主观的做法；你需要推崇和捍卫你的技术决策。&lt;/p&gt;
+
+&lt;p&gt;也就是说，这个比较文章的着眼点不会成为另一篇“哥们，使用适合你的东西就好”的口水文章。我将会根据我的自身经验、需求和偏见提出建议。你可能会同意其中一些观点，反对另外一些；这很好——你的意见会帮助别人做出明智的选择。&lt;/p&gt;
+
+&lt;p&gt;感谢 &lt;a href=&quot;https://www.sitepoint.com/sitepoint-smackdown-php-vs-node-js/&quot;&gt;SitePoint&lt;/a&gt; 的 Craig Buckler ，重新启发了我对比较类文章的看法——尝试重新忘记自我，并试图让所有的读者心悦诚服。&lt;/p&gt;
+
+&lt;h3 id=&quot;关于测试&quot;&gt;关于测试&lt;/h3&gt;
+
+&lt;p&gt;所有的测试都在本地运行：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;英特尔酷睿 i7-2600k，四核八线程的机器&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://iwf1.com/5-reasons-use-gentoo-linux/&quot;&gt;Gentoo Linux&lt;/a&gt; 是用于测试的操作系统&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;用于基准测试的工具：ApacheBench，2.3 &amp;lt;$Revision: 1748469 $&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;测试包括一系列基准，从 1000 到 10000 个请求以及从 100 到 1000 个的并发请求——结果相当令人惊讶。&lt;/p&gt;
+
+&lt;p&gt;此外，我还进行了在高负载下测量服务器功能的压力测试。&lt;/p&gt;
+
+&lt;p&gt;至于内容，主要是一个包含一些 Lorem Ipsum 的标题和一张图片静态文件。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://dn-linuxcn.qbox.me/data/attachment/album/201611/30/113723yf4af51hn5nfhnf9.jpg&quot; alt=&quot;Lorem Ipsum and ApacheBenchmark&quot; /&gt;&lt;/p&gt;
+
+&lt;center&gt;Lorem Ipsum 和 ApacheBenchmark&lt;/center&gt;
+
+&lt;p&gt;我决定专注于静态文件的原因是因为它们去除了可能对测试产生影响的各种渲染因素，例如：编程语言解释器的速度、解释器与服务器的集成程度等等。&lt;/p&gt;
+
+&lt;p&gt;此外，基于我自身的经验，平均网页加载时间很大一部分通常花费在静态内容上，例如图片，因此关注哪个服务器可以节省我们加载静态内容的时间是比较现实的。&lt;/p&gt;
+
+&lt;p&gt;除此之外，我还想测试一个更加真实的案例，案例中我在运行不同 CMS 的动态页面（稍后将详细介绍）时对服务器进行基准测试。&lt;/p&gt;
+
+&lt;h4 id=&quot;服务器&quot;&gt;服务器&lt;/h4&gt;
+
+&lt;p&gt;正如我用的是 Gentoo Linux，你就知道我的 HTTP 服务器在一开始就已经经过优化了，因为我在构建系统的时候只使用了我实际需要的东西。也就是说，当我运行我的测试的时候，不会在后台运行任何不必要的代码或加载没用的模块。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://dn-linuxcn.qbox.me/data/attachment/album/201611/30/113747a3fszmotz9b3bg13.jpg&quot; alt=&quot;Apache、Nginx 和 Node.js 的使用的配置对比&quot; /&gt;&lt;/p&gt;
+
+&lt;center&gt;Apache、Nginx 和 Node.js 的使用的配置对比&lt;/center&gt;
+
+&lt;h4 id=&quot;apache&quot;&gt;Apache&lt;/h4&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$: curl -i http://localhost/index.html
+
+HTTP/1.1 200 OK
+Date: Sun, 30 Oct 2016 15:35:44 GMT
+Server: Apache
+Last-Modified: Sun, 30 Oct 2016 14:13:36 GMT
+ETag: &quot;2cf2-54015b280046d&quot;
+Accept-Ranges: bytes
+Content-Length: 11506
+Cache-Control: max-age=600
+Expires: Sun, 30 Oct 2016 15:45:44 GMT
+Vary: Accept-Encoding
+Content-Type: text/html
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Apache 配置了 “event mpm”。&lt;/p&gt;
+
+&lt;h4 id=&quot;nginx&quot;&gt;Nginx&lt;/h4&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$: curl -i http://localhost/index.html
+
+HTTP/1.1 200 OK
+Server: nginx/1.10.1
+Date: Sun, 30 Oct 2016 14:17:30 GMT
+Content-Type: text/html
+Content-Length: 11506
+Last-Modified: Sun, 30 Oct 2016 14:13:36 GMT
+Connection: keep-alive
+Keep-Alive: timeout=20
+ETag: &quot;58160010-2cf2&quot;
+Accept-Ranges: bytes
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Nginx 包括几个调整：&lt;code class=&quot;highlighter-rouge&quot;&gt;sendfile on&lt;/code&gt;、&lt;code class=&quot;highlighter-rouge&quot;&gt;tcp_nopush on&lt;/code&gt; 和 &lt;code class=&quot;highlighter-rouge&quot;&gt;tcp_nodelay on&lt;/code&gt;。&lt;/p&gt;
+
+&lt;h4 id=&quot;nodejs&quot;&gt;Node.js&lt;/h4&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$: curl -i http://127.0.0.1:8080
+
+HTTP/1.1 200 OK
+Content-Length: 11506
+Etag: 15
+Last-Modified: Thu, 27 Oct 2016 14:09:58 GMT
+Content-Type: text/html
+Date: Sun, 30 Oct 2016 16:39:47 GMT
+Connection: keep-alive
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;在静态测试中使用的 Node.js 服务器是从头定制的，这样可以让它尽可能更加的轻快——没有使用外部模块（Node 核心模块除外）。&lt;/p&gt;
+
+&lt;h3 id=&quot;测试结果&quot;&gt;测试结果&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://dn-linuxcn.qbox.me/data/attachment/album/201611/30/113817jerzgmxs5xcgeuec.jpg&quot; alt=&quot;Apache、Nginx 与 Node 的对比：请求负载能力（每 100 位并发用户）&quot; /&gt;&lt;/p&gt;
+
+&lt;center&gt;Apache、Nginx 与 Node 的对比：请求负载的性能（每 100 位并发用户）&lt;/center&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://dn-linuxcn.qbox.me/data/attachment/album/201611/30/113843us9khy9zyzqlksqt.jpg&quot; alt=&quot;Apache、Nginx 与 Node 的对比：用户负载能力&quot; /&gt;&lt;/p&gt;
+
+&lt;center&gt;Apache、Nginx 与 Node 的对比：用户负载能力（每 1000 个请求）&lt;/center&gt;
+
+&lt;h3 id=&quot;压力测试&quot;&gt;压力测试&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://dn-linuxcn.qbox.me/data/attachment/album/201611/30/113912ynpnnm5gp5npnmgk.jpg&quot; alt=&quot;Apache、Nginx 与 Node 的对比：完成 1000 位用户并发的 100000 个请求耗时&quot; /&gt;&lt;/p&gt;
+
+&lt;center&gt;Apache、Nginx 与 Node 的对比：完成 1000 位用户并发的 100000 个请求耗时&lt;/center&gt;
+
+&lt;h3 id=&quot;我们可以从结果中得到什么&quot;&gt;我们可以从结果中得到什么？&lt;/h3&gt;
+
+&lt;p&gt;从以上结果判断，似乎 Nginx 可以在最少的时间内完成最多请求，换句话来说，&lt;strong&gt;Nginx&lt;/strong&gt; 是最快的 HTTP 服务器。&lt;/p&gt;
+
+&lt;p&gt;还有一个相当惊人的事实是，在特定的用户并发数和请求数下，Node.js 可以比 Nginx 和 Apache 更快。&lt;/p&gt;
+
+&lt;p&gt;但当请求的数量在并发测试中增加的时候，Nginx 将重回领先的位置，这个结果可以让那些陷入 Node.js 的遐想的人清醒一下。&lt;/p&gt;
+
+&lt;p&gt;和 Apache、Nginx 不同的是，Node.js 似乎对用户的并发数不太敏感，尤其是在集群节点。如图所示，集群节点在 0.1 秒左右保持一条直线，而 Apache 和 Nginx 都有大约 0.2 秒的波动。&lt;/p&gt;
+
+&lt;p&gt;基于上述统计可以得出的结论是：网站比较小，其使用的服务器就无所谓。然而，随着网站的受众越来越多，HTTP 服务器的影响变得愈加明显。&lt;/p&gt;
+
+&lt;p&gt;当涉及到每台服务器的原始速度的底线的时候，正如压力测试所描述的，我的感觉是，性能背后最关键的因素不是一些特定的算法，而实际上是运行的每台服务器所用的编程语言。&lt;/p&gt;
+
+&lt;p&gt;由于 Apache 和 Nginx 都使用了 C 语言—— AOT 语言（编译型语言），而 Node.js 使用了 JavaScript ——这是一种 JIT 语言（解释型语言）。这意味着 Node.js 在执行程序的过程中还有额外的工作负担。&lt;/p&gt;
+
+&lt;p&gt;这意味着我不能仅仅基于上面的结果来下结论，而要做进一步校验，正如你下面看到的结果，当我使用一台经过优化的 Node.js 服务器与流行的 Express 框架时，我得到几乎相同的性能结论。&lt;/p&gt;
+
+&lt;h3 id=&quot;全面考虑&quot;&gt;全面考虑&lt;/h3&gt;
+
+&lt;p&gt;逝者如斯夫，如果没有服务的内容，HTTP 服务器是没什么用的。因此，在比较 web 服务器的时候，我们必须考虑的一个重要的部分就是我们希望在上面运行的内容。&lt;/p&gt;
+
+&lt;p&gt;虽然也有其它的功能，但是 HTTP 服务器最广泛的使用就是运行网站。因此，为了看到每台服务器的性能的实际效果，我决定比较一下世界上使用最广泛的 CMS（内容管理系统）WordPress 和 Ghost —— 内核使用了 JavaScript 的一颗冉冉升起的明星。&lt;/p&gt;
+
+&lt;p&gt;基于 JavaScript 的 Ghost 网页能否胜过运行在 PHP 和 Apache / Nginx 上面的 WordPress 页面？&lt;/p&gt;
+
+&lt;p&gt;这是一个有趣的问题，因为 Ghost 具有操作工具单一且一致的优点——无需额外的封装，而 WordPress 需要依赖 Apache / Nginx 和 PHP 之间的集成，这可能会导致显著的性能缺陷。&lt;/p&gt;
+
+&lt;p&gt;除此之外，PHP 距 Node.js 之间还有一个显著的性能落差，后者更佳，我将在下面简要介绍一下，可能会出现一些与初衷大相径庭的结果。&lt;/p&gt;
+
+&lt;h4 id=&quot;php-与-nodejs-的对决&quot;&gt;PHP 与 Node.js 的对决&lt;/h4&gt;
+
+&lt;p&gt;为了比较 WordPress 和 Ghost，我们必须首先考虑一个影响到两者的基本组件。&lt;/p&gt;
+
+&lt;p&gt;基本上，WordPress 是一个基于 PHP 的 CMS，而 Ghost 是基于 Node.js（JavaScript）的。与 PHP 不同，Node.js 有以下优点：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;非阻塞的 I/O&lt;/li&gt;
+  &lt;li&gt;事件驱动&lt;/li&gt;
+  &lt;li&gt;更新颖、更少的残旧代码&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;由于有大量的测评文章解释和演示了 Node.js 的原始速度超过 PHP（包括 PHP 7），我不会再进一步阐述这个主题，请你自行用谷歌搜索相关内容。&lt;/p&gt;
+
+&lt;p&gt;因此，考虑到 Node.js 的性能优于 PHP，一个 Node.js 的网站的速度要比 Apache / Nginx 和 PHP 的网站快吗？&lt;/p&gt;
+
+&lt;h3 id=&quot;wordpress-和-ghost-对决&quot;&gt;WordPress 和 Ghost 对决&lt;/h3&gt;
+
+&lt;p&gt;当比较 WordPress 和 Ghost 时，有些人会说这就像比较苹果和橘子，大多数情况下我同意这个观点，因为 WordPress 是一个完全成熟的 CMS，而 Ghost 基本上只是一个博客平台。&lt;/p&gt;
+
+&lt;p&gt;然而，两者仍然有共同竞争的市场，这两者都可以用于向世界发布你的个人文章。&lt;/p&gt;
+
+&lt;p&gt;制定一个前提，我们怎么比较两个完全基于不同的代码来运行的平台，包括风格主题和核心功能。&lt;/p&gt;
+
+&lt;p&gt;事实上，一个科学的实验测试条件是很难设计的。然而，在这个测试中我对更接近生活的情景更感兴趣，所以 WordPress 和 Ghost 都将保留其主题。因此，这里的目标是使两个平台的网页大小尽可能相似，让 PHP 和 Node.js 在幕后斗智斗勇。&lt;/p&gt;
+
+&lt;p&gt;由于结果是根据不同的标准进行测量的，最重要的是尺度不一样，因此在图表中并排显示它们是不公平的。因此，我改为使用表：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://dn-linuxcn.qbox.me/data/attachment/album/201611/30/114003k1fi187hhf38z4ia.jpg&quot; alt=&quot;Node、Nginx 和 Apache 性能比较表&quot; /&gt;&lt;/p&gt;
+
+&lt;center&gt;Node、Nginx、Apache 以及运行 WordPress 和 Ghost 的比较。前两行是 WordPress，底部的两行是 Ghost&lt;/center&gt;
+
+&lt;p&gt;正如你所见，尽管事实上 Ghost（Node.js）正在加载一个更小的页面（你可能会惊讶 1kb 可以产生这么大的差异），它仍然比同时使用 Nginx 和 Apache 的 WordPress 要慢。&lt;/p&gt;
+
+&lt;p&gt;此外，使用 Nginx 代理作为负载均衡器来接管每个 Node 服务器的请求实际上会提升还是降低性能？&lt;/p&gt;
+
+&lt;p&gt;那么，根据上面的表格，如果说它产生什么效果的话，它造成了更慢的效果——这是一个合理的结果，因为额外封装一层理所当然会使其变得更慢。当然，上面的数字也表明这点差异可以忽略不计。&lt;/p&gt;
+
+&lt;p&gt;但是上表中最重要的一点是，即使 Node.js 比 PHP 快，HTTP 服务器的作用也可能超过某个 web 平台使用的编程语言的重要性。&lt;/p&gt;
+
+&lt;p&gt;当然，另一方面，如果加载的页面更多地依赖于服务器端的脚本处理，那么我怀疑结果可能会有点不同。&lt;/p&gt;
+
+&lt;p&gt;最后，如果一个 web 平台真的想在这场竞赛里击败 WordPress，从这个比较中得出的结论就是，要想性能占优，必须要定制一些像 PHP-FPM 的工具，它将直接与 JavaScript 通信（而不是作为服务器来运行），因此它可以完全发挥 JavaScript 的力量来达到更好的性能。&lt;/p&gt;
+
+&lt;h3 id=&quot;reference&quot;&gt;Reference&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://iwf1.com/apache-vs-nginx-vs-node-js-and-what-it-means-about-the-performance-of-wordpress-vs-ghost/&quot;&gt;Apache vs Nginx vs Node.js and What It Means about The Performance of WordPress vs Ghost&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Tue, 29 Nov 2016 23:00:00 +0000</pubDate>
+        <link>https://mars.js.org/apache-vs-nginx-vs-node.js-and-what-it-means-about-the-performance-of-wordpress-vs-ghost/</link>
+        <guid isPermaLink="true">https://mars.js.org/apache-vs-nginx-vs-node.js-and-what-it-means-about-the-performance-of-wordpress-vs-ghost/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>【译】何时 NGINX 将取代 Apache？</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;NGINX 和 Apache 两者都是主流的开源 web 服务器，但是据 NGINX 的首席执行官 Gus Robertson 所言，他们有不同的使用场景。此外还有微软，其 web 服务器 IIS 在活跃网站的份额在 20 年间首次跌破 10%。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://zdnet1.cbsistatic.com/hub/i/r/2016/11/07/f38d190e-046c-49e6-b451-096ee0776a04/resize/770xauto/b009f53417e9a4af207eff6271b90c43/web-server-popularity-october-2016.png&quot; alt=&quot;活跃网站的 web 服务器市场份额&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Apache 是最受欢迎的 web 服务器，不过 NGINX 正逐渐增长，而微软的 IIS 几十年来首次跌破 10%。&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.nginx.com/&quot;&gt;NGINX&lt;/a&gt; 已经成为第二大 web 服务器。它在很久以前就已经超越了&lt;a href=&quot;https://www.iis.net/&quot;&gt;微软 IIS&lt;/a&gt;，并且一直在老大 &lt;a href=&quot;https://httpd.apache.org/&quot;&gt;Apache&lt;/a&gt; 的身后穷追不舍。但是，NGINX 的首席执行官Gus Roberston 在接受采访时表示，Apache 和 NGINX 的用户群体不一样。&lt;/p&gt;
+
+&lt;p&gt;“我认为 Apache 是很好的 web 服务器。NGINX 和它的使用场景不同，”Robertson 说。“我们没有把 Apache 当成竞争对手。我们的用户使用 NGINX 来取代硬件负载均衡器和构建微服务，这两个都不是 Apache 的长处。”&lt;/p&gt;
+
+&lt;p&gt;事实上，Robertson 发现许多用户同时使用了这两种开源的 web 服务。“用户会在 Apache 的上层使用 NGINX 来实现负载均衡。我们的架构差异很大，我们可以提供更好的并发 web 服务。”他还表示 NGINX 在云环境中表现更优秀。&lt;/p&gt;
+
+&lt;p&gt;他总结说，“我们是唯一一个仍然在持续增长的 web 服务器，其它的 web 服务器都在慢慢缩小份额。”&lt;/p&gt;
+
+&lt;p&gt;这不太准确。根据 &lt;a href=&quot;https://news.netcraft.com/archives/2016/10/21/october-2016-web-server-survey.html&quot;&gt;Netcraft 十月份的网络服务器调查&lt;/a&gt;，Apache 当月的活跃网站增加得最多，获得了 180 万个新站点，而 NGINX 增加了 40 万个新站点，排在第二位。&lt;/p&gt;
+
+&lt;p&gt;这些增长，加上微软损失的 120 万个活跃站点，导致微软的活跃网站份额下降到 9.27%，这是他们第一次跌破 10%。Apache 的市场份额提高了 0.19%，并继续领跑市场，现在坐拥 46.3% 的活跃站点。尽管如此，多年来 Apache 一直在缓慢下降，而 NGINX 现在上升到了 19%。&lt;/p&gt;
+
+&lt;p&gt;NGINX 的开发者正在努力创造他们的核心开放（open-core ）的商业 web 服务器 —— &lt;a href=&quot;https://www.nginx.com/products/&quot;&gt;NGINX Plus&lt;/a&gt;，通过不断的改进使其变得更有竞争力。NGINX Plus 最新的版本是 &lt;a href=&quot;https://www.nginx.com/blog/nginx-plus-r11-released/&quot;&gt;NGINX Plus 11 版（R11）&lt;/a&gt;，该服务器易于扩展和自定义，并支持更广泛的部署。&lt;/p&gt;
+
+&lt;p&gt;这次最大的补充是 &lt;a href=&quot;https://www.nginx.com/blog/nginx-plus-r11-released/?utm_source=nginx-plus-r11-released&amp;amp;utm_medium=blog#r11-dynamic-modules&quot;&gt;动态模块&lt;/a&gt; 的二进制兼容性。也就是说为 &lt;a href=&quot;https://www.nginx.com/products/download-oss/&quot;&gt;开源 NGINX 软件&lt;/a&gt; 编译的动态模块也可以加载到 NGINX Plus。&lt;/p&gt;
+
+&lt;p&gt;这意味着你可以利用大量的&lt;a href=&quot;https://www.nginx.com/resources/wiki/modules/index.html?utm_source=nginx-plus-r11-released&amp;amp;utm_medium=blog&quot;&gt;第三方 NGINX 模块&lt;/a&gt; 来扩展 NGINX Plus 的功能，借鉴一系列开源和商业化生产的模块。开发者可以基于支持 NGINX Plus 的内核创建自定义扩展、附加组件和新产品。&lt;/p&gt;
+
+&lt;p&gt;NGINX Plus R11 还增强了其它功能：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nginx.com/blog/nginx-plus-r11-released/?utm_source=nginx-plus-r11-released&amp;amp;utm_medium=blog#r11-tcp-udp-lb&quot;&gt;提升 TCP/UDP 负载均衡&lt;/a&gt; —— 新功能包括 SSL 服务器路由、新的日志功能、附加变量以及改进的代理协议支持。这些新功能增强了调试功能，使你能够支持更广泛的企业应用。&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nginx.com/blog/nginx-plus-r11-released/?utm_source=nginx-plus-r11-released&amp;amp;utm_medium=blog#r11-geoip2&quot;&gt;更好的 IP 定位&lt;/a&gt; —— 第三方的 GeoIP2 模块现在已经通过认证，并提供给 NGINX Plus 用户。这个新版本提供比原来的 GeoIP 模块更精准和丰富的位置信息。&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nginx.com/blog/nginx-plus-r11-released/?utm_source=nginx-plus-r11-released&amp;amp;utm_medium=blog#r11-nginScript&quot;&gt;增强的 nginScript 模块&lt;/a&gt; —— nginScript 是基于 JavaScript 的 NGINX Plus 的下一代配置语言。新功能可以让你在流（TCP/UDP）模块中即时修改请求和响应数据。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;最终结果？NGINX 准备继续与 Apache 竞争顶级 web 服务器的宝座。至于微软的 IIS？它将逐渐淡出市场。&lt;/p&gt;
+
+&lt;h3 id=&quot;reference&quot;&gt;Reference&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.zdnet.com/article/when-to-use-nginx-instead-of-apache/&quot;&gt;When to use NGINX instead of Apache&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Mon, 21 Nov 2016 23:00:00 +0000</pubDate>
+        <link>https://mars.js.org/when-to-use-nginx-instead-of-apache/</link>
+        <guid isPermaLink="true">https://mars.js.org/when-to-use-nginx-instead-of-apache/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>【译】Webpack 2 入门</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2000/1*yI44h8Df-l-2LUqvXIi8JQ.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Webpack 2 &lt;a href=&quot;https://github.com/webpack/webpack/issues/1545#issuecomment-255446425&quot;&gt;一旦文档完成&lt;/a&gt;，就将结束 Beta 测试期。不过这并不意味着你现在不能开始使用第 2 版，前提是你知道怎么配置它。&lt;/p&gt;
+
+&lt;h3 id=&quot;webpack-是什么&quot;&gt;Webpack 是什么&lt;/h3&gt;
+
+&lt;p&gt;简单来说，Webpack 是一个 JavaScript 模块打包器。然而，自从它发布以来，它发展成为了你所有的前端代码的管理工具（或许是有意的，或许是社区的意愿）。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/1*yBt2rFj2DbckFliGE0LEyg.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;老式的任务运行器的方式：你的标记、样式和 JavaScript 是分离的。你必须分别管理它们每一个，并且你需要确保每一样都达到产品级&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;任务运行器（task runner），例如 Gulp，可以处理许多不同的预处理器（preprocesser）和转换器（transpiler），但是在所有的情景下，它都需要一个输入源并将其压缩到一个编译好的输出文件中。然而，它是在每个部分的基础上这样做的，而没有考虑到整个系统。这就造成了开发者的负担：找到任务运行器所不能处理的地方，并找到适当的方式将所有这些模块在生产环境中联合在一起。&lt;/p&gt;
+
+&lt;p&gt;Webpack 试图通过提出一个大胆的想法来减轻开发者的负担：如果有一部分开发过程可以自动处理依赖关系会怎样？如果我们可以简单地写代码，让构建过程最终只根据需求管理自己会怎样？&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/1*TOFfoH0cXTc8G3Y_F6j3Jg.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Webpack 的方式：如果 Webpack 了解依赖关系，它会仅捆绑我们在生产环境中实际需要的部分&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;如果你过去几年一直参与 web 社区，你已经知道解决问题的首选方法：使用 JavaScript 来构建。而且 Webpack 尝试通过 JavaScript 传递依赖关系使得构建过程更加容易。不过这个设计真正的亮点不是简化代码管理部分，而是管理层由 100% 有效的 JavaScript 实现（具有 Nodejs 特性）。Webpack 能够让你编写有效的 JavaScript，更好更全面地了解系统。&lt;/p&gt;
+
+&lt;p&gt;换句话来说：你不需要为 Webpack 写代码。你只需要写项目代码。而且 Webpack 就会持续工作（当然需要一些配置）。&lt;/p&gt;
+
+&lt;p&gt;简而言之，如果你曾经遇到过以下任何一种情况：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;载入有问题的依赖项&lt;/li&gt;
+  &lt;li&gt;意外引入一些你不需要在生产中用上的 CSS 样式表和 JS 库，使项目膨胀&lt;/li&gt;
+  &lt;li&gt;意外的两次载入（或三次）库&lt;/li&gt;
+  &lt;li&gt;遇到作用域的问题 —— CSS 和 JavaScript 都会有&lt;/li&gt;
+  &lt;li&gt;寻找一个让你在 JavaScript 中使用 Node/Bower 模块的构建系统，要么就得依靠一个令人发狂的后端配置才能正确地使用这些模块&lt;/li&gt;
+  &lt;li&gt;需要优化资产（asset）交付，但你担心会弄坏一些东西&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;等等……&lt;/p&gt;
+
+&lt;p&gt;那么你可以从 Webpack 中收益了。它通过让 JavaScript 轻松处理你的依赖关系和加载顺序，而不是通过开发者的大脑。最好的部分是，Webpack 甚至可以纯粹在服务器端运行，这意味着你还可以使用 Webpack 构建&lt;a href=&quot;https://www.smashingmagazine.com/2009/04/progressive-enhancement-what-it-is-and-how-to-use-it/&quot;&gt;渐进增强式&lt;/a&gt;网站。&lt;/p&gt;
+
+&lt;h3 id=&quot;第一步&quot;&gt;第一步&lt;/h3&gt;
+
+&lt;p&gt;我们将在本教程中使用 &lt;a href=&quot;https://yarnpkg.com/&quot;&gt;Yarn&lt;/a&gt;（运行命令 &lt;code class=&quot;highlighter-rouge&quot;&gt;brew install yarn&lt;/code&gt;） 代替 &lt;code class=&quot;highlighter-rouge&quot;&gt;npm&lt;/code&gt;，不过这完全取决于你的喜好，它们做同样的事情。在我们的项目文件夹中，我们将在终端窗口中运行以下代码，将 Webpack 2 添加到我们的全局软件包以及本地项目中：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;yarn global add webpack@2.1.0-beta.25 webpack-dev-server@2.1.0-beta.9
+yarn add --dev webpack@2.1.0-beta.25 webpack-dev-server@2.1.0-beta.9
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;我们接着会通过项目根目录的一个 &lt;code class=&quot;highlighter-rouge&quot;&gt;webpack.config.js&lt;/code&gt; 文件来声明 webpack 的配置：&lt;/p&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;s1&quot;&gt;&#39;use strict&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;webpack&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;require&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;webpack&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+&lt;span class=&quot;nx&quot;&gt;module&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;exports&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;context&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;__dirname&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&#39;/src&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;entry&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;app&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&#39;./app.js&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;output&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;path&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;__dirname&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&#39;/dist&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;filename&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&#39;[name].bundle.js&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;注意：此处 &lt;code class=&quot;highlighter-rouge&quot;&gt;__dirname&lt;/code&gt; 是指你的项目根目录&lt;/p&gt;
+
+&lt;p&gt;记住，Webpack “知道”你的项目发生了什么。它通过阅读你的代码来实现（别担心，它签署了保密协议 :D ）。Webpack 基本上执行以下操作：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;从 &lt;code class=&quot;highlighter-rouge&quot;&gt;context&lt;/code&gt; 文件夹开始……&lt;/li&gt;
+  &lt;li&gt;……它查找 &lt;code class=&quot;highlighter-rouge&quot;&gt;entry&lt;/code&gt; 下的文件名……&lt;/li&gt;
+  &lt;li&gt;……并读取其内容。每一个 &lt;code class=&quot;highlighter-rouge&quot;&gt;import&lt;/code&gt;（&lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import&quot;&gt;ES6&lt;/a&gt;）或 &lt;code class=&quot;highlighter-rouge&quot;&gt;require()&lt;/code&gt;（Nodejs）的依赖会在它解析代码的时候找到，它会在最终构建的时候打包这些依赖项。然后，它会搜索那些依赖项以及那些依赖项所依赖的依赖项，直到它到达“树”的最底端 —— 只打包它所需要的，没有其它东西。&lt;/li&gt;
+  &lt;li&gt;Webpack 从 &lt;code class=&quot;highlighter-rouge&quot;&gt;context&lt;/code&gt; 文件夹打包所有东西到 &lt;code class=&quot;highlighter-rouge&quot;&gt;output.path&lt;/code&gt; 文件夹，使用 &lt;code class=&quot;highlighter-rouge&quot;&gt;output.filename&lt;/code&gt; 命名模板来为其命名（其中 &lt;code class=&quot;highlighter-rouge&quot;&gt;[name]&lt;/code&gt; 被替换成来自 &lt;code class=&quot;highlighter-rouge&quot;&gt;entry&lt;/code&gt; 的对象的键）。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;所以如果我们的 &lt;code class=&quot;highlighter-rouge&quot;&gt;src/app.js&lt;/code&gt; 文件看起来像这样（假设我们事先运行了 &lt;code class=&quot;highlighter-rouge&quot;&gt;yarn add --dev moment&lt;/code&gt;）：&lt;/p&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;s1&quot;&gt;&#39;use strict&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;moment&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&#39;moment&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;rightNow&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;moment&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;().&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;format&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;MMMM Do YYYY, h:mm:ss a&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;rightNow&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// &quot;October 23rd 2016, 9:30:24 pm&quot;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;我们应该运行：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;webpack -p
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;注意：&lt;code class=&quot;highlighter-rouge&quot;&gt;p&lt;/code&gt; 标志表示“生产”模式，这会压缩输出文件。&lt;/p&gt;
+
+&lt;p&gt;它会输出一个 &lt;code class=&quot;highlighter-rouge&quot;&gt;dist/app.bundle.js&lt;/code&gt;，并将当前日期和时间打印到控制台。要注意 Webpack 会自动识别 上面的 &lt;code class=&quot;highlighter-rouge&quot;&gt;&#39;moment&#39;&lt;/code&gt; 指代的是什么（比如说，虽然如果你有一个 &lt;code class=&quot;highlighter-rouge&quot;&gt;moment.js&lt;/code&gt; 文件在你的目录，默认情况下 Webpack 会优先考虑你的 &lt;code class=&quot;highlighter-rouge&quot;&gt;moment&lt;/code&gt; Node 模块）。&lt;/p&gt;
+
+&lt;h3 id=&quot;使用多个文件&quot;&gt;使用多个文件&lt;/h3&gt;
+
+&lt;p&gt;你可以通过仅仅修改 &lt;code class=&quot;highlighter-rouge&quot;&gt;entry&lt;/code&gt; 对象来指定任意数量的入口（entry）/输出点（output）。&lt;/p&gt;
+
+&lt;h4 id=&quot;打包多个文件&quot;&gt;打包多个文件&lt;/h4&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;s1&quot;&gt;&#39;use strict&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;webpack&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;require&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;webpack&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+&lt;span class=&quot;nx&quot;&gt;module&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;exports&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;context&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;__dirname&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;/src&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;entry&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;app&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;./home.js&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;./events.js&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;./vendor.js&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;],&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;output&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;path&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;__dirname&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;/dist&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;filename&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;[name].bundle.js&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;所有文件都会按照数组的顺序一起被打包成一个 &lt;code class=&quot;highlighter-rouge&quot;&gt;dist/app.bundle.js&lt;/code&gt; 文件。&lt;/p&gt;
+
+&lt;h4 id=&quot;输出多个文件&quot;&gt;输出多个文件&lt;/h4&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;webpack&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;require&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;webpack&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+&lt;span class=&quot;nx&quot;&gt;module&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;exports&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;context&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;__dirname&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;/src&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;entry&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;home&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;./home.js&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;events&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;./events.js&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;contact&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;./contact.js&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;output&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;path&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;__dirname&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;/dist&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;filename&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;[name].bundle.js&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;或者，你可以选择打包成多个 JS 文件以便于分割应用的某些模块。这将被打包成 3 个文件：&lt;code class=&quot;highlighter-rouge&quot;&gt;dist/home.bundle.js&lt;/code&gt;，&lt;code class=&quot;highlighter-rouge&quot;&gt;dist/events.bundle.js&lt;/code&gt; 和 &lt;code class=&quot;highlighter-rouge&quot;&gt;dist/contact.bundle.js&lt;/code&gt;。&lt;/p&gt;
+
+&lt;h4 id=&quot;高级打包自动化&quot;&gt;高级打包自动化&lt;/h4&gt;
+
+&lt;p&gt;如果你将你的应用分割成多个 &lt;code class=&quot;highlighter-rouge&quot;&gt;output&lt;/code&gt; 输出项（如果你的应用的一部分有大量你不需要预加载的 JS，这会很有用），你可能会重用这些文件的代码，因为它将分别解析每个依赖关系。幸运的是，Webpack 有一个内置的 &lt;code class=&quot;highlighter-rouge&quot;&gt;CommonsChunk&lt;/code&gt; 插件来处理这个：&lt;/p&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nx&quot;&gt;module&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;exports&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;c1&quot;&gt;// …&lt;/span&gt;
+
+  &lt;span class=&quot;na&quot;&gt;plugins&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;webpack&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;optimize&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;CommonsChunkPlugin&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;commons&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;filename&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;commons.bundle.js&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;minChunks&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;}),&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;],&lt;/span&gt;
+
+  &lt;span class=&quot;c1&quot;&gt;// …&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;现在，在你的 &lt;code class=&quot;highlighter-rouge&quot;&gt;output&lt;/code&gt; 文件中，如果你有任何模块被加载 2 次以上（通过 &lt;code class=&quot;highlighter-rouge&quot;&gt;minChunks&lt;/code&gt; 设置），它会把那个模块打包到 &lt;code class=&quot;highlighter-rouge&quot;&gt;common.js&lt;/code&gt; 文件中，然后你可以将其缓存在客户端。这将生成一个额外的请求头，但是你防止了客户端多次下载同一个库。因此，在很多情景下，这会大大提升速度。&lt;/p&gt;
+
+&lt;h3 id=&quot;开发&quot;&gt;开发&lt;/h3&gt;
+
+&lt;p&gt;Webpack 实际上有自己的开发服务器，所以无论你是开发一个静态网站还是只是你的网站前端原型，它都是无可挑剔的。要运行那个服务器，只需要添加一个 &lt;code class=&quot;highlighter-rouge&quot;&gt;devServer&lt;/code&gt; 对象到 &lt;code class=&quot;highlighter-rouge&quot;&gt;webpack.config.js&lt;/code&gt;：&lt;/p&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nx&quot;&gt;module&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;exports&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;context&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;__dirname&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;/src&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;entry&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;app&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;./app.js&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;output&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;filename&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;[name].bundle.js&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;path&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;__dirname&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;/dist/assets&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;publicPath&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;/assets&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;            &lt;span class=&quot;c1&quot;&gt;// New&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;devServer&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;contentBase&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;__dirname&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;/src&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;  &lt;span class=&quot;c1&quot;&gt;// New&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;现在创建一个包含以下代码的 &lt;code class=&quot;highlighter-rouge&quot;&gt;src/index.html&lt;/code&gt; 文件：&lt;/p&gt;
+
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;script &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/assets/app.bundle.js&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;……在你的终端中运行：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;webpack-dev-server
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;你的服务器现在运行在 &lt;code class=&quot;highlighter-rouge&quot;&gt;localhost:8080&lt;/code&gt;。注意 &lt;code class=&quot;highlighter-rouge&quot;&gt;script&lt;/code&gt; 标签里面的 &lt;code class=&quot;highlighter-rouge&quot;&gt;/assets&lt;/code&gt; 是怎么匹配到 &lt;code class=&quot;highlighter-rouge&quot;&gt;output.publicPath&lt;/code&gt; 的 —— 你可以随意更改它的名称（如果你需要一个 CDN 的时候这会很有用）。&lt;/p&gt;
+
+&lt;p&gt;Webpack 会热加载所有 JavaScript 更改，而不需要刷新你的浏览器。但是，所有 &lt;code class=&quot;highlighter-rouge&quot;&gt;webpack.config.js&lt;/code&gt; 文件里面的更改都需要重新启动服务器才能生效。&lt;/p&gt;
+
+&lt;h3 id=&quot;全局访问方法&quot;&gt;全局访问方法&lt;/h3&gt;
+
+&lt;p&gt;需要在全局空间使用你的函数？在 &lt;code class=&quot;highlighter-rouge&quot;&gt;webpack.config.js&lt;/code&gt; 里面简单地设置 &lt;code class=&quot;highlighter-rouge&quot;&gt;output.library&lt;/code&gt;：&lt;/p&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nx&quot;&gt;module&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;exports&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;output&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;library&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&#39;myClassName&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;……这会将你打包好的文件附加到一个 &lt;code class=&quot;highlighter-rouge&quot;&gt;window.myClassName&lt;/code&gt; 实例。因此，使用该命名空间，你可以调用入口文件的可用方法（可以在&lt;a href=&quot;https://webpack.js.org/concepts/output/#output-library&quot;&gt;该文档&lt;/a&gt;中阅读有关此设置的更多信息）。&lt;/p&gt;
+
+&lt;h3 id=&quot;加载器&quot;&gt;加载器&lt;/h3&gt;
+
+&lt;p&gt;到目前为止，我们所做的一切只涉及 JavaScript。从一开始就使用 JavaScript 是重要的，因为它是 Webpack 唯一支持的语言。事实上我们可以处理几乎所有文件类型，只要我们将其转换成 JavaScript。我们用加载器（loader）来实现这个功能。&lt;/p&gt;
+
+&lt;p&gt;加载器可以是 Sass 这样的预处理器，或者是 Babel 这样的转译器。在 NPM 上，它们通常被命名为 &lt;code class=&quot;highlighter-rouge&quot;&gt;*-loader&lt;/code&gt;，例如 &lt;code class=&quot;highlighter-rouge&quot;&gt;sass-loader&lt;/code&gt; 和 &lt;code class=&quot;highlighter-rouge&quot;&gt;babel-loader&lt;/code&gt;。&lt;/p&gt;
+
+&lt;h4 id=&quot;babel-和-es6&quot;&gt;Babel 和 ES6&lt;/h4&gt;
+
+&lt;p&gt;如果我们想在项目中通过 &lt;a href=&quot;https://babeljs.io/&quot;&gt;Babel&lt;/a&gt; 来使用 ES6，我们首先需要在本地安装合适的加载器：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;yarn add --dev babel-loader babel-core babel-preset-es2015
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;然后将它添加到 &lt;code class=&quot;highlighter-rouge&quot;&gt;webpack.config.js&lt;/code&gt;，让 Webpack 知道在哪里使用它。&lt;/p&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nx&quot;&gt;module&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;exports&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;c1&quot;&gt;// …&lt;/span&gt;
+
+  &lt;span class=&quot;na&quot;&gt;module&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;rules&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;
+      &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;na&quot;&gt;test&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;sr&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\.&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;js$/&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+        &lt;span class=&quot;na&quot;&gt;use&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[{&lt;/span&gt;
+          &lt;span class=&quot;na&quot;&gt;loader&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;babel-loader&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+          &lt;span class=&quot;na&quot;&gt;options&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;presets&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;es2015&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+        &lt;span class=&quot;p&quot;&gt;}],&lt;/span&gt;
+      &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
+
+      &lt;span class=&quot;c1&quot;&gt;// Loaders for other file types can go here&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;],&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
+
+  &lt;span class=&quot;c1&quot;&gt;// …&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Webpack 1 的用户注意：加载器的核心概念没有任何改变，但是语法改进了。直到官方文档完成之前，这可能不是确切的首选语法。&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;/\.js$/&lt;/code&gt; 这个正则表达式查找所有以 &lt;code class=&quot;highlighter-rouge&quot;&gt;.js&lt;/code&gt; 结尾的待通过 Babel 加载的文件。Webpack 依靠正则检查给予你完全的控制权 —— 它不限制你的文件扩展名或者假定你的代码必须以某种方式组织。例如：也许你的 &lt;code class=&quot;highlighter-rouge&quot;&gt;/my_legacy_code/&lt;/code&gt; 文件夹下的内容不是用 ES6 写的，所以你可以修改上述的 &lt;code class=&quot;highlighter-rouge&quot;&gt;test&lt;/code&gt; 为 &lt;code class=&quot;highlighter-rouge&quot;&gt;/^((?!my_legacy_folder).)\.js$/&lt;/code&gt;，这将会排除那个特定的文件夹，不过会用 Babel 处理其余的文件。&lt;/p&gt;
+
+&lt;h4 id=&quot;css-和-style-加载器&quot;&gt;CSS 和 Style 加载器&lt;/h4&gt;
+
+&lt;p&gt;如果我们只想为我们的应用所需加载 CSS，我们也可以这样做。假设我们有一个 &lt;code class=&quot;highlighter-rouge&quot;&gt;index.js&lt;/code&gt; 文件，我们将从那里引入：&lt;/p&gt;
+
+&lt;div class=&quot;language-css highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;styles&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&#39;./assets/stylesheets/application.css&#39;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;我们会得到以下错误：&lt;code class=&quot;highlighter-rouge&quot;&gt;你可能需要一个合适的加载器来处理这种类型的文件&lt;/code&gt;。记住，Webpack 只能识别 JavaScript，所以我们必须安装合适的加载器：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;yarn add --dev css-loader style-loader
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;然后添加一条规则到 &lt;code class=&quot;highlighter-rouge&quot;&gt;webpack.config.js&lt;/code&gt;：&lt;/p&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nx&quot;&gt;module&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;exports&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;c1&quot;&gt;// …&lt;/span&gt;
+
+  &lt;span class=&quot;na&quot;&gt;module&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;rules&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;
+      &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;na&quot;&gt;test&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;sr&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\.&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;css$/&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+        &lt;span class=&quot;na&quot;&gt;use&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;style-loader&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;css-loader&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;],&lt;/span&gt;
+      &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
+
+      &lt;span class=&quot;c1&quot;&gt;// …&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;],&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;加载器以数组的逆序处理。这意味着 &lt;code class=&quot;highlighter-rouge&quot;&gt;css-loader&lt;/code&gt; 会比 &lt;code class=&quot;highlighter-rouge&quot;&gt;style-loader&lt;/code&gt; 先执行。&lt;/p&gt;
+
+&lt;p&gt;你可能会注意到，即使在生产版本中，这实际上是将你的 CSS 和 JavaScript 打包在一起，&lt;code class=&quot;highlighter-rouge&quot;&gt;style-loader&lt;/code&gt; 手动将你的样式写到 &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;head&amp;gt;&lt;/code&gt;。乍一看，它可能看起来有点怪异，但你仔细想想就会发现这就慢慢开始变得更加有意义了。你已经节省了一个头部请求 —— 节省了一些连接上的时间。如果你用 JavaScript 来加载你的 DOM，无论如何，这从本质上消除了 &lt;a href=&quot;https://en.wikipedia.org/wiki/Flash_of_unstyled_content&quot;&gt;FOUC&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;你还会注意到一个开箱即用的特性 —— Webpack 已经通过将这些文件打包在一起以自动解决你所有的 &lt;code class=&quot;highlighter-rouge&quot;&gt;@import&lt;/code&gt; 查询（而不是依靠 CSS 默认的 import 方式，这会导致无谓的头部请求以及资源加载缓慢）。&lt;/p&gt;
+
+&lt;p&gt;从你的 JS 加载 CSS 是非常惊人的，因为你现在可以用一种新的强大的方式将你的 CSS 模块化。比如说你要只通过 &lt;code class=&quot;highlighter-rouge&quot;&gt;button.js&lt;/code&gt; 来加载 &lt;code class=&quot;highlighter-rouge&quot;&gt;button.css&lt;/code&gt;，这将意味着如果 &lt;code class=&quot;highlighter-rouge&quot;&gt;button.js&lt;/code&gt; 从来没有真正使用过的话，它的 CSS 就不会膨胀我们的生产版本。如果你坚持面向组件的 CSS 实践，如 SMACSS 或 BEM，你会看到更紧密地结合你的 CSS 和你的标记和 JavaScript 的价值。&lt;/p&gt;
+
+&lt;h4 id=&quot;css-和-node-模块&quot;&gt;CSS 和 Node 模块&lt;/h4&gt;
+
+&lt;p&gt;我们可以使用 Webpack 来利用 Node.js 使用 &lt;code class=&quot;highlighter-rouge&quot;&gt;~&lt;/code&gt; 前缀导入 Node 模块的优势。如果我们运行 &lt;code class=&quot;highlighter-rouge&quot;&gt;yarn add normalize.css&lt;/code&gt;，我们可以使用：&lt;/p&gt;
+
+&lt;div class=&quot;language-css highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;@import&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&quot;~normalize.css&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;……并且充分利用 NPM 来管理我们的第三方样式 —— 版本控制、没有任何副本和粘贴的部分。此外，让 Webpack 为我们打包 CSS 比起使用 CSS 的默认导入方式有明显的优势 —— 节省无谓的头部请求和加载时间。&lt;/p&gt;
+
+&lt;p&gt;更新：这一节和下面一节已经更新为准确的用法，不再使用 CSS 模块简单地导入 Node 的模块。感谢 &lt;a href=&quot;https://medium.com/u/901a038e32e5&quot;&gt;Albert Fernández&lt;/a&gt; 的帮助！&lt;/p&gt;
+
+&lt;h4 id=&quot;css-模块&quot;&gt;CSS 模块&lt;/h4&gt;
+
+&lt;p&gt;你可能听说过 &lt;a href=&quot;https://github.com/css-modules/css-modules&quot;&gt;CSS 模块&lt;/a&gt;，它把 CSS 变成了 SS，消除了 CSS 的层叠性（Cascading）。通常它的最适用场景是只有当你使用 JavaScript 构建 DOM 的时候，但实质上，它神奇地将你的 CSS 类放置到加载它的 JavaScript 文件里（&lt;a href=&quot;https://github.com/css-modules/css-modules&quot;&gt;在这里了解更多&lt;/a&gt;）。如果你打算使用它，CSS 模块已经与 &lt;code class=&quot;highlighter-rouge&quot;&gt;css-loader&lt;/code&gt; 封装在一起（&lt;code class=&quot;highlighter-rouge&quot;&gt;yarn add --dev css-loader&lt;/code&gt;）：&lt;/p&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nx&quot;&gt;module&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;exports&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;c1&quot;&gt;// …&lt;/span&gt;
+
+  &lt;span class=&quot;na&quot;&gt;module&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;rules&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;
+      &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;na&quot;&gt;test&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;sr&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\.&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;css$/&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+        &lt;span class=&quot;na&quot;&gt;use&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;
+          &lt;span class=&quot;s2&quot;&gt;&quot;style-loader&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+          &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;loader&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;css-loader&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;options&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;modules&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;true&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+        &lt;span class=&quot;p&quot;&gt;],&lt;/span&gt;
+      &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
+
+      &lt;span class=&quot;c1&quot;&gt;// …&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;],&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;注意：对于 &lt;code class=&quot;highlighter-rouge&quot;&gt;css-loader&lt;/code&gt;，我们现在使用扩展对象语法（expanded object syntax）来给它传递一个选项。你可以使用一个更为精简的字符串来取代默认选项，正如我们仍然使用了 &lt;code class=&quot;highlighter-rouge&quot;&gt;style-loader&lt;/code&gt;。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;值得注意的是，当允许导入 CSS 模块的时候（例如：&lt;code class=&quot;highlighter-rouge&quot;&gt;@import &#39;normalize.css&#39;;&lt;/code&gt;），你完全可以删除掉 &lt;code class=&quot;highlighter-rouge&quot;&gt;~&lt;/code&gt;。但是，当你 &lt;code class=&quot;highlighter-rouge&quot;&gt;@import&lt;/code&gt; 你自己的 CSS 的时候，你可能会遇到构建错误。如果你遇到“无法找到 &lt;em&gt;__&lt;/em&gt;”的错误，尝试添加一个 &lt;code class=&quot;highlighter-rouge&quot;&gt;resolve&lt;/code&gt; 对象到 &lt;code class=&quot;highlighter-rouge&quot;&gt;webpack.config.js&lt;/code&gt;，让 Webpack 更好地理解你的模块加载顺序。&lt;/p&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;path&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;require&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;path&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+&lt;span class=&quot;nx&quot;&gt;module&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;exports&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;c1&quot;&gt;//…&lt;/span&gt;
+
+  &lt;span class=&quot;na&quot;&gt;resolve&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;modules&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;path&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;resolve&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;__dirname&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;src&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;node_modules&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;我们首先指定源目录，然后指定 &lt;code class=&quot;highlighter-rouge&quot;&gt;node_modules&lt;/code&gt;。这样，Webpack 会更好地处理解析，按照既定的顺序（分别用你的源目录和 Node 模块的目录替换 &lt;code class=&quot;highlighter-rouge&quot;&gt;&quot;src&quot;&lt;/code&gt; 和 &lt;code class=&quot;highlighter-rouge&quot;&gt;&quot;node_modules&quot;&lt;/code&gt;），首先查找我们的源目录，然后再查找已安装的 Node 模块。&lt;/p&gt;
+
+&lt;h4 id=&quot;sass&quot;&gt;Sass&lt;/h4&gt;
+
+&lt;p&gt;需要使用 Sass？没问题。安装：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;yarn add --dev sass-loader node-sass
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;并添加新的规则：&lt;/p&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nx&quot;&gt;module&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;exports&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;c1&quot;&gt;// …&lt;/span&gt;
+
+  &lt;span class=&quot;na&quot;&gt;module&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;rules&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;
+      &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;na&quot;&gt;test&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;sr&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\.(&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;sass|scss&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;$/&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+        &lt;span class=&quot;na&quot;&gt;use&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;
+          &lt;span class=&quot;s2&quot;&gt;&quot;style-loader&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+          &lt;span class=&quot;s2&quot;&gt;&quot;css-loader&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+          &lt;span class=&quot;s2&quot;&gt;&quot;sass-loader&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+        &lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+      &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+      &lt;span class=&quot;c1&quot;&gt;// …&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;],&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;然后当你的 Javascript 对一个 &lt;code class=&quot;highlighter-rouge&quot;&gt;.scss&lt;/code&gt; 或 &lt;code class=&quot;highlighter-rouge&quot;&gt;.sass&lt;/code&gt; 文件调用 &lt;code class=&quot;highlighter-rouge&quot;&gt;import&lt;/code&gt; 方法的时候，Webpack 会处理的。&lt;/p&gt;
+
+&lt;h4 id=&quot;css-独立打包&quot;&gt;CSS 独立打包&lt;/h4&gt;
+
+&lt;p&gt;或许你在处理渐进增强的问题；或许你因为其它原因需要一个单独的 CSS 文件。我们可以通过在我们的配置中用 &lt;code class=&quot;highlighter-rouge&quot;&gt;extract-text-webpack-plugin&lt;/code&gt; 替换 &lt;code class=&quot;highlighter-rouge&quot;&gt;style-loader&lt;/code&gt; 而轻易地做到这一点，这不需要更改任何代码。以我们的 &lt;code class=&quot;highlighter-rouge&quot;&gt;app.js&lt;/code&gt; 文件为例：&lt;/p&gt;
+
+&lt;div class=&quot;language-css highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;styles&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&#39;./assets/stylesheets/application.css&#39;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;让我们安装这个插件到本地（我们需要 2016 年 10 月的测试版本）：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;yarn add --dev extract-text-webpack-plugin@2.0.0-beta.4
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;并且添加到 &lt;code class=&quot;highlighter-rouge&quot;&gt;webpack.config.js&lt;/code&gt;：&lt;/p&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;ExtractTextPlugin&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;require&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;extract-text-webpack-plugin&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+&lt;span class=&quot;nx&quot;&gt;module&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;exports&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;c1&quot;&gt;// …&lt;/span&gt;
+
+  &lt;span class=&quot;na&quot;&gt;module&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;rules&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;
+      &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;na&quot;&gt;test&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;sr&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\.&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;css$/&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+        &lt;span class=&quot;na&quot;&gt;use&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;
+          &lt;span class=&quot;nx&quot;&gt;ExtractTextPlugin&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;extract&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;css&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt;
+          &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;loader&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;css-loader&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;options&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;modules&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;true&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
+        &lt;span class=&quot;p&quot;&gt;],&lt;/span&gt;
+      &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
+
+      &lt;span class=&quot;c1&quot;&gt;// …&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;plugins&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;ExtractTextPlugin&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;filename&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;[name].bundle.css&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;allChunks&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;true&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;}),&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;],&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;现在当运行 &lt;code class=&quot;highlighter-rouge&quot;&gt;webpack -p&lt;/code&gt; 的时候，你的 &lt;code class=&quot;highlighter-rouge&quot;&gt;output&lt;/code&gt; 目录还会有一个 &lt;code class=&quot;highlighter-rouge&quot;&gt;app.bundle.css&lt;/code&gt; 文件。只需要像往常一样简单地在你的 HTML 中向该文件添加一个 &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;link&amp;gt;&lt;/code&gt; 标签即可。&lt;/p&gt;
+
+&lt;h4 id=&quot;html&quot;&gt;HTML&lt;/h4&gt;
+
+&lt;p&gt;正如你可能已经猜到，Webpack 还有一个 &lt;code class=&quot;highlighter-rouge&quot;&gt;[html-loader][6]&lt;/code&gt; 插件。但是，当我们用 JavaScript 加载 HTML 时，我们针对不同的场景分成了不同的方法，我无法想出一个单一的例子来为你计划下一步做什么。通常，你需要加载 HTML 以便于在更大的系统（如 &lt;a href=&quot;https://facebook.github.io/react/&quot;&gt;React&lt;/a&gt;、&lt;a href=&quot;https://angularjs.org/&quot;&gt;Angular&lt;/a&gt;、&lt;a href=&quot;http://vuejs.org/&quot;&gt;Vue&lt;/a&gt; 或 &lt;a href=&quot;http://emberjs.com/&quot;&gt;Ember&lt;/a&gt;）中使用 JavaScript 风格的标记，如 &lt;a href=&quot;https://jsx.github.io/&quot;&gt;JSX&lt;/a&gt;、&lt;a href=&quot;https://github.com/janl/mustache.js/&quot;&gt;Mustache&lt;/a&gt; 或 &lt;a href=&quot;http://handlebarsjs.com/&quot;&gt;Handlebars&lt;/a&gt;。或者你可以使用类似 &lt;a href=&quot;https://github.com/pugjs/pug-loader&quot;&gt;Pug&lt;/a&gt; （以前叫 Jade）或 &lt;a href=&quot;https://github.com/AlexanderPavlenko/haml-loader&quot;&gt;Haml&lt;/a&gt; 这样的 HTML 预处理器，抑或你可以直接把同样的 HTML 从你的源代码目录推送到你的构建目录。你怎么做都行。&lt;/p&gt;
+
+&lt;p&gt;教程到此为止了：你可以用 Webpack 加载标记，但是进展到这一步的时候，关于你的架构，你将做出自己的决定，我和 Webpack 都无法左右你。不过参考以上的例子以及搜索 NPM 上适用的加载器应该足够你发展下去了。&lt;/p&gt;
+
+&lt;h3 id=&quot;从模块的角度思考&quot;&gt;从模块的角度思考&lt;/h3&gt;
+
+&lt;p&gt;为了充分使用 Webpack，你必须从模块的角度来思考：细粒度的、可复用的、用于高效处理每一件事的独立的处理程序。这意味着采取这样的方式：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;└── js/
+    └── application.js   // 300KB of spaghetti code
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;将其转变成这样：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;└── js/
+    ├── components/
+    │   ├── button.js
+    │   ├── calendar.js
+    │   ├── comment.js
+    │   ├── modal.js
+    │   ├── tab.js
+    │   ├── timer.js
+    │   ├── video.js
+    │   └── wysiwyg.js
+    │
+    └── application.js  // ~ 1KB of code; imports from ./components/
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;结果呈现了整洁的、可复用的代码。每一个独立的组件通过 &lt;code class=&quot;highlighter-rouge&quot;&gt;import&lt;/code&gt; 来引入自身的依赖，并 &lt;code class=&quot;highlighter-rouge&quot;&gt;export&lt;/code&gt; 它想要暴露给其它模块的部分。结合 Babel 和 ES6，你可以利用 &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes&quot;&gt;JavaScript 类&lt;/a&gt; 来实现更强大的模块化，而不用考虑它的工作原理。&lt;/p&gt;
+
+&lt;p&gt;有关模块的更多信息，请参阅 Preethi Kasreddy &lt;a href=&quot;https://medium.freecodecamp.com/javascript-modules-a-beginner-s-guide-783f7d7a5fcc&quot;&gt;这篇优秀的文章&lt;/a&gt;。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;reference&quot;&gt;Reference&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.madewithenvy.com/getting-started-with-webpack-2-ed2b86c68783#.oozfpppao&quot;&gt;Getting Started with Webpack 2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gist.github.com/sokra/27b24881210b56bbaff7&quot;&gt;Webpack 2 的新特性&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://webpack.js.org/configuration/&quot;&gt;Webpack 配置文档&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/webpack/webpack/tree/master/examples&quot;&gt;Webpack 范例&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/kriasoft/react-starter-kit&quot;&gt;React + Webpack 入门套件&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/petehunt/webpack-howto&quot;&gt;怎么使用 Webpack&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Sun, 13 Nov 2016 23:00:00 +0000</pubDate>
+        <link>https://mars.js.org/getting-started-with-webpack2/</link>
+        <guid isPermaLink="true">https://mars.js.org/getting-started-with-webpack2/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>【译】怎样用 Tar 和 OpenSSL 给文件和目录加密及解密</title>
+        <description>&lt;p&gt;当你有重要的敏感数据的时候，给你的文件和目录额外加一层保护是至关重要的，特别是当你需要通过网络与他人传输数据的时候。&lt;/p&gt;
+
+&lt;p&gt;由于这个原因，我在寻找一个可疑在 Linux 上加密及解密文件和目录的实用程序，幸运的是我找到了一个用 tar（Linux 的一个压缩打包工具）和 OpenSSL 来解决的方案。借助这两个工具，你真的可以毫不费力地创建和加密 tar 归档文件。&lt;/p&gt;
+
+&lt;p&gt;在这篇文章中，我们将了解如何使用 OpenSSL 创建和加密 tar 或 gz（gzip，另一种压缩文件）归档文件：&lt;/p&gt;
+
+&lt;p&gt;牢记使用 OpenSSL 的常规方式是：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# openssl command command-options arguments
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;在-linux-中加密文件&quot;&gt;在 Linux 中加密文件&lt;/h3&gt;
+
+&lt;p&gt;要加密当前工作目录的内容（根据文件的大小，这可能需要一点时间）：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# tar -czf - * | openssl enc -e -aes256 -out secured.tar.gz
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;上述命令的解释：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;enc&lt;/code&gt; - openssl 命令使用加密进行编码&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;-e&lt;/code&gt; – 用来加密输入文件的 &lt;code class=&quot;highlighter-rouge&quot;&gt;enc&lt;/code&gt; 命令选项，这里是指前一个 tar 命令的输出&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;-aes256&lt;/code&gt; – 加密用的算法&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;-out&lt;/code&gt; – 用于指定输出文件名的 &lt;code class=&quot;highlighter-rouge&quot;&gt;enc&lt;/code&gt; 命令选项，这里文件名是 &lt;code class=&quot;highlighter-rouge&quot;&gt;secured.tar.gz&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;在-linux-中解密文件&quot;&gt;在 Linux 中解密文件&lt;/h3&gt;
+
+&lt;p&gt;要解密上述 tar 归档内容，使用以下命令。&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# openssl enc -d -aes256 -in secured.tar.gz | tar xz -C test
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;上述命令的解释：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;-d&lt;/code&gt; – 用于解密文件&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;-C&lt;/code&gt; – 提取内容到 &lt;code class=&quot;highlighter-rouge&quot;&gt;test&lt;/code&gt; 子目录&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;下图展示了加解密过程，以及当你尝试执行以下操作时会发生什么：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;以传统方式提取 tar 包的内容&lt;/li&gt;
+  &lt;li&gt;使用了错误的密码的时候&lt;/li&gt;
+  &lt;li&gt;当你输入正确的密码的时候&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.tecmint.com/wp-content/uploads/2016/08/Encrypt-Decrypt-Tar-Archive-Files-in-Linux.png&quot;&gt;&lt;img src=&quot;http://www.tecmint.com/wp-content/uploads/2016/08/Encrypt-Decrypt-Tar-Archive-Files-in-Linux.png&quot; alt=&quot;在 Linux 中加密和解密 Tar 归档文件&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;center&gt;在 Linux 中加密和解密 Tar 归档文件&lt;/center&gt;
+
+&lt;p&gt;当你在本地网络或因特网工作的时候，你可以随时通过加密来保护你和他人共享的重要文本或文件，这有助于降低将其暴露给恶意攻击者的风险。&lt;/p&gt;
+
+&lt;p&gt;我们研究了一种使用 OpenSSL（一个 openssl 命令行工具）加密 tar 包的简单技术，你可以参考它的手册页（man page）来获取更多信息和有用的命令。&lt;/p&gt;
+
+&lt;h3 id=&quot;reference&quot;&gt;Reference&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.tecmint.com/encrypt-decrypt-files-tar-openssl-linux/&quot;&gt;How to Encrypt and Decrypt Files and Directories Using Tar and OpenSSL&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Sat, 05 Nov 2016 23:00:00 +0000</pubDate>
+        <link>https://mars.js.org/how-to-encrypt-and-decrypt-files-and-directories-using-tar-and-openssl/</link>
+        <guid isPermaLink="true">https://mars.js.org/how-to-encrypt-and-decrypt-files-and-directories-using-tar-and-openssl/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>【译】怎样在 RHEL、CentOS 和 Fedora 上安装 Git 及设置 Git 账号</title>
+        <description>&lt;p&gt;对于新手来说，Git 是一个自由、开源、高效的分布式版本控制系统（VCS），它是基于速度、高性能以及数据一致性而设计的，以支持从小规模到大体量的软件开发项目。&lt;/p&gt;
+
+&lt;p&gt;Git 是一个可以让你追踪软件改动、版本回滚以及创建另外一个版本的目录和文件的软件仓库。&lt;/p&gt;
+
+&lt;p&gt;Git 主要是用 C 语言来写的，混杂了少量的 Perl 脚本和各种 shell 脚本。它主要在 Linux 内核上运行，并且有以下列举的卓越的性能：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;易于上手&lt;/li&gt;
+  &lt;li&gt;运行速度飞快，且大部分操作在本地进行，因此，它极大的提升了那些需要与远程服务器通信的集中式系统的速度。&lt;/li&gt;
+  &lt;li&gt;高效&lt;/li&gt;
+  &lt;li&gt;提供数据一致性检查&lt;/li&gt;
+  &lt;li&gt;支持低开销的本地分支&lt;/li&gt;
+  &lt;li&gt;提供非常便利的暂存区&lt;/li&gt;
+  &lt;li&gt;可以集成其它工具来支持多种工作流&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;在这篇操作指南中，我们将介绍在 CentOS/RHEL 7/6 和 Fedora 20-24 Linux 发行版上安装 Git 的必要步骤以及怎么配置 Git，以便于你可以快速开始工作。&lt;/p&gt;
+
+&lt;h3 id=&quot;使用-yum-安装-git&quot;&gt;使用 Yum 安装 Git&lt;/h3&gt;
+
+&lt;p&gt;我们将从系统默认的仓库安装 Git，并通过运行以下 &lt;a href=&quot;https://linux.cn/article-2272-1.html&quot;&gt;YUM 包管理器&lt;/a&gt; 的更新命令来确保你系统的软件包都是最新的：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# yum update
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;接着，通过以下命令来安装 Git：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# yum install git
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;在 Git 成功安装之后，你可以通过以下命令来显示 Git 安装的版本：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# git --version
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www.tecmint.com/wp-content/uploads/2016/10/Check-Git-Version.png&quot; alt=&quot;检查 Git 的安装版本&quot; /&gt;&lt;/p&gt;
+
+&lt;center&gt;检查 Git 安装的版本&lt;/center&gt;
+
+&lt;p&gt;注意：从系统默认仓库安装的 Git 会是比较旧的版本。如果你想拥有最新版的 Git，请考虑使用以下说明来编译源代码进行安装。&lt;/p&gt;
+
+&lt;h3 id=&quot;从源代码安装-git&quot;&gt;从源代码安装 Git&lt;/h3&gt;
+
+&lt;p&gt;开始之前，你首先需要从系统默认仓库安装所需的软件依赖包，以及从源代码构建二进制文件所需的实用工具：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# yum groupinstall &quot;Development Tools&quot;
+# yum install gettext-devel openssl-devel perl-CPAN perl-devel zlib-devel
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;安装所需的软件依赖包之后，转到官方的 &lt;a href=&quot;https://github.com/git/git/releases&quot;&gt;Git 发布页面&lt;/a&gt;，抓取最新版的 Git 并使用下列命令编译它的源代码：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# wget https://github.com/git/git/archive/v2.10.1.tar.gz -O git.tar.gz
+# tar -zxf git.tar.gz
+# cd git-2.10.1/
+# make configure
+# ./configure --prefix=/usr/local
+# make install
+# git --version
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www.tecmint.com/wp-content/uploads/2016/10/Check-Git-Source-Version.png&quot; alt=&quot;检查 Git 的安装版本&quot; /&gt;&lt;/p&gt;
+
+&lt;center&gt;检查 Git 的安装版本&lt;/center&gt;
+
+&lt;h3 id=&quot;在-linux-设置-git-账户&quot;&gt;在 Linux 设置 Git 账户&lt;/h3&gt;
+
+&lt;p&gt;在这个环节中，我们将介绍如何使用正确的用户信息（如：姓名、邮件地址）和 &lt;code class=&quot;highlighter-rouge&quot;&gt;git config&lt;/code&gt; 命令来设置 Git 账户，以避免出现提交错误。&lt;/p&gt;
+
+&lt;p&gt;注意：确保将下面的 &lt;code class=&quot;highlighter-rouge&quot;&gt;username&lt;/code&gt; 替换为在你的系统上创建和使用的 Git 用户的真实名称。&lt;/p&gt;
+
+&lt;p&gt;你可以使用下面的 &lt;a href=&quot;http://www.tecmint.com/add-users-in-linux/&quot;&gt;useradd 命令&lt;/a&gt; 创建一个 Git 用户，其中 &lt;code class=&quot;highlighter-rouge&quot;&gt;-m&lt;/code&gt; 选项用于在 &lt;code class=&quot;highlighter-rouge&quot;&gt;/home&lt;/code&gt; 目录下创建用户主目录，&lt;code class=&quot;highlighter-rouge&quot;&gt;-s&lt;/code&gt; 选项用于指定用户默认的 shell。&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# useradd -m -s /bin/bash username
+# passwd username
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;现在，将新用户添加到 &lt;code class=&quot;highlighter-rouge&quot;&gt;wheel&lt;/code&gt; 用户组以启用其使用 &lt;code class=&quot;highlighter-rouge&quot;&gt;sudo&lt;/code&gt; 命令的权限：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# usermod username -aG wheel
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www.tecmint.com/wp-content/uploads/2016/10/Create-Git-User-Account.png&quot; alt=&quot;创建 Git 用户账号&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;center创建 Git 用户账号&amp;lt;/center&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;然后通过以下命令使用新用户配置 Git：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# su username
+$ sudo git config --global user.name &quot;Your Name&quot;
+$ sudo git config --global user.email &quot;you@example.com&quot;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;现在通过下面的命令校验 Git 的配置。&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ sudo git config --list
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;如果配置没有错误的话，你应该能够看到类似以下详细信息的输出：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;user.name=username
+user.email= username@some-domian.com
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www.tecmint.com/wp-content/uploads/2016/10/Setup-Git-Account.png&quot; alt=&quot;在 Linux 设置 Git 用户&quot; /&gt;&lt;/p&gt;
+
+&lt;center&gt;在 Linux 设置 Git 用户&lt;/center&gt;
+
+&lt;h3 id=&quot;总结&quot;&gt;总结&lt;/h3&gt;
+
+&lt;p&gt;在这个简单的教程中，我们已经了解怎么在你的 Linux 系统上安装 Git 以及配置它。我相信你应该可以驾轻就熟。&lt;/p&gt;
+
+&lt;h3 id=&quot;reference&quot;&gt;Reference&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.tecmint.com/install-git-centos-fedora-redhat/&quot;&gt;How to Install Git and Setup Git Account in RHEL, CentOS and Fedora&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.tecmint.com/best-gui-git-clients-git-repository-viewers-for-linux/&quot;&gt;Linux 下 11 个最好用的 Git 客户端和 Git 仓库查看器&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Thu, 03 Nov 2016 23:00:00 +0000</pubDate>
+        <link>https://mars.js.org/how-to-install-git-and-setup-git-account-in-rhel/</link>
+        <guid isPermaLink="true">https://mars.js.org/how-to-install-git-and-setup-git-account-in-rhel/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>【译】苹果新的文件系统 APFS 比 HFS+ 强在哪里？</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://dn-linuxcn.qbox.me/data/attachment/album/201611/02/101332qc1pcord5coyzuao.jpg&quot; alt=&quot;poster&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;如果你一直关注苹果最新版的 macOS 的消息，你可能已经注意到苹果文件系统 APFS。这是不太让人感冒的话题之一。然而，它是支撑了操作系统用户体验的核心结构。APFS 将在 2017 年之前完成，不过你现在可以在 Sierra（最新版的 macOS） 上面体验一番开发者预览版。&lt;/p&gt;
+
+&lt;h3 id=&quot;特色与改进&quot;&gt;特色与改进&lt;/h3&gt;
+
+&lt;p&gt;先快速科普一下，&lt;strong&gt;文件系统&lt;/strong&gt;是操作系统用于存储和检索数据的基本结构，不同的文件系统采用不同的方式来实现这个任务。随着计算机变得越来越快，新生代的文件系统已经从计算机速度的提升中获益，以提供新功能和适应现代存储需求。&lt;/p&gt;
+
+&lt;p&gt;HFS+，作为今天新一代 Mac 的附带文件系统，已经 18 岁了。它的祖先 HFS 比 Tom Cruise 的兄弟情影片“壮志凌云”还要老。它有点像一辆老丰田。它仍然可以工作（也许惊人的好），但是它不再得到人们的嘉奖。&lt;/p&gt;
+
+&lt;p&gt;APFS 不完全是 HFS+ 的升级版，因为相对现在而言，它是一个大幅度的飞跃。虽然这对苹果用户来说是一个重大的升级，但似乎这看起来更像是苹果赶上了其它系统，而不是超越了它们。然而，更新还进展得非常慢。&lt;/p&gt;
+
+&lt;h3 id=&quot;克隆和数据完整性&quot;&gt;克隆和数据完整性&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://dn-linuxcn.qbox.me/data/attachment/album/201611/02/101349jyyco4kkyzch40yp.png&quot; alt=&quot;apfs-cloning&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;APFS 使用称为写时复制（copy-on-write）的方案来生成重复文件的即时克隆。在 HFS+ 下，当用户复制文件的时候，每一个比特（二进制中的“位”）都会被复制。而 APFS 则通过操作元数据并分配磁盘空间来创建克隆。但是，在修改复制的文件之前都不会复制任何比特。当克隆体与原始副本分离的时候，那些改动（并且只有那些改动）才会被保存。&lt;/p&gt;
+
+&lt;p&gt;写时复制还提高了数据的完整性。在其它系统下，如果你卸载卷导致覆写操作挂起的话，你可能会发现你的文件系统有一部分与其它部分不同步。写时复制则通过将改动写入到可用的磁盘空间而不是覆盖旧文件来避免这个问题。直到写入操作成功完成前，旧文件都是正式版本。只有当新文件被成功复制时，旧文件才会被清除。&lt;/p&gt;
+
+&lt;h3 id=&quot;系统快照&quot;&gt;系统快照&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://dn-linuxcn.qbox.me/data/attachment/album/201611/02/101414sq2o42f2cffo2tro.png&quot; alt=&quot;apfs-snapshots&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;快照是写时复制架构给你带来的一个主要的升级。快照是文件系统在某个时间点的一个只读的可装载映像。随着文件系统发生改动，只有改动的比特会被更改。这可以让备份更简单，更可靠。考虑到时间机器（一个苹果出品的备份工具）已经成为硬链接的痛点，这可能是一个重大的升级。&lt;/p&gt;
+
+&lt;h3 id=&quot;输入输出的服务质量qos&quot;&gt;输入/输出的服务质量（QoS）&lt;/h3&gt;
+
+&lt;p&gt;你可能已经在你的路由器说明书看到了服务质量（QoS）这个名词。QoS 优先分配带宽使用以避免降低优先任务的速度。在你的路由器上，它采用用户定义的规则来为指定任务提供最大的带宽。据报道，苹果的 QoS 会优先考虑用户操作，例如活跃窗口。而诸如时间机器备份这些后台任务将会被降级。所以，这意味着更少的闲暇时光了？&lt;/p&gt;
+
+&lt;h3 id=&quot;本地加密&quot;&gt;本地加密&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://dn-linuxcn.qbox.me/data/attachment/album/201611/02/101433wic3tztnd7o3oq0i.jpg&quot; alt=&quot;apfs-encryption-1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;在后斯诺登时代，加密成为众所关注的了。越来越多的苹果产品正在强调其系统安全性。内置强大的加密机制并不让人感到意外。包括 APFS 在内，苹果正在采用更加细致入微的加密方案，要么不加密，要么就将加密进行到底。用户可以使用单个密钥来为所有数据加密，或者使用多个加密密钥分别锁定单个文件和文件夹。当然，你也可以不加密，只要你对坏蛋无所忌惮。&lt;/p&gt;
+
+&lt;h3 id=&quot;固态硬盘和闪存优化&quot;&gt;固态硬盘和闪存优化&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://dn-linuxcn.qbox.me/data/attachment/album/201611/02/101451kdd7r0u4t5z1ur7a.jpg&quot; alt=&quot;apfs-ssd-storage&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;闪存优化已经被列为 APFS 的一个亮点功能，不过它的实现并没有那么振奋人心。苹果选择将一些典型的固态硬盘芯片的处理功能迁移到操作系统，而没有深度系统集成的优势。这更像是让文件系统感知固态硬盘，而不是为它们做优化。&lt;/p&gt;
+
+&lt;h3 id=&quot;动态分区调整&quot;&gt;动态分区调整&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://dn-linuxcn.qbox.me/data/attachment/album/201611/02/101506abizvkdckpjbrkg4.jpg&quot; alt=&quot;apfs-partition-resizing&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;APFS 驱动器的逻辑分区可以动态调整自身大小。用户只需指定所需分区的数量，然后文件系统会在运行时进行磁盘分配。每个分区只占用其用于存储文件的磁盘空间。剩余的磁盘空间会由任何分区获取。这种设计很整洁，不过比起其它文件系统，这更像是元文件夹。&lt;/p&gt;
+
+&lt;h3 id=&quot;结论&quot;&gt;结论&lt;/h3&gt;
+
+&lt;p&gt;这是否重要？对于开发者和高级用户来说真是棒极了。对于一般的 Mac 用户应该没有太多的外部差异。虽然升级是重大的举措，但仍然存在一些缺失的部分。本地压缩显然还没有，对用户数据进行的校验也没有。当然，2017 年还没到，一切皆有可能，让我们拭目以待。&lt;/p&gt;
+
+&lt;h3 id=&quot;reference&quot;&gt;Reference&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.maketecheasier.com/apple-file-system-better-than-hfs/&quot;&gt;Apple File System better than HFS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Tue, 01 Nov 2016 23:00:00 +0000</pubDate>
+        <link>https://mars.js.org/what-is-apple-file-system-and-why-is-it-better-than-hfs/</link>
+        <guid isPermaLink="true">https://mars.js.org/what-is-apple-file-system-and-why-is-it-better-than-hfs/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

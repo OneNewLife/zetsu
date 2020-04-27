@@ -1,0 +1,91 @@
+<!DOCTYPE html> <html lang="pt-br"> <head> <meta charset="utf-8"> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <meta name="viewport" content="width=device-width, initial-scale=1"> <title> BigPipe：高性能的加载方案 &bull; Mars Blog </title> <meta name="description" content="What?"> <link rel="stylesheet" href="/css/main.css"> <link rel="canonical" href="https://mars.js.org/bigpipe/"> <link rel="alternate" type="application/rss+xml" title="Mars Blog" href="https://mars.js.org/feed.xml" /> </head> <body class="single"> <main class="main"> <header class="header"> <div class="overlay"> <div style="padding: 0 1em;"> <h1 class="title"> <a href="/">Mars Blog</a> </h1> <nav class="navbar"> <a href="#" class="menu-icon"> <span></span> <span></span> <span></span> </a> <ul class="nav"> <li><a href="/">Home</a></li> <li><a href="/archive.html">Archive</a></li> </ul> </nav> </div> </div> </header> <article class="post container card"> <header class="post-header"> <h1 class="post-title">BigPipe：高性能的加载方案</h1> <span class="post-meta"> <time class="post-date" datetime="2016-04-21">Apr 21, 2016</time> <span class="post-author">by Mars Wong</span> </span> </header> <div class="post-content"> <h3 id="what">What?</h3> <p>BigPipe 是 Facebook 工程师蒋长浩于 2010 年的 Velocity 大会上分享的一个议题，它的提出主要是为了解决重数据页面的加载速度问题，这在业界引起了巨大的反响。</p> <p>BigPipe 是一个重新设计的基础动态网页体系，它将传统的网页分解成了一个个 pagelet。先向客户端输出页面的基础框架（钢筋房），然后再按需加载页面所有的数据（装修），最终完成整个页面的渲染。虽然说这是一个重构的基础动态网页体系，但是我们不需要改变现有的通信机制（B/S），因为它完全是基于 PHP 和 Javascript 来实现的（如今 Node 也可以实现了）。</p> <h3 id="why">Why?</h3> <p>在知道为什么需要 BigPipe 之前，我们先来了解传统的动态网页体系，这是一个十几年的老家伙了，它的服务质量已经无法满足今天用户的需求了。在传统的体系下，用户请求的生命周期如下：</p> <ol> <li>浏览器向服务器发送一个请求</li> <li>服务器解析请求，从存储中读取数据，然后制定一个 HTML 文本，并通过一个 HTTP 响应将其发送到浏览器</li> <li>HTTP 响应通过网络传输到服务器</li> <li>浏览器解析来自服务器的响应，使用 HTML 文本构建了一个 DOM，并下载引用的 CSS 文件和 Javascript 文件</li> <li>CSS 文件下载完之后，浏览器会解析它们，并将它们应用到 DOM</li> <li>Javascript 文件下载完之后，浏览器会解析并执行它们</li> </ol> <p>传统的模式面临着一个很大的问题——无法并行请求。为了解决这个问题，Ajax 应运而生。虽然说 Ajax 解决了并行请求的问题，但是 Ajax 在庞大的数据面前有很致命的缺点：服务器负载高、浏览器资源浪费以及用户体验不友好。而 BigPipe 很好地规避了 Ajax 的缺点。</p> <p><img src="../images/2016.4.21/performance_comparation.jpg" alt="Performance Comparation" /></p> <p>“怎么让客户机跑得更快？”是一个永恒的话题。可以看到 BigPipe 与传统模式相比性能大大提升了，最显著的是用户感知延迟的时间缩短了一半，使用 BigPipe 来构建复杂的数据页面也自然而然成为了新的趋势。</p> <h3 id="how">How?</h3> <p>BigPipe 到底是怎样运作的呢？</p> <p>为了充分利用 browser 和 server 之间的并行性，BigPipe 首先将网页划分成多个可调用的模块—— pagelets。正如微处理器的流水生产线划分的指令一样，BigPipe 也将页面的生成过程划分成几个阶段：</p> <ol> <li>解析请求：服务器解析和 http 请求的完整性检查</li> <li>获取数据：服务器从存储层获取数据</li> <li>生成标记：服务器生成响应的 html 标记</li> <li>网络传输：响应从服务器传输到浏览器</li> <li>加载 CSS：浏览器加载页面引用的 CSS 文件</li> <li>构建 DOM 和应用 CSS：浏览器先构建好 DOM tree，然后再应用样式</li> <li>加载 Javascript：浏览器加载页面引用的 Javascript 文件</li> <li>执行 Javascript：浏览器逐行解析执行 Javascript 代码</li> </ol> <p>可以看到，前三步工作交给服务器，后面四步交给浏览器。每个 pagelet 都必须要经历这 8 个阶段，看起来工作似乎很繁重，但 BigPipe 可以让多个 pagelet 在不同的阶段同时执行，例如浏览器可以在加载一个 pagelet 所需要的 CSS 同时，服务器正在生成新的 pagelet，并且另一个 pagelet 的内容也正在逐步显示。这里要注意的一点是：CSS 的优先级是高于 Javascript 的，BigPipe 不会在所有的 CSS 加载完毕之前加载任何的 Javascript 文件，这样保证了页面框架的完整性。</p> <p>下面用 BigPipe 来构建一个页面：</p> <div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="cp">&lt;!DOCTYPE html&gt;</span>
+<span class="nt">&lt;html&gt;</span>
+<span class="nt">&lt;head&gt;</span>
+  <span class="nt">&lt;title&gt;</span>Hello BigPipe<span class="nt">&lt;/title&gt;</span>
+  <span class="nt">&lt;script&gt;</span>
+    <span class="c1">// 一个将html标记插入到特定的pagelet的函数</span>
+    <span class="kd">function</span> <span class="nx">inject</span><span class="p">(</span><span class="nx">id</span><span class="p">,</span> <span class="nx">content</span><span class="p">)</span> <span class="p">{</span>
+      <span class="kd">var</span> <span class="nx">elem</span> <span class="o">=</span> <span class="nb">document</span><span class="p">.</span><span class="nx">getElementById</span><span class="p">(</span><span class="nx">id</span><span class="p">);</span>
+      <span class="k">if</span> <span class="p">(</span><span class="o">!</span><span class="nx">elem</span><span class="p">)</span> <span class="p">{</span>
+        <span class="k">return</span><span class="p">;</span>
+      <span class="p">}</span>
+      <span class="nx">elem</span><span class="p">.</span><span class="nx">innerHTML</span> <span class="o">=</span> <span class="nx">content</span><span class="p">;</span>
+    <span class="p">}</span>
+  <span class="nt">&lt;/script&gt;</span>
+<span class="nt">&lt;/head&gt;</span>
+<span class="nt">&lt;body&gt;</span>
+  <span class="c">&lt;!-- 页面布局框架，每个div都是一个pagelet --&gt;</span>
+  <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"main"</span><span class="nt">&gt;</span>
+    <span class="nt">&lt;div</span> <span class="na">id=</span><span class="s">"head1"</span> <span class="na">class=</span><span class="s">"module"</span><span class="nt">&gt;&lt;/div&gt;</span>
+    <span class="nt">&lt;div</span> <span class="na">id=</span><span class="s">"head2"</span> <span class="na">class=</span><span class="s">"module"</span><span class="nt">&gt;&lt;/div&gt;</span>
+    <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"left borderless"</span><span class="nt">&gt;</span>
+      <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"left1 module"</span><span class="nt">&gt;&lt;/div&gt;</span>
+      <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"left2 module"</span><span class="nt">&gt;&lt;/div&gt;</span>
+    <span class="nt">&lt;/div&gt;</span>
+    <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"right borderless"</span><span class="nt">&gt;</span>
+      <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"right1 module"</span><span class="nt">&gt;&lt;/div&gt;</span>
+      <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"right2 module"</span><span class="nt">&gt;&lt;/div&gt;</span>
+    <span class="nt">&lt;/div&gt;</span>
+    <span class="nt">&lt;div</span> <span class="na">id=</span><span class="s">"foot"</span> <span class="na">class=</span><span class="s">"module"</span><span class="nt">&gt;&lt;/div&gt;</span>
+  <span class="nt">&lt;/div&gt;</span>
+
+  <span class="c">&lt;!-- 持续的数据输出和渲染 --&gt;</span>
+  <span class="cp">&lt;?php</span>
+    <span class="nb">ob_flush</span><span class="p">();</span>
+    <span class="nb">flush</span><span class="p">();</span>
+    <span class="nb">sleep</span><span class="p">(</span><span class="mi">1</span><span class="p">);</span>
+  <span class="cp">?&gt;</span>
+  <span class="nt">&lt;script&gt;</span>
+    <span class="nx">inject</span><span class="p">(</span><span class="s1">'head1'</span><span class="p">,</span> <span class="s1">'&lt;div class="content"&gt;Header&lt;/div&gt;'</span><span class="p">);</span>
+  <span class="nt">&lt;/script&gt;</span>
+  <span class="cp">&lt;?php</span>
+    <span class="nb">ob_flush</span><span class="p">();</span>
+    <span class="nb">flush</span><span class="p">();</span>
+    <span class="nb">sleep</span><span class="p">(</span><span class="mi">1</span><span class="p">);</span>
+  <span class="cp">?&gt;</span>
+  <span class="nt">&lt;script&gt;</span>
+    <span class="nx">inject</span><span class="p">(</span><span class="s1">'left1'</span><span class="p">,</span> <span class="s1">'&lt;div class="content"&gt;Category Chooser&lt;/div&gt;'</span><span class="p">);</span>
+  <span class="nt">&lt;/script&gt;</span>
+  <span class="cp">&lt;?php</span>
+    <span class="nb">ob_flush</span><span class="p">();</span>
+    <span class="nb">flush</span><span class="p">();</span>
+    <span class="nb">sleep</span><span class="p">(</span><span class="mi">1</span><span class="p">);</span>
+  <span class="cp">?&gt;</span>
+  <span class="nt">&lt;script&gt;</span>
+    <span class="nx">inject</span><span class="p">(</span><span class="s1">'left2'</span><span class="p">,</span> <span class="s1">'&lt;div class="content"&gt;My eBay&lt;/div&gt;'</span><span class="p">);</span>
+  <span class="nt">&lt;/script&gt;</span>
+  <span class="cp">&lt;?php</span>
+    <span class="nb">ob_flush</span><span class="p">();</span>
+    <span class="nb">flush</span><span class="p">();</span>
+    <span class="nb">sleep</span><span class="p">(</span><span class="mi">1</span><span class="p">);</span>
+  <span class="cp">?&gt;</span>
+  <span class="nt">&lt;script&gt;</span>
+    <span class="nx">inject</span><span class="p">(</span><span class="s1">'right2'</span><span class="p">,</span> <span class="s1">'&lt;div class="content"&gt;Stats&lt;/div&gt;'</span><span class="p">);</span>
+  <span class="nt">&lt;/script&gt;</span>
+  <span class="cp">&lt;?php</span>
+    <span class="nb">ob_flush</span><span class="p">();</span>
+    <span class="nb">flush</span><span class="p">();</span>
+    <span class="nb">sleep</span><span class="p">(</span><span class="mi">1</span><span class="p">);</span>
+  <span class="cp">?&gt;</span>
+  <span class="nt">&lt;script&gt;</span>
+    <span class="nx">inject</span><span class="p">(</span><span class="s1">'head2'</span><span class="p">,</span> <span class="s1">'&lt;div class="content"&gt;Rebates&lt;/div&gt;'</span><span class="p">);</span>
+  <span class="nt">&lt;/script&gt;</span>
+  <span class="cp">&lt;?php</span>
+    <span class="nb">ob_flush</span><span class="p">();</span>
+    <span class="nb">flush</span><span class="p">();</span>
+    <span class="nb">sleep</span><span class="p">(</span><span class="mi">1</span><span class="p">);</span>
+  <span class="cp">?&gt;</span>
+  <span class="nt">&lt;script&gt;</span>
+    <span class="nx">inject</span><span class="p">(</span><span class="s1">'foot'</span><span class="p">,</span> <span class="s1">'&lt;div class="content"&gt;Footer&lt;/div&gt;'</span><span class="p">);</span>
+  <span class="nt">&lt;/script&gt;</span>
+  <span class="cp">&lt;?php</span>
+    <span class="nb">ob_flush</span><span class="p">();</span>
+    <span class="nb">flush</span><span class="p">();</span>
+    <span class="nb">sleep</span><span class="p">(</span><span class="mi">1</span><span class="p">);</span>
+  <span class="cp">?&gt;</span>
+  <span class="nt">&lt;script&gt;</span>
+    <span class="nx">inject</span><span class="p">(</span><span class="s1">'right1'</span><span class="p">,</span> <span class="s1">'&lt;div class="content"&gt;Ad Rec&lt;/div&gt;'</span><span class="p">);</span>
+  <span class="nt">&lt;/script&gt;</span>
+<span class="nt">&lt;/body&gt;</span>
+<span class="nt">&lt;/html&gt;</span>
+</code></pre></div></div> <p>BigPipe 真正将网页布局和数据渲染分离了，它让用户感知到页面是活的。其中还涉及很多细节，这比单纯用模板去渲染页面要复杂多了。我们还需要大量的商业应用实践经验才能找到 BigPipe 的最佳实践。</p> <h3 id="reference">Reference</h3> <ul> <li><a href="https://www.facebook.com/notes/facebook-engineering/bigpipe-pipelining-web-pages-for-high-performance/389414033919/">BigPipe: Pipelining web pages for high performance</a></li> <li><a href="https://book.douban.com/subject/25768396/">深入浅出 Node.js</a></li> </ul> <aside class="share"> <span>Share this: </span> <a href="http://twitter.com/share?text=BigPipe：高性能的加载方案&amp;url=https://mars.js.org/bigpipe/&amp;hashtags=web,dev,blog,soudev&amp;via=nandomoreirame" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;"> <i class="fa fa-twitter-square"></i> </a> <a href="https://www.facebook.com/sharer/sharer.php?u=https://mars.js.org/bigpipe/" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;"> <i class="fa fa-facebook-square"></i> </a> </aside> </div> </article> <footer class="footer t-center"> <div class="container"> <div class="social-icons"> <ul class="text-left"> <li><a href="https://www.facebook.com/maaarswong" target="_blank"><i class="fa fa-facebook"></i></a></li> <li><a href="https://twitter.com/maaarswong" target="_blank"><i class="fa fa-twitter"></i></a></li> </ul> </div> <small> <a href=https://github.com/marswong target="_blank">Mars Wong</a> &copy; 2015 - 2020 All rights reserved. </small> <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"> <img alt="Creative Commons License" style="border-width: 0;margin: .5em auto;" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /> </a> </div> </footer> </main> <script src="/js/typed.min.js"></script> <script> window.onload = function () { new Typed('#motto', { strings: ['起风了，唯有努力生存'], contentType: 'html', typeSpeed: 100, showCursor: false }); } </script> </body> </html></body></html>
